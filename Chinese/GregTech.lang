@@ -1742,7 +1742,7 @@ languagefile {
     S:gt.blockmachines.hatch.dynamo.tier.06.name=低级能源驱动发电机舱
     S:gt.blockmachines.hatch.dynamo.tier.07.name=中级能源驱动发电机舱
     S:gt.blockmachines.hatch.dynamo.tier.08.name=高级能源驱动发电机舱
-    S:gt.blockmachines.hatch.dynamo.tier.09.name=Max发电机舱
+    S:gt.blockmachines.hatch.dynamo.tier.09.name=顶级能源驱动发电机舱
     S:gt.blockmachines.hatch.energy.tier.00.name=超低压能源输入舱
     S:gt.blockmachines.hatch.energy.tier.01.name=低压能源输入舱
     S:gt.blockmachines.hatch.energy.tier.02.name=中压能源输入舱
@@ -1752,7 +1752,7 @@ languagefile {
     S:gt.blockmachines.hatch.energy.tier.06.name=低级能源驱动能源输入舱
     S:gt.blockmachines.hatch.energy.tier.07.name=中级能源驱动能源输入舱
     S:gt.blockmachines.hatch.energy.tier.08.name=高级能源驱动能源输入舱
-    S:gt.blockmachines.hatch.energy.tier.09.name=Max能源输入舱
+    S:gt.blockmachines.hatch.energy.tier.09.name=顶级能源驱动能源输入舱
     S:gt.blockmachines.hatch.input.tier.00.name=输入口
     S:gt.blockmachines.hatch.input.tier.01.name=输入口
     S:gt.blockmachines.hatch.input.tier.02.name=输入口
@@ -1816,7 +1816,7 @@ languagefile {
     S:gt.blockmachines.hull.tier.06.name=低级能源驱动机械外壳
     S:gt.blockmachines.hull.tier.07.name=中级能源驱动机械外壳
     S:gt.blockmachines.hull.tier.08.name=高级能源驱动机械外壳
-    S:gt.blockmachines.hull.tier.09.name=Max机械外壳
+    S:gt.blockmachines.hull.tier.09.name=顶级能源驱动机械外壳
     S:gt.blockmachines.locker.tier.00.name=超低压充电箱
     S:gt.blockmachines.locker.tier.01.name=低压充电箱
     S:gt.blockmachines.locker.tier.02.name=中压充电箱
@@ -1828,12 +1828,12 @@ languagefile {
     S:gt.blockmachines.locker.tier.08.name=高级能源驱动充电箱
     S:gt.blockmachines.locker.tier.09.name=顶级能源驱动充电箱
     S:gt.blockmachines.multimachine.blastfurnace.name=工业高炉
-    S:gt.blockmachines.multimachine.boiler.bronze.name=巨型黄铜锅炉
-    S:gt.blockmachines.multimachine.boiler.steel.name=巨型钢锅炉
-    S:gt.blockmachines.multimachine.boiler.titanium.name=巨型钛锅炉
+    S:gt.blockmachines.multimachine.boiler.bronze.name=大型黄铜锅炉
+    S:gt.blockmachines.multimachine.boiler.steel.name=大型钢制锅炉
+    S:gt.blockmachines.multimachine.boiler.titanium.name=大型钛制锅炉
     S:gt.blockmachines.multimachine.boiler.tungstensteel.name=巨型钨钢锅炉
     S:gt.blockmachines.multimachine.implosioncompressor.name=内爆压缩机
-    S:gt.blockmachines.multimachine.multifurnace.name=Multi Smelter
+    S:gt.blockmachines.multimachine.multifurnace.name=大型熔炼炉
     S:gt.blockmachines.multimachine.vacuumfreezer.name=真空冷冻器
     S:gt.blockmachines.steelmachine.alloysmelter.name=高压合金炉
     S:gt.blockmachines.steelmachine.compressor.name=高压压缩器
