@@ -1,7 +1,8 @@
 # Configuration file
-
+# Compatible with GregTech 5.02d
+# Auth:TehporP & DeckerCHAN
 enablelangfile {
-    B:UseThisFileAsLanguageFile=false
+    B:UseThisFileAsLanguageFile=true
 }
 
 
