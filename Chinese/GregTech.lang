@@ -1678,7 +1678,7 @@ languagefile {
     S:gt.blockmachines.gt_frame_tritanium.name=三钛合金框架
     S:gt.blockmachines.gt_frame_tungsten.name=钨框架
     S:gt.blockmachines.gt_frame_tungstensteel.name=钨钢框架
-    S:gt.blockmachines.gt_frame_ultimet.name=Ultimet框架
+    S:gt.blockmachines.gt_frame_ultimet.name=哈氏合金框架
     S:gt.blockmachines.gt_frame_uranium.name=铀-238框架
     S:gt.blockmachines.gt_frame_uranium235.name=铀-235框架
     S:gt.blockmachines.gt_frame_vanadium.name=钒框架
@@ -2102,7 +2102,7 @@ languagefile {
     S:gt.itemores.1299.name=石头矿石
     S:gt.itemores.13.name=Oxygen矿石
     S:gt.itemores.1300.name=黄铜矿石
-    S:gt.itemores.1301.name=黄铜Ore
+    S:gt.itemores.1301.name=黄铜矿
     S:gt.itemores.1302.name=殷钢矿石
     S:gt.itemores.1303.name=琥珀金矿石
     S:gt.itemores.1304.name=锻铁矿石
@@ -2144,8 +2144,8 @@ languagefile {
     S:gt.itemores.1340.name=陨铁矿石
     S:gt.itemores.1341.name=陨钢矿石
     S:gt.itemores.1342.name=黑暗铁矿石
-    S:gt.itemores.1343.name=钴黄铜Ore
-    S:gt.itemores.1344.name=Ultimet矿石
+    S:gt.itemores.1343.name=钴黄铜矿
+    S:gt.itemores.1344.name=哈氏合金矿石
     S:gt.itemores.1345.name=韧铜矿石
     S:gt.itemores.1346.name=Fiery Blood矿石
     S:gt.itemores.1347.name=火石矿石
@@ -2280,7 +2280,7 @@ languagefile {
     S:gt.itemores.16129.name=小型号元素矿石
     S:gt.itemores.16299.name=小型石头矿石
     S:gt.itemores.16300.name=小型黄铜矿石
-    S:gt.itemores.16301.name=小型黄铜Ore
+    S:gt.itemores.16301.name=小型黄铜矿
     S:gt.itemores.16302.name=小型殷钢矿石
     S:gt.itemores.16303.name=小型琥珀金矿石
     S:gt.itemores.16304.name=小型锻铁矿石
@@ -2322,8 +2322,8 @@ languagefile {
     S:gt.itemores.16340.name=小型陨铁矿石
     S:gt.itemores.16341.name=小型陨钢矿石
     S:gt.itemores.16342.name=小型黑暗铁矿石
-    S:gt.itemores.16343.name=小型钴黄铜Ore
-    S:gt.itemores.16344.name=小型Ultimet矿石
+    S:gt.itemores.16343.name=小型钴黄铜矿
+    S:gt.itemores.16344.name=小型哈氏合金矿石
     S:gt.itemores.16345.name=小型韧铜矿石
     S:gt.itemores.16346.name=小型Fiery Blood矿石
     S:gt.itemores.16347.name=小型火石矿石
@@ -2644,7 +2644,7 @@ languagefile {
     S:gt.itemores.1723.name=Lin 种子油矿石
     S:gt.itemores.17299.name=小型石头矿石
     S:gt.itemores.17300.name=小型黄铜矿石
-    S:gt.itemores.17301.name=小型黄铜Ore
+    S:gt.itemores.17301.name=小型黄铜矿
     S:gt.itemores.17302.name=小型殷钢矿石
     S:gt.itemores.17303.name=小型琥珀金矿石
     S:gt.itemores.17304.name=小型锻铁矿石
@@ -2686,8 +2686,8 @@ languagefile {
     S:gt.itemores.17340.name=小型陨铁矿石
     S:gt.itemores.17341.name=小型陨钢矿石
     S:gt.itemores.17342.name=小型黑暗铁矿石
-    S:gt.itemores.17343.name=小型钴黄铜Ore
-    S:gt.itemores.17344.name=小型Ultimet矿石
+    S:gt.itemores.17343.name=小型钴黄铜矿
+    S:gt.itemores.17344.name=小型哈氏合金矿石
     S:gt.itemores.17345.name=小型韧铜矿石
     S:gt.itemores.17346.name=小型Fiery Blood矿石
     S:gt.itemores.17347.name=小型火石矿石
@@ -3015,7 +3015,7 @@ languagefile {
     S:gt.itemores.18299.name=小型石头矿石
     S:gt.itemores.1830.name=方铅矿矿石
     S:gt.itemores.18300.name=小型黄铜矿石
-    S:gt.itemores.18301.name=小型黄铜Ore
+    S:gt.itemores.18301.name=小型黄铜矿
     S:gt.itemores.18302.name=小型殷钢矿石
     S:gt.itemores.18303.name=小型琥珀金矿石
     S:gt.itemores.18304.name=小型锻铁矿石
@@ -3062,7 +3062,7 @@ languagefile {
     S:gt.itemores.18341.name=小型陨钢矿石
     S:gt.itemores.18342.name=小型黑暗铁矿石
     S:gt.itemores.18343.name=小型钴黄铜矿石
-    S:gt.itemores.18344.name=小型Ultimet矿石
+    S:gt.itemores.18344.name=小型哈氏合金矿石
     S:gt.itemores.18345.name=小型韧铜矿石
     S:gt.itemores.18346.name=小型Fiery Blood矿石
     S:gt.itemores.18347.name=小型火石矿石
@@ -3445,7 +3445,7 @@ languagefile {
     S:gt.itemores.19299.name=小型石头矿石
     S:gt.itemores.1930.name=褐铁矿矿石
     S:gt.itemores.19300.name=小型黄铜矿石
-    S:gt.itemores.19301.name=小型黄铜Ore
+    S:gt.itemores.19301.name=小型黄铜矿
     S:gt.itemores.19302.name=小型殷钢矿石
     S:gt.itemores.19303.name=小型琥珀金矿石
     S:gt.itemores.19304.name=小型锻铁矿石
@@ -3491,8 +3491,8 @@ languagefile {
     S:gt.itemores.19340.name=小型陨铁矿石
     S:gt.itemores.19341.name=小型陨钢矿石
     S:gt.itemores.19342.name=小型黑暗铁矿石
-    S:gt.itemores.19343.name=小型钴黄铜Ore
-    S:gt.itemores.19344.name=小型Ultimet矿石
+    S:gt.itemores.19343.name=小型钴黄铜矿
+    S:gt.itemores.19344.name=小型哈氏合金矿石
     S:gt.itemores.19345.name=小型韧铜矿石
     S:gt.itemores.19346.name=小型Fiery Blood矿石
     S:gt.itemores.19347.name=小型火石矿石
@@ -3828,7 +3828,7 @@ languagefile {
     S:gt.itemores.20299.name=小型石头矿石
     S:gt.itemores.2030.name=铬矿石
     S:gt.itemores.20300.name=小型黄铜矿石
-    S:gt.itemores.20301.name=小型黄铜Ore
+    S:gt.itemores.20301.name=小型黄铜矿
     S:gt.itemores.20302.name=小型殷钢矿石
     S:gt.itemores.20303.name=小型琥珀金矿石
     S:gt.itemores.20304.name=小型锻铁矿石
@@ -3874,8 +3874,8 @@ languagefile {
     S:gt.itemores.20340.name=小型陨铁矿石
     S:gt.itemores.20341.name=小型陨钢矿石
     S:gt.itemores.20342.name=小型黑暗铁矿石
-    S:gt.itemores.20343.name=小型钴黄铜Ore
-    S:gt.itemores.20344.name=小型Ultimet矿石
+    S:gt.itemores.20343.name=小型钴黄铜矿
+    S:gt.itemores.20344.name=小型哈氏合金矿石
     S:gt.itemores.20345.name=小型韧铜矿石
     S:gt.itemores.20346.name=小型Fiery Blood矿石
     S:gt.itemores.20347.name=小型火石矿石
@@ -4145,7 +4145,7 @@ languagefile {
     S:gt.itemores.2299.name=石头矿石
     S:gt.itemores.23.name=氯矿石
     S:gt.itemores.2300.name=黄铜矿石
-    S:gt.itemores.2301.name=黄铜Ore
+    S:gt.itemores.2301.name=黄铜矿
     S:gt.itemores.2302.name=殷钢矿石
     S:gt.itemores.2303.name=琥珀金矿石
     S:gt.itemores.2304.name=锻铁矿石
@@ -4187,8 +4187,8 @@ languagefile {
     S:gt.itemores.2340.name=陨铁矿石
     S:gt.itemores.2341.name=陨钢矿石
     S:gt.itemores.2342.name=黑暗铁矿石
-    S:gt.itemores.2343.name=钴黄铜Ore
-    S:gt.itemores.2344.name=Ultimet矿石
+    S:gt.itemores.2343.name=钴黄铜矿
+    S:gt.itemores.2344.name=哈氏合金矿石
     S:gt.itemores.2345.name=韧铜矿石
     S:gt.itemores.2346.name=Fiery Blood矿石
     S:gt.itemores.2347.name=火石矿石
@@ -4422,7 +4422,7 @@ languagefile {
     S:gt.itemores.3006.name=锂矿石
     S:gt.itemores.3008.name=铍矿石
     S:gt.itemores.3009.name=硼矿石
-    S:gt.itemores.301.name=黄铜Ore
+    S:gt.itemores.301.name=黄铜矿
     S:gt.itemores.3010.name=碳矿石
     S:gt.itemores.3012.name=氮矿石
     S:gt.itemores.3013.name=Oxygen矿石
@@ -4526,7 +4526,7 @@ languagefile {
     S:gt.itemores.33.name=钴矿石
     S:gt.itemores.330.name=神秘锭矿石
     S:gt.itemores.3300.name=黄铜矿石
-    S:gt.itemores.3301.name=黄铜Ore
+    S:gt.itemores.3301.name=黄铜矿
     S:gt.itemores.3302.name=殷钢矿石
     S:gt.itemores.3303.name=琥珀金矿石
     S:gt.itemores.3304.name=锻铁矿石
@@ -4572,8 +4572,8 @@ languagefile {
     S:gt.itemores.3340.name=陨铁矿石
     S:gt.itemores.3341.name=陨钢矿石
     S:gt.itemores.3342.name=黑暗铁矿石
-    S:gt.itemores.3343.name=钴黄铜Ore
-    S:gt.itemores.3344.name=Ultimet矿石
+    S:gt.itemores.3343.name=钴黄铜矿
+    S:gt.itemores.3344.name=哈氏合金矿石
     S:gt.itemores.3345.name=韧铜矿石
     S:gt.itemores.3346.name=Fiery Blood矿石
     S:gt.itemores.3347.name=火石矿石
@@ -4592,8 +4592,8 @@ languagefile {
     S:gt.itemores.340.name=陨铁矿石
     S:gt.itemores.341.name=陨钢矿石
     S:gt.itemores.342.name=黑暗铁矿石
-    S:gt.itemores.343.name=钴黄铜Ore
-    S:gt.itemores.344.name=Ultimet矿石
+    S:gt.itemores.343.name=钴黄铜矿
+    S:gt.itemores.344.name=哈氏合金矿石
     S:gt.itemores.345.name=韧铜矿石
     S:gt.itemores.346.name=Fiery Blood矿石
     S:gt.itemores.347.name=火石矿石
@@ -4894,7 +4894,7 @@ languagefile {
     S:gt.itemores.4299.name=石头矿石
     S:gt.itemores.43.name=铷矿石
     S:gt.itemores.4300.name=黄铜矿石
-    S:gt.itemores.4301.name=黄铜Ore
+    S:gt.itemores.4301.name=黄铜矿
     S:gt.itemores.4302.name=殷钢矿石
     S:gt.itemores.4303.name=琥珀金矿石
     S:gt.itemores.4304.name=锻铁矿石
@@ -4936,8 +4936,8 @@ languagefile {
     S:gt.itemores.4340.name=陨铁矿石
     S:gt.itemores.4341.name=陨钢矿石
     S:gt.itemores.4342.name=黑暗铁矿石
-    S:gt.itemores.4343.name=钴黄铜Ore
-    S:gt.itemores.4344.name=Ultimet矿石
+    S:gt.itemores.4343.name=钴黄铜矿
+    S:gt.itemores.4344.name=哈氏合金矿石
     S:gt.itemores.4345.name=韧铜矿石
     S:gt.itemores.4346.name=Fiery Blood矿石
     S:gt.itemores.4347.name=火石矿石
@@ -5739,7 +5739,7 @@ languagefile {
     S:gt.metaitem.01.11342.tooltip=
     S:gt.metaitem.01.11343.name=钴黄铜锭
     S:gt.metaitem.01.11343.tooltip=(ZnCu3)7AlCo
-    S:gt.metaitem.01.11344.name=Ultimet锭
+    S:gt.metaitem.01.11344.name=哈氏合金锭
     S:gt.metaitem.01.11344.tooltip=Co5Cr2NiMo
     S:gt.metaitem.01.11345.name=韧铜锭
     S:gt.metaitem.01.11345.tooltip=Cu
@@ -5797,7 +5797,7 @@ languagefile {
     S:gt.metaitem.01.12326.tooltip=Nq+
     S:gt.metaitem.01.12327.name=炙热的硅岩锭
     S:gt.metaitem.01.12327.tooltip=NqX
-    S:gt.metaitem.01.12344.name=炙热的Ultimet锭
+    S:gt.metaitem.01.12344.name=炙热的哈氏合金锭
     S:gt.metaitem.01.12344.tooltip=Co5Cr2NiMo
     S:gt.metaitem.01.12352.name=炙热的黑黄铜锭
     S:gt.metaitem.01.12352.tooltip=AuAgCu3
@@ -5893,7 +5893,7 @@ languagefile {
     S:gt.metaitem.01.1342.tooltip=
     S:gt.metaitem.01.1343.name=一小撮钴黄铜粉末
     S:gt.metaitem.01.1343.tooltip=(ZnCu3)7AlCo
-    S:gt.metaitem.01.1344.name=一小撮Ultimet粉末
+    S:gt.metaitem.01.1344.name=一小撮哈氏合金粉末
     S:gt.metaitem.01.1344.tooltip=Co5Cr2NiMo
     S:gt.metaitem.01.1345.name=一小撮韧铜粉末
     S:gt.metaitem.01.1345.tooltip=Cu
@@ -6205,7 +6205,7 @@ languagefile {
     S:gt.metaitem.01.17342.tooltip=
     S:gt.metaitem.01.17343.name=钴黄铜板
     S:gt.metaitem.01.17343.tooltip=(ZnCu3)7AlCo
-    S:gt.metaitem.01.17344.name=Ultimet板
+    S:gt.metaitem.01.17344.name=哈氏合金板
     S:gt.metaitem.01.17344.tooltip=Co5Cr2NiMo
     S:gt.metaitem.01.17345.name=韧铜板
     S:gt.metaitem.01.17345.tooltip=Cu
@@ -7027,7 +7027,7 @@ languagefile {
     S:gt.metaitem.01.23342.tooltip=
     S:gt.metaitem.01.23343.name=钴黄铜杆
     S:gt.metaitem.01.23343.tooltip=(ZnCu3)7AlCo
-    S:gt.metaitem.01.23344.name=Ultimet杆
+    S:gt.metaitem.01.23344.name=哈氏合金杆
     S:gt.metaitem.01.23344.tooltip=Co5Cr2NiMo
     S:gt.metaitem.01.23345.name=韧铜杆
     S:gt.metaitem.01.23345.tooltip=Cu
@@ -7063,7 +7063,7 @@ languagefile {
     S:gt.metaitem.01.2342.tooltip=
     S:gt.metaitem.01.2343.name=钴黄铜粉末
     S:gt.metaitem.01.2343.tooltip=(ZnCu3)7AlCo
-    S:gt.metaitem.01.2344.name=Ultimet粉末
+    S:gt.metaitem.01.2344.name=哈氏合金粉末
     S:gt.metaitem.01.2344.tooltip=Co5Cr2NiMo
     S:gt.metaitem.01.2345.name=韧铜粉末
     S:gt.metaitem.01.2345.tooltip=Cu
@@ -7403,7 +7403,7 @@ languagefile {
     S:gt.metaitem.01.25342.tooltip=
     S:gt.metaitem.01.25343.name=钴黄铜Round
     S:gt.metaitem.01.25343.tooltip=(ZnCu3)7AlCo
-    S:gt.metaitem.01.25344.name=Ultimet垫片
+    S:gt.metaitem.01.25344.name=哈氏合金垫片
     S:gt.metaitem.01.25344.tooltip=Co5Cr2NiMo
     S:gt.metaitem.01.25345.name=韧铜垫片
     S:gt.metaitem.01.25345.tooltip=Cu
@@ -7653,7 +7653,7 @@ languagefile {
     S:gt.metaitem.01.26342.tooltip=
     S:gt.metaitem.01.26343.name=钴黄铜螺栓
     S:gt.metaitem.01.26343.tooltip=(ZnCu3)7AlCo
-    S:gt.metaitem.01.26344.name=Ultimet螺栓
+    S:gt.metaitem.01.26344.name=哈氏合金螺栓
     S:gt.metaitem.01.26344.tooltip=Co5Cr2NiMo
     S:gt.metaitem.01.26345.name=韧铜螺栓
     S:gt.metaitem.01.26345.tooltip=Cu
@@ -7885,7 +7885,7 @@ languagefile {
     S:gt.metaitem.01.27342.tooltip=
     S:gt.metaitem.01.27343.name=钴黄铜螺丝
     S:gt.metaitem.01.27343.tooltip=(ZnCu3)7AlCo
-    S:gt.metaitem.01.27344.name=Ultimet螺丝
+    S:gt.metaitem.01.27344.name=哈氏合金螺丝
     S:gt.metaitem.01.27344.tooltip=Co5Cr2NiMo
     S:gt.metaitem.01.27345.name=韧铜螺丝
     S:gt.metaitem.01.27345.tooltip=Cu
@@ -8173,7 +8173,7 @@ languagefile {
     S:gt.metaitem.01.28342.tooltip=
     S:gt.metaitem.01.28343.name=钴黄铜环
     S:gt.metaitem.01.28343.tooltip=(ZnCu3)7AlCo
-    S:gt.metaitem.01.28344.name=Ultimet环
+    S:gt.metaitem.01.28344.name=哈氏合金环
     S:gt.metaitem.01.28344.tooltip=Co5Cr2NiMo
     S:gt.metaitem.01.28345.name=韧铜环
     S:gt.metaitem.01.28345.tooltip=Cu
@@ -8583,7 +8583,7 @@ languagefile {
     S:gt.metaitem.01.29342.tooltip=
     S:gt.metaitem.01.29343.name=钴黄铜箔
     S:gt.metaitem.01.29343.tooltip=(ZnCu3)7AlCo
-    S:gt.metaitem.01.29344.name=Ultimet箔
+    S:gt.metaitem.01.29344.name=哈氏合金箔
     S:gt.metaitem.01.29344.tooltip=Co5Cr2NiMo
     S:gt.metaitem.01.29345.name=韧铜箔
     S:gt.metaitem.01.29345.tooltip=Cu
@@ -9433,7 +9433,7 @@ languagefile {
     S:gt.metaitem.01.342.tooltip=
     S:gt.metaitem.01.343.name=一小撮钴黄铜粉末
     S:gt.metaitem.01.343.tooltip=(ZnCu3)7AlCo
-    S:gt.metaitem.01.344.name=一小撮Ultimet粉末
+    S:gt.metaitem.01.344.name=一小撮哈氏合金粉末
     S:gt.metaitem.01.344.tooltip=Co5Cr2NiMo
     S:gt.metaitem.01.345.name=一小撮韧铜粉末
     S:gt.metaitem.01.345.tooltip=Cu
@@ -11981,7 +11981,7 @@ languagefile {
     S:gt.metaitem.01.9342.tooltip=
     S:gt.metaitem.01.9343.name=钴黄铜粒
     S:gt.metaitem.01.9343.tooltip=(ZnCu3)7AlCo
-    S:gt.metaitem.01.9344.name=Ultimet粒
+    S:gt.metaitem.01.9344.name=哈氏合金粒
     S:gt.metaitem.01.9344.tooltip=Co5Cr2NiMo
     S:gt.metaitem.01.9345.name=韧铜粒
     S:gt.metaitem.01.9345.tooltip=Cu
@@ -12196,7 +12196,7 @@ languagefile {
     S:gt.metaitem.02.10342.tooltip=
     S:gt.metaitem.02.10343.name=钴黄铜扳手顶
     S:gt.metaitem.02.10343.tooltip=((ZnCu3)7AlCo)4
-    S:gt.metaitem.02.10344.name=Ultimet扳手顶
+    S:gt.metaitem.02.10344.name=哈氏合金扳手顶
     S:gt.metaitem.02.10344.tooltip=(Co5Cr2NiMo)4
     S:gt.metaitem.02.10346.name=Fiery Blood扳手顶
     S:gt.metaitem.02.10346.tooltip=
@@ -12428,7 +12428,7 @@ languagefile {
     S:gt.metaitem.02.11342.tooltip=
     S:gt.metaitem.02.11343.name=钴黄铜万能铲头
     S:gt.metaitem.02.11343.tooltip=(ZnCu3)7AlCo
-    S:gt.metaitem.02.11344.name=Ultimet万能铲头
+    S:gt.metaitem.02.11344.name=哈氏合金万能铲头
     S:gt.metaitem.02.11344.tooltip=Co5Cr2NiMo
     S:gt.metaitem.02.11346.name=Fiery Blood万能铲头
     S:gt.metaitem.02.11346.tooltip=
@@ -12536,7 +12536,7 @@ languagefile {
     S:gt.metaitem.02.1342.tooltip=
     S:gt.metaitem.02.1343.name=钴黄铜镐头
     S:gt.metaitem.02.1343.tooltip=((ZnCu3)7AlCo)3
-    S:gt.metaitem.02.1344.name=Ultimet镐头
+    S:gt.metaitem.02.1344.name=哈氏合金镐头
     S:gt.metaitem.02.1344.tooltip=(Co5Cr2NiMo)3
     S:gt.metaitem.02.1346.name=Fiery Blood镐头
     S:gt.metaitem.02.1346.tooltip=
@@ -12756,7 +12756,7 @@ languagefile {
     S:gt.metaitem.02.2342.tooltip=
     S:gt.metaitem.02.2343.name=钴黄铜铲头
     S:gt.metaitem.02.2343.tooltip=(ZnCu3)7AlCo
-    S:gt.metaitem.02.2344.name=Ultimet铲头
+    S:gt.metaitem.02.2344.name=哈氏合金铲头
     S:gt.metaitem.02.2344.tooltip=Co5Cr2NiMo
     S:gt.metaitem.02.2346.name=Fiery Blood铲头
     S:gt.metaitem.02.2346.tooltip=
@@ -12996,7 +12996,7 @@ languagefile {
     S:gt.metaitem.02.31338.tooltip=(Fe9(?3Ma)9Au)8
     S:gt.metaitem.02.31343.name=钴黄铜齿轮
     S:gt.metaitem.02.31343.tooltip=((ZnCu3)7AlCo)4
-    S:gt.metaitem.02.31344.name=Ultimet齿轮
+    S:gt.metaitem.02.31344.name=哈氏合金齿轮
     S:gt.metaitem.02.31344.tooltip=(Co5Cr2NiMo)4
     S:gt.metaitem.02.31345.name=韧铜齿轮
     S:gt.metaitem.02.31345.tooltip=Cu4
@@ -13200,7 +13200,7 @@ languagefile {
     S:gt.metaitem.02.3342.tooltip=
     S:gt.metaitem.02.3343.name=钴黄铜斧头
     S:gt.metaitem.02.3343.tooltip=((ZnCu3)7AlCo)3
-    S:gt.metaitem.02.3344.name=Ultimet斧头
+    S:gt.metaitem.02.3344.name=哈氏合金斧头
     S:gt.metaitem.02.3344.tooltip=(Co5Cr2NiMo)3
     S:gt.metaitem.02.3346.name=Fiery Blood斧头
     S:gt.metaitem.02.3346.tooltip=
@@ -13238,7 +13238,7 @@ languagefile {
     S:gt.metaitem.02.342.tooltip=
     S:gt.metaitem.02.343.name=钴黄铜剑刃
     S:gt.metaitem.02.343.tooltip=((ZnCu3)7AlCo)2
-    S:gt.metaitem.02.344.name=Ultimet剑刃
+    S:gt.metaitem.02.344.name=哈氏合金剑刃
     S:gt.metaitem.02.344.tooltip=(Co5Cr2NiMo)2
     S:gt.metaitem.02.346.name=Fiery Blood剑刃
     S:gt.metaitem.02.346.tooltip=
@@ -13456,7 +13456,7 @@ languagefile {
     S:gt.metaitem.02.4342.tooltip=
     S:gt.metaitem.02.4343.name=钴黄铜锄头
     S:gt.metaitem.02.4343.tooltip=((ZnCu3)7AlCo)2
-    S:gt.metaitem.02.4344.name=Ultimet锄头
+    S:gt.metaitem.02.4344.name=哈氏合金锄头
     S:gt.metaitem.02.4344.tooltip=(Co5Cr2NiMo)2
     S:gt.metaitem.02.4346.name=Fiery Blood锄头
     S:gt.metaitem.02.4346.tooltip=
@@ -13714,7 +13714,7 @@ languagefile {
     S:gt.metaitem.02.5342.tooltip=
     S:gt.metaitem.02.5343.name=钴黄铜锤头
     S:gt.metaitem.02.5343.tooltip=((ZnCu3)7AlCo)6
-    S:gt.metaitem.02.5344.name=Ultimet锤头
+    S:gt.metaitem.02.5344.name=哈氏合金锤头
     S:gt.metaitem.02.5344.tooltip=(Co5Cr2NiMo)6
     S:gt.metaitem.02.5346.name=Fiery Blood锤头
     S:gt.metaitem.02.5346.tooltip=
@@ -13944,7 +13944,7 @@ languagefile {
     S:gt.metaitem.02.6342.tooltip=
     S:gt.metaitem.02.6343.name=钴黄铜锉刀头
     S:gt.metaitem.02.6343.tooltip=((ZnCu3)7AlCo)2
-    S:gt.metaitem.02.6344.name=Ultimet锉刀头
+    S:gt.metaitem.02.6344.name=哈氏合金锉刀头
     S:gt.metaitem.02.6344.tooltip=(Co5Cr2NiMo)2
     S:gt.metaitem.02.6346.name=Fiery Blood锉刀头
     S:gt.metaitem.02.6346.tooltip=
@@ -14146,7 +14146,7 @@ languagefile {
     S:gt.metaitem.02.7342.tooltip=
     S:gt.metaitem.02.7343.name=钴黄铜锯刃
     S:gt.metaitem.02.7343.tooltip=((ZnCu3)7AlCo)2
-    S:gt.metaitem.02.7344.name=Ultimet锯刃
+    S:gt.metaitem.02.7344.name=哈氏合金锯刃
     S:gt.metaitem.02.7344.tooltip=(Co5Cr2NiMo)2
     S:gt.metaitem.02.7346.name=Fiery Blood锯刃
     S:gt.metaitem.02.7346.tooltip=
@@ -14364,7 +14364,7 @@ languagefile {
     S:gt.metaitem.02.8342.tooltip=
     S:gt.metaitem.02.8343.name=钴黄铜钻头
     S:gt.metaitem.02.8343.tooltip=((ZnCu3)7AlCo)4
-    S:gt.metaitem.02.8344.name=Ultimet钻头
+    S:gt.metaitem.02.8344.name=哈氏合金钻头
     S:gt.metaitem.02.8344.tooltip=(Co5Cr2NiMo)4
     S:gt.metaitem.02.8346.name=Fiery Blood钻头
     S:gt.metaitem.02.8346.tooltip=
@@ -14588,7 +14588,7 @@ languagefile {
     S:gt.metaitem.02.9342.tooltip=
     S:gt.metaitem.02.9343.name=钴黄铜电锯锯刃
     S:gt.metaitem.02.9343.tooltip=((ZnCu3)7AlCo)2
-    S:gt.metaitem.02.9344.name=Ultimet电锯锯刃
+    S:gt.metaitem.02.9344.name=哈氏合金电锯锯刃
     S:gt.metaitem.02.9344.tooltip=(Co5Cr2NiMo)2
     S:gt.metaitem.02.9346.name=Fiery Blood电锯锯刃
     S:gt.metaitem.02.9346.tooltip=
@@ -14877,7 +14877,7 @@ languagefile {
     S:gt.metaitem.03.1342.tooltip=
     S:gt.metaitem.03.1343.name=一箱钴黄铜锭
     S:gt.metaitem.03.1343.tooltip=(ZnCu3)7AlCo
-    S:gt.metaitem.03.1344.name=一箱Ultimet锭
+    S:gt.metaitem.03.1344.name=一箱哈氏合金锭
     S:gt.metaitem.03.1344.tooltip=Co5Cr2NiMo
     S:gt.metaitem.03.1345.name=一箱韧铜锭
     S:gt.metaitem.03.1345.tooltip=Cu
@@ -15293,7 +15293,7 @@ languagefile {
     S:gt.metaitem.03.3342.tooltip=
     S:gt.metaitem.03.3343.name=一箱钴黄铜板
     S:gt.metaitem.03.3343.tooltip=(ZnCu3)7AlCo
-    S:gt.metaitem.03.3344.name=一箱Ultimet板
+    S:gt.metaitem.03.3344.name=一箱哈氏合金板
     S:gt.metaitem.03.3344.tooltip=Co5Cr2NiMo
     S:gt.metaitem.03.3345.name=一箱韧铜板
     S:gt.metaitem.03.3345.tooltip=Cu
@@ -15333,7 +15333,7 @@ languagefile {
     S:gt.metaitem.03.342.tooltip=
     S:gt.metaitem.03.343.name=一箱钴黄铜粉末
     S:gt.metaitem.03.343.tooltip=(ZnCu3)7AlCo
-    S:gt.metaitem.03.344.name=一箱Ultimet粉末
+    S:gt.metaitem.03.344.name=一箱哈氏合金粉末
     S:gt.metaitem.03.344.tooltip=Co5Cr2NiMo
     S:gt.metaitem.03.345.name=一箱韧铜粉末
     S:gt.metaitem.03.345.tooltip=Cu
