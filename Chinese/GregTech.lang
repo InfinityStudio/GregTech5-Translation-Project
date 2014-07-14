@@ -1131,7 +1131,7 @@ languagefile {
     S:fluid.nitrofuel=硝基柴油
     S:fluid.nitrogen=氮
     S:fluid.nitrogendioxide=二氧化氮
-    S:fluid.钠persulfate=过硫酸钠
+    S:fluid.sodiumpersulfate=过硫酸钠
     S:fluid.steam=蒸汽
     S:fluid.tritium=氚
     S:fluid.uuamplifier=UU物质
@@ -1579,7 +1579,7 @@ languagefile {
     S:gt.blockmachines.gt_frame_annealedcopper.name=韧铜框架
     S:gt.blockmachines.gt_frame_antimony.name=锑框架
     S:gt.blockmachines.gt_frame_astralsilver.name=陨银框架
-    S:gt.blockmachines.gt_frame_电池alloy.name=电池合金框架
+    S:gt.blockmachines.gt_frame_batteryalloy.name=电池合金框架
     S:gt.blockmachines.gt_frame_beryllium.name=铍框架
     S:gt.blockmachines.gt_frame_bismuth.name=铋框架
     S:gt.blockmachines.gt_frame_bismuthbronze.name=铋黄铜框架
