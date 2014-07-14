@@ -16064,19 +16064,19 @@ languagefile {
     S:gt.metatool.01.9.tooltip=你要给它充电
     S:gt.metatool.01.name=Generated Item
     S:gt.nomobspawnsonthisblock=生物不会在这个方块上生成
-    S:gt.notileentityinthisblock=This is NOT a TileEntity!
-    S:gt.research.page.1.GT_CRYSTALLISATION=Sometimes when processing your Crystal Shards they become a pile of Dust instead of the mostly required Shard.<BR><BR>You have finally found a way to reverse this Process by using Vitreus Essentia for recrystallising the Shards.
-    S:gt.research.page.1.GT_IRON_TO_STEEL=You have discovered a way of making Iron harder by just re-ordering its components.<BR><BR>This Method can be used to create a Material called Steel, which is used in many non-Thaumaturgic applications.
+    S:gt.notileentityinthisblock=这不是一个TileEntity!
+    S:gt.research.page.1.GT_CRYSTALLISATION=有的时候你在处理水晶碎片的时候水晶经常会变成粉末而不是想要碎片<BR><BR>但是终于你发现了使用Vitreus Essentia即可将碎片制作成水晶.
+    S:gt.research.page.1.GT_IRON_TO_STEEL=你发现了只需重置铁的组成方式即可让铁变得更加坚硬<BR><BR>这个方法可以用来制作一种叫做钢的玩意.这玩意在很多"科学"的场景下都会用得到!
     S:metaitem.01.tooltip.purify=扔进炼药炉来得到纯净的粉末
     S:tc.aspect.electrum=电力, 闪电
     S:tc.aspect.magneto=磁力, 引力
     S:tc.aspect.nebrisum=Cheatyness, 抢劫
     S:tc.aspect.radio=辐射
     S:tc.aspect.strontio=愚昧,无能
-    S:tc.research_name.GT_CRYSTALLISATION=Shard Recrystallisation
-    S:tc.research_name.GT_IRON_TO_STEEL=Steel Transmutation
-    S:tc.research_text.GT_CRYSTALLISATION=Fixing your precious Crystals
-    S:tc.research_text.GT_IRON_TO_STEEL=Transforming Iron to Steel
+    S:tc.research_name.GT_CRYSTALLISATION=碎片重置
+    S:tc.research_name.GT_IRON_TO_STEEL=钢化
+    S:tc.research_text.GT_CRYSTALLISATION=修复你最最珍贵的水晶!
+    S:tc.research_text.GT_IRON_TO_STEEL=将铁转化为钢
 }
 
 
