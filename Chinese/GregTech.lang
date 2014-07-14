@@ -7,6 +7,7 @@ enablelangfile {
 }
 
 
+
 languagefile {
     S:TileEntity_DESCRIPTION_1000_Index_0=工业高炉中央控制器
     S:TileEntity_DESCRIPTION_1000_Index_1=大小:3长3宽4高 (中空)
@@ -1103,6 +1104,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_5632_Index_0=物品传送量: 8 组/秒
     S:TileEntity_DESCRIPTION_5633_Index_0=物品传送量: 16 组/秒
     S:TileEntity_DESCRIPTION_5634_Index_0=物品传送量: 32 组/秒
+    S:TileEntity_DESCRIPTION_90_Index_0=大型机械之间无法共享方块!
     S:TileEntity_DESCRIPTION_91_Index_0=别把输出搞错了
     S:TileEntity_DESCRIPTION_92_Index_0=别把输出搞错了
     S:TileEntity_DESCRIPTION_93_Index_0=别把输出搞错了
@@ -2492,6 +2494,7 @@ languagefile {
     S:gt.itemores.16887.name=小型可可矿石
     S:gt.itemores.16888.name=小型咖啡矿石
     S:gt.itemores.16889.name=小型封印之木矿石
+    S:gt.itemores.16890.name=小型玻璃矿石
     S:gt.itemores.16900.name=小型芒硝矿石
     S:gt.itemores.16901.name=小型Mica矿石
     S:gt.itemores.16902.name=小型滑石
@@ -2856,6 +2859,7 @@ languagefile {
     S:gt.itemores.17887.name=小型可可矿石
     S:gt.itemores.17888.name=小型咖啡矿石
     S:gt.itemores.17889.name=小型封印之木矿石
+    S:gt.itemores.17890.name=小型玻璃矿石
     S:gt.itemores.17900.name=小型芒硝矿石
     S:gt.itemores.17901.name=小型Mica矿石
     S:gt.itemores.17902.name=小型滑石
@@ -3286,6 +3290,8 @@ languagefile {
     S:gt.itemores.18888.name=小型咖啡矿石
     S:gt.itemores.18889.name=小型封印之木矿石
     S:gt.itemores.1889.name=封印之木矿石
+    S:gt.itemores.18890.name=小型玻璃矿石
+    S:gt.itemores.1890.name=玻璃矿石
     S:gt.itemores.18900.name=小型芒硝矿石
     S:gt.itemores.18901.name=小型Mica矿石
     S:gt.itemores.18902.name=小型滑石
@@ -3674,6 +3680,7 @@ languagefile {
     S:gt.itemores.19887.name=小型可可矿石
     S:gt.itemores.19888.name=小型咖啡矿石
     S:gt.itemores.19889.name=小型封印之木矿石
+    S:gt.itemores.19890.name=小型玻璃矿石
     S:gt.itemores.19900.name=小型芒硝矿石
     S:gt.itemores.19901.name=小型Mica矿石
     S:gt.itemores.19902.name=小型滑石
@@ -4084,6 +4091,7 @@ languagefile {
     S:gt.itemores.20888.name=小型咖啡矿石
     S:gt.itemores.20889.name=小型封印之木矿石
     S:gt.itemores.2089.name=铅矿石
+    S:gt.itemores.20890.name=小型玻璃矿石
     S:gt.itemores.2090.name=铋矿石
     S:gt.itemores.20900.name=小型芒硝矿石
     S:gt.itemores.20901.name=小型Mica矿石
@@ -4361,6 +4369,7 @@ languagefile {
     S:gt.itemores.2887.name=可可矿石
     S:gt.itemores.2888.name=咖啡矿石
     S:gt.itemores.2889.name=封印之木矿石
+    S:gt.itemores.2890.name=玻璃矿石
     S:gt.itemores.29.name=钒矿石
     S:gt.itemores.2900.name=芒硝矿石
     S:gt.itemores.2901.name=Mica矿石
@@ -4764,6 +4773,7 @@ languagefile {
     S:gt.itemores.3887.name=可可矿石
     S:gt.itemores.3888.name=咖啡矿石
     S:gt.itemores.3889.name=封印之木矿石
+    S:gt.itemores.3890.name=玻璃矿石
     S:gt.itemores.39.name=砷矿石
     S:gt.itemores.3900.name=芒硝矿石
     S:gt.itemores.3901.name=Mica矿石
@@ -5110,6 +5120,7 @@ languagefile {
     S:gt.itemores.4887.name=可可矿石
     S:gt.itemores.4888.name=咖啡矿石
     S:gt.itemores.4889.name=封印之木矿石
+    S:gt.itemores.4890.name=玻璃矿石
     S:gt.itemores.4900.name=芒硝矿石
     S:gt.itemores.4901.name=Mica矿石
     S:gt.itemores.4902.name=滑石
@@ -5352,6 +5363,7 @@ languagefile {
     S:gt.itemores.888.name=咖啡矿石
     S:gt.itemores.889.name=封印之木矿石
     S:gt.itemores.89.name=铅矿石
+    S:gt.itemores.890.name=玻璃矿石
     S:gt.itemores.9.name=硼矿石
     S:gt.itemores.90.name=铋矿石
     S:gt.itemores.900.name=芒硝矿石
@@ -6333,6 +6345,8 @@ languagefile {
     S:gt.metaitem.01.17884.tooltip=
     S:gt.metaitem.01.17889.name=封印木板
     S:gt.metaitem.01.17889.tooltip=
+    S:gt.metaitem.01.17890.name=玻璃压制板
+    S:gt.metaitem.01.17890.tooltip=
     S:gt.metaitem.01.18.name=一小撮镁粉末
     S:gt.metaitem.01.18.tooltip=Mg
     S:gt.metaitem.01.1800.name=一小撮火药
@@ -6515,6 +6529,8 @@ languagefile {
     S:gt.metaitem.01.1888.tooltip=
     S:gt.metaitem.01.1889.name=一小撮封印之木浆
     S:gt.metaitem.01.1889.tooltip=
+    S:gt.metaitem.01.1890.name=一小撮玻璃粉末
+    S:gt.metaitem.01.1890.tooltip=
     S:gt.metaitem.01.19.name=一小撮铝粉末
     S:gt.metaitem.01.19.tooltip=Al
     S:gt.metaitem.01.1900.name=一小撮芒硝粉末
@@ -7133,6 +7149,8 @@ languagefile {
     S:gt.metaitem.01.24532.tooltip=BeK4N5Ma6
     S:gt.metaitem.01.24533.name=Endereye透镜
     S:gt.metaitem.01.24533.tooltip=BeK4N5Ma6C2SMa
+    S:gt.metaitem.01.24890.name=玻璃透镜
+    S:gt.metaitem.01.24890.tooltip=
     S:gt.metaitem.01.25.name=一小撮钾粉末
     S:gt.metaitem.01.25.tooltip=K
     S:gt.metaitem.01.2500.name=钻石粉末
@@ -8313,6 +8331,8 @@ languagefile {
     S:gt.metaitem.01.28889.tooltip=
     S:gt.metaitem.01.2889.name=封印之木浆
     S:gt.metaitem.01.2889.tooltip=
+    S:gt.metaitem.01.2890.name=玻璃粉末
+    S:gt.metaitem.01.2890.tooltip=
     S:gt.metaitem.01.29.name=一小撮钒粉末
     S:gt.metaitem.01.29.tooltip=V
     S:gt.metaitem.01.2900.name=芒硝粉末
@@ -9087,6 +9107,8 @@ languagefile {
     S:gt.metaitem.01.32303.tooltip=模头用于制作齿轮
     S:gt.metaitem.01.32304.name=模头 (硬币)
     S:gt.metaitem.01.32304.tooltip=用于制造硬币
+    S:gt.metaitem.01.32305.name=模头 (瓶子)
+    S:gt.metaitem.01.32305.tooltip=用于制作瓶子
     S:gt.metaitem.01.32350.name=模板 (板)
     S:gt.metaitem.01.32350.tooltip=用于制作板
     S:gt.metaitem.01.32351.name=模板 (杆)
@@ -9133,6 +9155,8 @@ languagefile {
     S:gt.metaitem.01.32371.tooltip=用于制作锯
     S:gt.metaitem.01.32372.name=模板 (齿轮)
     S:gt.metaitem.01.32372.tooltip=用于制作齿轮
+    S:gt.metaitem.01.32373.name=模版 (瓶子)
+    S:gt.metaitem.01.32373.tooltip=用于制作瓶子
     S:gt.metaitem.01.324.name=一小撮硅岩粉末
     S:gt.metaitem.01.324.tooltip=Nq
     S:gt.metaitem.01.32400.name=(空的)塑料燃料罐
@@ -9157,8 +9181,6 @@ languagefile {
     S:gt.metaitem.01.32497.tooltip=  
     S:gt.metaitem.01.32498.name=原理图 (粉末s)
     S:gt.metaitem.01.32498.tooltip= 
-    S:gt.metaitem.01.32499.name=原理图 (DEPRECATED)
-    S:gt.metaitem.01.32499.tooltip=  
     S:gt.metaitem.01.325.name=一小撮硅岩合金粉末
     S:gt.metaitem.01.325.tooltip=
     S:gt.metaitem.01.32500.name=小型电池外壳
@@ -11711,6 +11733,8 @@ languagefile {
     S:gt.metaitem.01.889.tooltip=
     S:gt.metaitem.01.89.name=一小撮铅粉末
     S:gt.metaitem.01.89.tooltip=Pb
+    S:gt.metaitem.01.890.name=一小撮玻璃粉末
+    S:gt.metaitem.01.890.tooltip=
     S:gt.metaitem.01.9.name=一小撮硼粉末
     S:gt.metaitem.01.9.tooltip=B
     S:gt.metaitem.01.90.name=一小撮铋粉末
@@ -15013,6 +15037,8 @@ languagefile {
     S:gt.metaitem.03.27.tooltip=Sc
     S:gt.metaitem.03.28.name=一箱钛粉末
     S:gt.metaitem.03.28.tooltip=Ti
+    S:gt.metaitem.03.2890.name=一箱玻璃水晶
+    S:gt.metaitem.03.2890.tooltip=
     S:gt.metaitem.03.29.name=一箱钒粉末
     S:gt.metaitem.03.29.tooltip=V
     S:gt.metaitem.03.299.name=一箱石头粉末
@@ -15467,6 +15493,8 @@ languagefile {
     S:gt.metaitem.03.3884.tooltip=
     S:gt.metaitem.03.3889.name=一箱封印之木板
     S:gt.metaitem.03.3889.tooltip=
+    S:gt.metaitem.03.3890.name=一箱玻璃压制板
+    S:gt.metaitem.03.3890.tooltip=
     S:gt.metaitem.03.43.name=一箱铷粉末
     S:gt.metaitem.03.43.tooltip=Rb
     S:gt.metaitem.03.44.name=一箱锶粉末
@@ -15813,6 +15841,8 @@ languagefile {
     S:gt.metaitem.03.889.tooltip=
     S:gt.metaitem.03.89.name=一箱铅粉末
     S:gt.metaitem.03.89.tooltip=Pb
+    S:gt.metaitem.03.890.name=一箱玻璃粉末
+    S:gt.metaitem.03.890.tooltip=
     S:gt.metaitem.03.9.name=一箱硼粉末
     S:gt.metaitem.03.9.tooltip=B
     S:gt.metaitem.03.90.name=一箱铋粉末
@@ -16035,12 +16065,19 @@ languagefile {
     S:gt.metatool.01.name=Generated Item
     S:gt.nomobspawnsonthisblock=生物不会在这个方块上生成
     S:gt.notileentityinthisblock=This is NOT a TileEntity!
+    S:gt.research.page.1.GT_CRYSTALLISATION=Sometimes when processing your Crystal Shards they become a pile of Dust instead of the mostly required Shard.<BR><BR>You have finally found a way to reverse this Process by using Vitreus Essentia for recrystallising the Shards.
+    S:gt.research.page.1.GT_IRON_TO_STEEL=You have discovered a way of making Iron harder by just re-ordering its components.<BR><BR>This Method can be used to create a Material called Steel, which is used in many non-Thaumaturgic applications.
     S:metaitem.01.tooltip.purify=扔进炼药炉来得到纯净的粉末
     S:tc.aspect.electrum=电力, 闪电
     S:tc.aspect.magneto=磁力, 引力
     S:tc.aspect.nebrisum=Cheatyness, 抢劫
     S:tc.aspect.radio=辐射
     S:tc.aspect.strontio=愚昧,无能
+    S:tc.research_name.GT_CRYSTALLISATION=Shard Recrystallisation
+    S:tc.research_name.GT_IRON_TO_STEEL=Steel Transmutation
+    S:tc.research_text.GT_CRYSTALLISATION=Fixing your precious Crystals
+    S:tc.research_text.GT_IRON_TO_STEEL=Transforming Iron to Steel
 }
+
 
 
