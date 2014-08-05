@@ -1374,7 +1374,17 @@ languagefile {
     S:TileEntity_DESCRIPTION_524_Index_0=将液体冷却至固体
     S:TileEntity_DESCRIPTION_525_Index_0=将液体冷却至固体
     S:TileEntity_DESCRIPTION_52_Index_0=用于向大型机械中输入原料
+    S:TileEntity_DESCRIPTION_531_Index_0=Extracting the most relevant Parts of Fluids
+    S:TileEntity_DESCRIPTION_532_Index_0=Extracting the most relevant Parts of Fluids
+    S:TileEntity_DESCRIPTION_533_Index_0=Extracting the most relevant Parts of Fluids
+    S:TileEntity_DESCRIPTION_534_Index_0=Extracting the most relevant Parts of Fluids
+    S:TileEntity_DESCRIPTION_535_Index_0=Extracting the most relevant Parts of Fluids
     S:TileEntity_DESCRIPTION_53_Index_0=用于向大型机械中输入原料
+    S:TileEntity_DESCRIPTION_541_Index_0=Bathing Ores in Chemicals to seperate them
+    S:TileEntity_DESCRIPTION_542_Index_0=Bathing Ores in Chemicals to seperate them
+    S:TileEntity_DESCRIPTION_543_Index_0=Bathing Ores in Chemicals to seperate them
+    S:TileEntity_DESCRIPTION_544_Index_0=Bathing Ores in Chemicals to seperate them
+    S:TileEntity_DESCRIPTION_545_Index_0=Bathing Ores in Chemicals to seperate them
     S:TileEntity_DESCRIPTION_54_Index_0=用于向大型机械中输入原料
     S:TileEntity_DESCRIPTION_55_Index_0=用于向大型机械中输入原料
     S:TileEntity_DESCRIPTION_5602_Index_0=物品传送量:1组/秒
@@ -1834,6 +1844,11 @@ languagefile {
     S:gt.blockmachines.basicmachine.centrifuge.tier.03.name=涡轮离心机
     S:gt.blockmachines.basicmachine.centrifuge.tier.04.name=化学离心机
     S:gt.blockmachines.basicmachine.centrifuge.tier.05.name=化学涡轮离心机
+    S:gt.blockmachines.basicmachine.chemicalbath.tier.01.name=Basic Chemical Bath
+    S:gt.blockmachines.basicmachine.chemicalbath.tier.02.name=Advanced Chemical Bath
+    S:gt.blockmachines.basicmachine.chemicalbath.tier.03.name=Advanced Chemical Bath II
+    S:gt.blockmachines.basicmachine.chemicalbath.tier.04.name=Advanced Chemical Bath III
+    S:gt.blockmachines.basicmachine.chemicalbath.tier.05.name=Advanced Chemical Bath IV
     S:gt.blockmachines.basicmachine.chemicalreactor.tier.01.name=基础化学反应器
     S:gt.blockmachines.basicmachine.chemicalreactor.tier.02.name=进阶化学反应器
     S:gt.blockmachines.basicmachine.chemicalreactor.tier.03.name=进阶化学反应器 II
@@ -1854,6 +1869,11 @@ languagefile {
     S:gt.blockmachines.basicmachine.disassembler.tier.03.name=进阶拆解器 II
     S:gt.blockmachines.basicmachine.disassembler.tier.04.name=进阶拆解器 III
     S:gt.blockmachines.basicmachine.disassembler.tier.05.name=进阶拆解器 IV
+    S:gt.blockmachines.basicmachine.distillery.tier.01.name=Basic Distillery
+    S:gt.blockmachines.basicmachine.distillery.tier.02.name=Advanced Distillery
+    S:gt.blockmachines.basicmachine.distillery.tier.03.name=Advanced Distillery II
+    S:gt.blockmachines.basicmachine.distillery.tier.04.name=Advanced Distillery III
+    S:gt.blockmachines.basicmachine.distillery.tier.05.name=Advanced Distillery IV
     S:gt.blockmachines.basicmachine.e_furnace.tier.01.name=基础电炉
     S:gt.blockmachines.basicmachine.e_furnace.tier.02.name=进阶电炉
     S:gt.blockmachines.basicmachine.e_furnace.tier.03.name=进阶电炉 II
@@ -9991,6 +10011,8 @@ languagefile {
     S:gt.metaitem.01.32307.tooltip=用于制作球
     S:gt.metaitem.01.32308.name=模头 (方块)
     S:gt.metaitem.01.32308.tooltip=用于制作方块
+    S:gt.metaitem.01.32309.name=Mold (Nuggets)
+    S:gt.metaitem.01.32309.tooltip=Mold for making Nuggets
     S:gt.metaitem.01.32350.name=模板 (板)
     S:gt.metaitem.01.32350.tooltip=用于制作板
     S:gt.metaitem.01.32351.name=模板 (杆)
@@ -17619,11 +17641,13 @@ languagefile {
     S:gt.recipe.brewer=酿造厂
     S:gt.recipe.canner=灌装机
     S:gt.recipe.centrifuge=离心机
+    S:gt.recipe.chemicalbath=Chemical Bath
     S:gt.recipe.chemicalreactor=化学反应器
     S:gt.recipe.cncmachine=数控机床
     S:gt.recipe.cuttingsaw=板材切割机
     S:gt.recipe.dieselgeneratorfuel=柴油发电机燃料
     S:gt.recipe.distillationtower=蒸馏塔
+    S:gt.recipe.distillery=Distillery
     S:gt.recipe.electrolyzer=电解器
     S:gt.recipe.extruder=压模器
     S:gt.recipe.fermenter=发酵器
@@ -17712,7 +17736,6 @@ languagefile {
     S:tc.research_text.GT_TRANSZINC=[GT]将金属炼化为锌
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT]将木头变成木炭
 }
-
 
 
 
