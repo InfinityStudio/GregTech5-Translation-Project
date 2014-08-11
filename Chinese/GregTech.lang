@@ -1547,6 +1547,7 @@ languagefile {
     S:enchantment.damage.radioactivity=辐射
     S:fluid.bioethanol=Bio Ethanol
     S:fluid.biomass=Biomass
+    S:fluid.chlorine=Chlorine
     S:fluid.chlorite=绿泥石
     S:fluid.creosote=木榴油
     S:fluid.deuterium=氘
@@ -1562,6 +1563,7 @@ languagefile {
     S:fluid.mercury=汞
     S:fluid.methane=甲烷
     S:fluid.milk=牛奶
+    S:fluid.molten.concrete=Wet Concrete
     S:fluid.molten.glass=熔融玻璃
     S:fluid.nitrocoalfuel=硝基煤油
     S:fluid.nitrofuel=硝基柴油
@@ -1676,6 +1678,7 @@ languagefile {
     S:fluid.seedoil=种子油
     S:fluid.sodiumpersulfate=过硫酸钠
     S:fluid.steam=蒸汽
+    S:fluid.sulfuricacid=Sulfuric Acid
     S:fluid.tritium=氚
     S:fluid.uuamplifier=UU物质
     S:gt.GregTech_FluidDisplay.name=显示流体
@@ -2586,7 +2589,24 @@ languagefile {
     S:gt.coil01tooltip=Base Heating Capacity = 1800 Kelvin
     S:gt.coil02tooltip=Base Heating Capacity = 2700 Kelvin
     S:gt.coil03tooltip=Base Heating Capacity = 3600 Kelvin
+    S:gt.integrated_circuit.configuration=Configuration: 
     S:gt.integrated_circuit.name=集成电路
+    S:gt.itemconcretes.0.name=Dark Concrete
+    S:gt.itemconcretes.1.name=Dark Concrete Cobblestone
+    S:gt.itemconcretes.10.name=Mossy Light Concrete Cobblestone
+    S:gt.itemconcretes.11.name=Light Concrete Bricks
+    S:gt.itemconcretes.12.name=Cracked Light Concrete Bricks
+    S:gt.itemconcretes.13.name=Mossy Light Concrete Bricks
+    S:gt.itemconcretes.14.name=Chiseled Light Concrete
+    S:gt.itemconcretes.15.name=Smooth Light Concrete
+    S:gt.itemconcretes.2.name=Mossy Dark Concrete Cobblestone
+    S:gt.itemconcretes.3.name=Dark Concrete Bricks
+    S:gt.itemconcretes.4.name=Cracked Dark Concrete Bricks
+    S:gt.itemconcretes.5.name=Mossy Dark Concrete Bricks
+    S:gt.itemconcretes.6.name=Chiseled Dark Concrete
+    S:gt.itemconcretes.7.name=Smooth Dark Concrete
+    S:gt.itemconcretes.8.name=Light Concrete
+    S:gt.itemconcretes.9.name=Light Concrete Cobblestone
     S:gt.itemgranites.0.name=黑花岗岩
     S:gt.itemgranites.1.name=黑花岗岩圆石
     S:gt.itemgranites.10.name=苔藓红花岗岩圆石
@@ -3130,6 +3150,7 @@ languagefile {
     S:gt.itemores.16944.name=小型岩Salt矿石
     S:gt.itemores.16945.name=小型辉锑矿矿石
     S:gt.itemores.16946.name=小型石棉矿石
+    S:gt.itemores.16947.name=Small Concrete Ore
     S:gt.itemores.16948.name=小型硅藻土矿石
     S:gt.itemores.17.name=钠矿石
     S:gt.itemores.1700.name=Lava矿石
@@ -3499,6 +3520,7 @@ languagefile {
     S:gt.itemores.17944.name=小型岩Salt矿石
     S:gt.itemores.17945.name=小型辉锑矿矿石
     S:gt.itemores.17946.name=小型石棉矿石
+    S:gt.itemores.17947.name=Small Concrete Ore
     S:gt.itemores.17948.name=小型硅藻土矿石
     S:gt.itemores.18.name=镁矿石
     S:gt.itemores.1800.name=火药矿石
@@ -3933,6 +3955,7 @@ languagefile {
     S:gt.itemores.18944.name=小型岩盐矿石
     S:gt.itemores.18945.name=小型辉锑矿矿石
     S:gt.itemores.18946.name=小型石棉矿石
+    S:gt.itemores.18947.name=Small Concrete Ore
     S:gt.itemores.18948.name=小型硅藻土矿石
     S:gt.itemores.19.name=铝矿石
     S:gt.itemores.1900.name=芒硝矿石
@@ -4114,6 +4137,7 @@ languagefile {
     S:gt.itemores.1944.name=岩盐矿石
     S:gt.itemores.1945.name=辉锑矿矿石
     S:gt.itemores.1946.name=石棉矿石
+    S:gt.itemores.1947.name=Concrete Ore
     S:gt.itemores.1948.name=硅藻土矿石
     S:gt.itemores.19500.name=小型钻石矿石
     S:gt.itemores.19501.name=小型绿宝石矿石
@@ -4324,6 +4348,7 @@ languagefile {
     S:gt.itemores.19944.name=小型岩盐矿石
     S:gt.itemores.19945.name=小型辉锑矿矿石
     S:gt.itemores.19946.name=小型石棉矿石
+    S:gt.itemores.19947.name=Small Concrete Ore
     S:gt.itemores.19948.name=小型硅藻土矿石
     S:gt.itemores.2.name=氘矿石
     S:gt.itemores.20.name=硅矿石
@@ -4738,6 +4763,7 @@ languagefile {
     S:gt.itemores.20944.name=小型岩盐矿石
     S:gt.itemores.20945.name=小型辉锑矿矿石
     S:gt.itemores.20946.name=小型石棉矿石
+    S:gt.itemores.20947.name=Small Concrete Ore
     S:gt.itemores.20948.name=小型硅藻土矿石
     S:gt.itemores.2096.name=钍矿石
     S:gt.itemores.2097.name=铀-235矿石
@@ -5018,6 +5044,7 @@ languagefile {
     S:gt.itemores.2944.name=岩盐矿石
     S:gt.itemores.2945.name=辉锑矿矿石
     S:gt.itemores.2946.name=石棉矿石
+    S:gt.itemores.2947.name=Concrete Ore
     S:gt.itemores.2948.name=硅藻土矿石
     S:gt.itemores.299.name=石头矿石
     S:gt.itemores.3.name=氚矿石
@@ -5424,6 +5451,7 @@ languagefile {
     S:gt.itemores.3944.name=岩盐矿石
     S:gt.itemores.3945.name=辉锑矿矿石
     S:gt.itemores.3946.name=石棉矿石
+    S:gt.itemores.3947.name=Concrete Ore
     S:gt.itemores.3948.name=硅藻土矿石
     S:gt.itemores.4.name=氦矿石
     S:gt.itemores.4001.name=氢矿石
@@ -5772,6 +5800,7 @@ languagefile {
     S:gt.itemores.4944.name=岩盐矿石
     S:gt.itemores.4945.name=辉锑矿矿石
     S:gt.itemores.4946.name=石棉矿石
+    S:gt.itemores.4947.name=Concrete Ore
     S:gt.itemores.4948.name=硅藻土矿石
     S:gt.itemores.5.name=氦-3矿石
     S:gt.itemores.500.name=钻石矿石
@@ -6019,6 +6048,7 @@ languagefile {
     S:gt.itemores.944.name=岩盐矿石
     S:gt.itemores.945.name=辉锑矿矿石
     S:gt.itemores.946.name=石棉矿石
+    S:gt.itemores.947.name=Concrete Ore
     S:gt.itemores.948.name=硅藻土矿石
     S:gt.itemores.96.name=钍矿石
     S:gt.itemores.97.name=铀-235矿石
@@ -7237,6 +7267,8 @@ languagefile {
     S:gt.metaitem.01.1945.tooltip=Sb2S3
     S:gt.metaitem.01.1946.name=一小撮石棉粉末
     S:gt.metaitem.01.1946.tooltip=Mg3Si2H4O9
+    S:gt.metaitem.01.1947.name=Small Pile of Concrete Dust
+    S:gt.metaitem.01.1947.tooltip=
     S:gt.metaitem.01.1948.name=一小撮硅藻土粉末
     S:gt.metaitem.01.1948.tooltip=SiO28Fe2O3Al2O3
     S:gt.metaitem.01.19879.name=Carton
@@ -9537,6 +9569,8 @@ languagefile {
     S:gt.metaitem.01.2945.tooltip=Sb2S3
     S:gt.metaitem.01.2946.name=石棉粉末
     S:gt.metaitem.01.2946.tooltip=Mg3Si2H4O9
+    S:gt.metaitem.01.2947.name=Concrete Dust
+    S:gt.metaitem.01.2947.tooltip=
     S:gt.metaitem.01.2948.name=硅藻土粉末
     S:gt.metaitem.01.2948.tooltip=SiO28Fe2O3Al2O3
     S:gt.metaitem.01.29521.name=立场箔
@@ -10253,6 +10287,10 @@ languagefile {
     S:gt.metaitem.01.32722.tooltip=
     S:gt.metaitem.01.32723.name=钨研磨头
     S:gt.metaitem.01.32723.tooltip=
+    S:gt.metaitem.01.32727.name=Muffler Upgrade
+    S:gt.metaitem.01.32727.tooltip=Makes Machines silent
+    S:gt.metaitem.01.32728.name=Lock Upgrade
+    S:gt.metaitem.01.32728.tooltip=Protects your Machines
     S:gt.metaitem.01.32729.name=物品过滤器
     S:gt.metaitem.01.32729.tooltip=
     S:gt.metaitem.01.32730.name=机器控制板
@@ -12953,6 +12991,8 @@ languagefile {
     S:gt.metaitem.01.945.tooltip=Sb2S3
     S:gt.metaitem.01.946.name=很小一撮石棉粉末
     S:gt.metaitem.01.946.tooltip=Mg3Si2H4O9
+    S:gt.metaitem.01.947.name=Tiny Pile of Concrete Dust
+    S:gt.metaitem.01.947.tooltip=
     S:gt.metaitem.01.948.name=很小一撮硅藻土粉末
     S:gt.metaitem.01.948.tooltip=SiO28Fe2O3Al2O3
     S:gt.metaitem.01.9521.name=立场粒
@@ -17495,6 +17535,8 @@ languagefile {
     S:gt.metaitem.03.945.tooltip=Sb2S3
     S:gt.metaitem.03.946.name=一箱石棉粉末
     S:gt.metaitem.03.946.tooltip=Mg3Si2H4O9
+    S:gt.metaitem.03.947.name=Crate of Concrete Dust
+    S:gt.metaitem.03.947.tooltip=
     S:gt.metaitem.03.948.name=一箱硅藻土粉末
     S:gt.metaitem.03.948.tooltip=SiO28Fe2O3Al2O3
     S:gt.metaitem.03.96.name=一箱钍粉末
@@ -17662,6 +17704,7 @@ languagefile {
     S:gt.recipe.implosioncompressor=聚爆压缩机
     S:gt.recipe.largenaquadahreactor=巨型硅岩反应堆
     S:gt.recipe.lathe=车床
+    S:gt.recipe.macerator=Pulverization
     S:gt.recipe.magicfuels=魔法燃料
     S:gt.recipe.metalbender=卷板机
     S:gt.recipe.packager=打包器
@@ -17693,6 +17736,7 @@ languagefile {
     S:gt.research.page.1.GT_TRANSSOLDERINGALLOY=青铜嬗变术的发现让你得出了它对其他合金如焊料合金同样有效的结论.
     S:gt.research.page.1.GT_TRANSZINC=你发现了如何从金属提取§5metallum§0要素并将其转换为锌粒的方法.
     S:gt.research.page.1.GT_WOOD_TO_CHARCOAL=你发现了一种用魔法的方法而不是通常的加热法来制作木炭.<BR><BR>制作木炭首先要隔绝空气,因此需要一些虚空(Vacuus)要素,其次要用火(火之蕴魔石)要素灼烧木头直至其中的水分全部被蒸发.<BR><BR>然而这种方法不会产生木榴油这样的副产品.
+    S:gt.runfastertooltip=You can walk faster on this Block
     S:metaitem.01.tooltip.purify=投入炼药锅获得纯净粉末
     S:tc.aspect.electrum=电力,放电
     S:tc.aspect.magneto=磁性,吸引
