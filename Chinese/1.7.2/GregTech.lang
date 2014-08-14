@@ -1,5 +1,5 @@
 # Configuration file
-# Compatible with GregTech 5.03h
+# Compatible with GregTech 5.03j
 # Author:TehporP & DeckerCHAN
 # Translation bug report https://github.com/DeckerCHAN/Gregtech5-Translation-Chinese/issues
 enablelangfile {
@@ -1977,11 +1977,11 @@ languagefile {
     S:gt.blockmachines.basicmachine.unboxinator.tier.03.name=进阶解包器 II
     S:gt.blockmachines.basicmachine.unboxinator.tier.04.name=进阶解包器 III
     S:gt.blockmachines.basicmachine.unboxinator.tier.05.name=拆盒机
-    S:gt.blockmachines.basicmachine.wiremill.tier.01.name=基础线材轧压机
-    S:gt.blockmachines.basicmachine.wiremill.tier.02.name=进阶线材轧压机
-    S:gt.blockmachines.basicmachine.wiremill.tier.03.name=进阶线材轧压机 II
-    S:gt.blockmachines.basicmachine.wiremill.tier.04.name=进阶线材轧压机 III
-    S:gt.blockmachines.basicmachine.wiremill.tier.05.name=进阶线材轧压机 IV
+    S:gt.blockmachines.basicmachine.wiremill.tier.01.name=基础线缆轧制机
+    S:gt.blockmachines.basicmachine.wiremill.tier.02.name=进阶线缆轧制机
+    S:gt.blockmachines.basicmachine.wiremill.tier.03.name=进阶线缆轧制机 II
+    S:gt.blockmachines.basicmachine.wiremill.tier.04.name=进阶线缆轧制机 III
+    S:gt.blockmachines.basicmachine.wiremill.tier.05.name=进阶线缆轧制机 IV
     S:gt.blockmachines.batterybuffer.01.tier.00.name=超低压电力缓冲器
     S:gt.blockmachines.batterybuffer.01.tier.01.name=低压电力缓冲器
     S:gt.blockmachines.batterybuffer.01.tier.02.name=中压电力缓冲器
@@ -2366,7 +2366,7 @@ languagefile {
     S:gt.blockmachines.hatch.input_bus.tier.08.name=输入总线
     S:gt.blockmachines.hatch.input_bus.tier.09.name=输入总线
     S:gt.blockmachines.hatch.maintenance.name=维护舱
-    S:gt.blockmachines.hatch.muffler.tier.01.name=消声处理方块消声处理方块
+    S:gt.blockmachines.hatch.muffler.tier.01.name=消声处理方块
     S:gt.blockmachines.hatch.muffler.tier.02.name=消声处理方块
     S:gt.blockmachines.hatch.muffler.tier.03.name=消声处理方块
     S:gt.blockmachines.hatch.muffler.tier.04.name=消声处理方块
@@ -17717,7 +17717,7 @@ languagefile {
     S:gt.recipe.unpackager=拆包器
     S:gt.recipe.uuamplifier=UU放大器
     S:gt.recipe.vacuumfreezer=真空冷冻器
-    S:gt.recipe.wiremill=线缆碾压器
+    S:gt.recipe.wiremill=线缆轧制机
     S:gt.research.page.1.GT_ADVANCEDMETALLURGY=由于已经发现了所有基础的金属,你终于可以在魔法冶金上升到新的高度并制作出更多高级金属
     S:gt.research.page.1.GT_CRYSTALLISATION=有时在你处理水晶碎片时它们变成了一堆粉末而不是你所需的元素碎片.<BR><BR>最终你找到了方法利用晶体(Vitreus)要素使碎片重结晶来逆转该过程.
     S:gt.research.page.1.GT_FILL_WATER_BUCKET=你发现了一种方法用水(水之蕴魔石)要素来给空桶装满水.
@@ -17737,9 +17737,9 @@ languagefile {
     S:gt.research.page.1.GT_TRANSZINC=你发现了如何从金属提取§5metallum§0要素并将其转换为锌粒的方法.
     S:gt.research.page.1.GT_WOOD_TO_CHARCOAL=你发现了一种用魔法的方法而不是通常的加热法来制作木炭.<BR><BR>制作木炭首先要隔绝空气,因此需要一些虚空(Vacuus)要素,其次要用火(火之蕴魔石)要素灼烧木头直至其中的水分全部被蒸发.<BR><BR>然而这种方法不会产生木榴油这样的副产品.
     S:gt.runfastertooltip=在这个方块上你可以走得更快
-    S:ic.recipe.orewasher=Ore Washer
-    S:ic.recipe.thermalcentrifuge=Thermal Centrifuge
-    S:mc.recipe.furnace=Furnace
+    S:ic.recipe.orewasher=洗矿机
+    S:ic.recipe.thermalcentrifuge=热力离心机
+    S:mc.recipe.furnace=炉子
     S:metaitem.01.tooltip.purify=投入炼药锅获得纯净粉末
     S:tc.aspect.electrum=电力,放电
     S:tc.aspect.magneto=磁性,吸引
