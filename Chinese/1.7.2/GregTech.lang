@@ -17737,6 +17737,9 @@ languagefile {
     S:gt.research.page.1.GT_TRANSZINC=你发现了如何从金属提取§5metallum§0要素并将其转换为锌粒的方法.
     S:gt.research.page.1.GT_WOOD_TO_CHARCOAL=你发现了一种用魔法的方法而不是通常的加热法来制作木炭.<BR><BR>制作木炭首先要隔绝空气,因此需要一些虚空(Vacuus)要素,其次要用火(火之蕴魔石)要素灼烧木头直至其中的水分全部被蒸发.<BR><BR>然而这种方法不会产生木榴油这样的副产品.
     S:gt.runfastertooltip=在这个方块上你可以走得更快
+    S:ic.recipe.orewasher=Ore Washer
+    S:ic.recipe.thermalcentrifuge=Thermal Centrifuge
+    S:mc.recipe.furnace=Furnace
     S:metaitem.01.tooltip.purify=投入炼药锅获得纯净粉末
     S:tc.aspect.electrum=电力,放电
     S:tc.aspect.magneto=磁性,吸引
