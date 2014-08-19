@@ -1,5 +1,5 @@
 # Configuration file
-# Compatible with GregTech 5.03j
+# Compatible with GregTech 5.03h
 # Author:TehporP & DeckerCHAN
 # Translation bug report https://github.com/DeckerCHAN/Gregtech5-Translation-Chinese/issues
 enablelangfile {
@@ -834,22 +834,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_1605_Index_0=最大电压:§a0§7
     S:TileEntity_DESCRIPTION_1605_Index_1=最大电流:§e0§7
     S:TileEntity_DESCRIPTION_1605_Index_2=每单位长度损失电压:§c0§7 E-V
-    S:TileEntity_DESCRIPTION_1606_Index_0=最大电压:§a0§7
-    S:TileEntity_DESCRIPTION_1606_Index_1=最大电流:§e0§7
-    S:TileEntity_DESCRIPTION_1606_Index_2=每单位长度损失电压:§c0§7 E-V
-    S:TileEntity_DESCRIPTION_1607_Index_0=最大电压:§a0§7
-    S:TileEntity_DESCRIPTION_1607_Index_1=最大电流:§e0§7
-    S:TileEntity_DESCRIPTION_1607_Index_2=每单位长度损失电压:§c0§7 E-V
-    S:TileEntity_DESCRIPTION_1608_Index_0=最大电压:§a0§7
-    S:TileEntity_DESCRIPTION_1608_Index_1=最大电流:§e0§7
-    S:TileEntity_DESCRIPTION_1608_Index_2=每单位长度损失电压:§c0§7 E-V
-    S:TileEntity_DESCRIPTION_1609_Index_0=最大电压:§a0§7
-    S:TileEntity_DESCRIPTION_1609_Index_1=最大电流:§e0§7
-    S:TileEntity_DESCRIPTION_1609_Index_2=每单位长度损失电压:§c0§7 E-V
     S:TileEntity_DESCRIPTION_160_Index_0=1 格
-    S:TileEntity_DESCRIPTION_1610_Index_0=最大电压:§a0§7
-    S:TileEntity_DESCRIPTION_1610_Index_1=最大电流:§e0§7
-    S:TileEntity_DESCRIPTION_1610_Index_2=每单位长度损失电压:§c0§7 E-V
     S:TileEntity_DESCRIPTION_161_Index_0=1 格
     S:TileEntity_DESCRIPTION_1620_Index_0=最大电压:§a0§7
     S:TileEntity_DESCRIPTION_1620_Index_1=最大电流:§e0§7
@@ -994,6 +979,24 @@ languagefile {
     S:TileEntity_DESCRIPTION_19_Index_0=§r你需要一点§5想§d像§4力§r来使用这个
     S:TileEntity_DESCRIPTION_1_Index_0=你的第一个蒸汽设备
     S:TileEntity_DESCRIPTION_201_Index_0=高科技组合熔炉
+    S:TileEntity_DESCRIPTION_2020_Index_0=Max Voltage: §a0§7
+    S:TileEntity_DESCRIPTION_2020_Index_1=Max Amperage: §e0§7
+    S:TileEntity_DESCRIPTION_2020_Index_2=Loss/Meter/Ampere: §c0§7 EU-Volt
+    S:TileEntity_DESCRIPTION_2021_Index_0=Max Voltage: §a0§7
+    S:TileEntity_DESCRIPTION_2021_Index_1=Max Amperage: §e0§7
+    S:TileEntity_DESCRIPTION_2021_Index_2=Loss/Meter/Ampere: §c0§7 EU-Volt
+    S:TileEntity_DESCRIPTION_2022_Index_0=Max Voltage: §a0§7
+    S:TileEntity_DESCRIPTION_2022_Index_1=Max Amperage: §e0§7
+    S:TileEntity_DESCRIPTION_2022_Index_2=Loss/Meter/Ampere: §c0§7 EU-Volt
+    S:TileEntity_DESCRIPTION_2023_Index_0=Max Voltage: §a0§7
+    S:TileEntity_DESCRIPTION_2023_Index_1=Max Amperage: §e0§7
+    S:TileEntity_DESCRIPTION_2023_Index_2=Loss/Meter/Ampere: §c0§7 EU-Volt
+    S:TileEntity_DESCRIPTION_2024_Index_0=Max Voltage: §a0§7
+    S:TileEntity_DESCRIPTION_2024_Index_1=Max Amperage: §e0§7
+    S:TileEntity_DESCRIPTION_2024_Index_2=Loss/Meter/Ampere: §c0§7 EU-Volt
+    S:TileEntity_DESCRIPTION_2025_Index_0=Max Voltage: §a0§7
+    S:TileEntity_DESCRIPTION_2025_Index_1=Max Amperage: §e0§7
+    S:TileEntity_DESCRIPTION_2025_Index_2=Loss/Meter/Ampere: §c0§7 EU-Volt
     S:TileEntity_DESCRIPTION_202_Index_0=高科技组合熔炉
     S:TileEntity_DESCRIPTION_203_Index_0=高科技组合熔炉
     S:TileEntity_DESCRIPTION_204_Index_0=高科技组合熔炉
@@ -1250,6 +1253,9 @@ languagefile {
     S:TileEntity_DESCRIPTION_4448_Index_0=你可以使用覆盖板覆盖或者直接填充工业泡沫
     S:TileEntity_DESCRIPTION_4449_Index_0=你可以使用覆盖板覆盖或者直接填充工业泡沫
     S:TileEntity_DESCRIPTION_444_Index_0=生产原石
+    S:TileEntity_DESCRIPTION_4450_Index_0=Just something you can put a Cover or CFoam on.
+    S:TileEntity_DESCRIPTION_4451_Index_0=Just something you can put a Cover or CFoam on.
+    S:TileEntity_DESCRIPTION_4452_Index_0=Just something you can put a Cover or CFoam on.
     S:TileEntity_DESCRIPTION_445_Index_0=生产原石
     S:TileEntity_DESCRIPTION_44_Index_0=用于大型机械的能源输入
     S:TileEntity_DESCRIPTION_451_Index_0=以20%的效率拆解机器
@@ -1386,6 +1392,11 @@ languagefile {
     S:TileEntity_DESCRIPTION_544_Index_0=Bathing Ores in Chemicals to seperate them
     S:TileEntity_DESCRIPTION_545_Index_0=Bathing Ores in Chemicals to seperate them
     S:TileEntity_DESCRIPTION_54_Index_0=用于向大型机械中输入原料
+    S:TileEntity_DESCRIPTION_551_Index_0=Bipolarising your Magnets
+    S:TileEntity_DESCRIPTION_552_Index_0=Bipolarising your Magnets
+    S:TileEntity_DESCRIPTION_553_Index_0=Bipolarising your Magnets
+    S:TileEntity_DESCRIPTION_554_Index_0=Bipolarising your Magnets
+    S:TileEntity_DESCRIPTION_555_Index_0=Bipolarising your Magnets
     S:TileEntity_DESCRIPTION_55_Index_0=用于向大型机械中输入原料
     S:TileEntity_DESCRIPTION_5602_Index_0=物品传送量:1组/秒
     S:TileEntity_DESCRIPTION_5602_Index_1=路由值:0
@@ -1411,6 +1422,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_5618_Index_1=路由值:0
     S:TileEntity_DESCRIPTION_5619_Index_0=物品容量:8组/秒
     S:TileEntity_DESCRIPTION_5619_Index_1=路由值:0
+    S:TileEntity_DESCRIPTION_561_Index_0=Separating the magnetic Ores from the rest
     S:TileEntity_DESCRIPTION_5622_Index_0=物品传送量:4组/秒
     S:TileEntity_DESCRIPTION_5622_Index_1=路由值:0
     S:TileEntity_DESCRIPTION_5623_Index_0=物品传送量:8组/秒
@@ -1423,6 +1435,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_5628_Index_1=路由值:0
     S:TileEntity_DESCRIPTION_5629_Index_0=物品容量:16组/秒
     S:TileEntity_DESCRIPTION_5629_Index_1=路由值:0
+    S:TileEntity_DESCRIPTION_562_Index_0=Separating the magnetic Ores from the rest
     S:TileEntity_DESCRIPTION_5632_Index_0=物品传送量:8组/秒
     S:TileEntity_DESCRIPTION_5632_Index_1=路由值:0
     S:TileEntity_DESCRIPTION_5633_Index_0=物品传送量:16组/秒
@@ -1435,6 +1448,9 @@ languagefile {
     S:TileEntity_DESCRIPTION_5638_Index_1=路由值:0
     S:TileEntity_DESCRIPTION_5639_Index_0=物品容量:32组/秒
     S:TileEntity_DESCRIPTION_5639_Index_1=路由值:0
+    S:TileEntity_DESCRIPTION_563_Index_0=Separating the magnetic Ores from the rest
+    S:TileEntity_DESCRIPTION_564_Index_0=Separating the magnetic Ores from the rest
+    S:TileEntity_DESCRIPTION_565_Index_0=Separating the magnetic Ores from the rest
     S:TileEntity_DESCRIPTION_56_Index_0=用于向大型机械中输入原料
     S:TileEntity_DESCRIPTION_57_Index_0=用于向大型机械中输入原料
     S:TileEntity_DESCRIPTION_58_Index_0=用于向大型机械中输入原料
@@ -1548,7 +1564,6 @@ languagefile {
     S:fluid.bioethanol=生物乙醇
     S:fluid.biomass=生物质
     S:fluid.chlorine=氯
-    S:fluid.chlorite=绿泥石
     S:fluid.creosote=木榴油
     S:fluid.deuterium=氘
     S:fluid.fuel=柴油
@@ -1887,6 +1902,11 @@ languagefile {
     S:gt.blockmachines.basicmachine.electrolyzer.tier.03.name=进阶电解器 II
     S:gt.blockmachines.basicmachine.electrolyzer.tier.04.name=进阶电解器 III
     S:gt.blockmachines.basicmachine.electrolyzer.tier.05.name=化学电解器
+    S:gt.blockmachines.basicmachine.electromagneticseparator.tier.01.name=Basic Electromagnetic Separator
+    S:gt.blockmachines.basicmachine.electromagneticseparator.tier.02.name=Advanced Electromagnetic Separator
+    S:gt.blockmachines.basicmachine.electromagneticseparator.tier.03.name=Advanced Electromagnetic Separator II
+    S:gt.blockmachines.basicmachine.electromagneticseparator.tier.04.name=Advanced Electromagnetic Separator III
+    S:gt.blockmachines.basicmachine.electromagneticseparator.tier.05.name=Advanced Electromagnetic Separator IV
     S:gt.blockmachines.basicmachine.extractor.tier.01.name=基础提取机
     S:gt.blockmachines.basicmachine.extractor.tier.02.name=进阶提取机
     S:gt.blockmachines.basicmachine.extractor.tier.03.name=进阶提取机 II
@@ -1942,6 +1962,11 @@ languagefile {
     S:gt.blockmachines.basicmachine.orewasher.tier.03.name=进阶洗矿场 II
     S:gt.blockmachines.basicmachine.orewasher.tier.04.name=进阶洗矿场 III
     S:gt.blockmachines.basicmachine.orewasher.tier.05.name=高端洋气上档次的洗矿场
+    S:gt.blockmachines.basicmachine.polarizer.tier.01.name=Basic Polarizer
+    S:gt.blockmachines.basicmachine.polarizer.tier.02.name=Advanced Polarizer
+    S:gt.blockmachines.basicmachine.polarizer.tier.03.name=Advanced Polarizer II
+    S:gt.blockmachines.basicmachine.polarizer.tier.04.name=Advanced Polarizer III
+    S:gt.blockmachines.basicmachine.polarizer.tier.05.name=Advanced Polarizer IV
     S:gt.blockmachines.basicmachine.printer.tier.01.name=基础打印机
     S:gt.blockmachines.basicmachine.printer.tier.02.name=进阶打印机
     S:gt.blockmachines.basicmachine.printer.tier.03.name=进阶打印机 II
@@ -2073,11 +2098,6 @@ languagefile {
     S:gt.blockmachines.cable.gold.04.name=4x金线缆
     S:gt.blockmachines.cable.gold.08.name=8x金线缆
     S:gt.blockmachines.cable.gold.12.name=12x金线缆
-    S:gt.blockmachines.cable.graphene.01.name=1x石墨烯线缆
-    S:gt.blockmachines.cable.graphene.02.name=2x石墨烯线缆
-    S:gt.blockmachines.cable.graphene.04.name=4x石墨烯线缆
-    S:gt.blockmachines.cable.graphene.08.name=8x石墨烯线缆
-    S:gt.blockmachines.cable.graphene.12.name=12x石墨烯线缆
     S:gt.blockmachines.cable.iron.01.name=1x铁线缆
     S:gt.blockmachines.cable.iron.02.name=2x铁线缆
     S:gt.blockmachines.cable.iron.04.name=4x铁线缆
@@ -2198,6 +2218,7 @@ languagefile {
     S:gt.blockmachines.gt_frame_invar.name=殷钢框架
     S:gt.blockmachines.gt_frame_iridium.name=铱框架
     S:gt.blockmachines.gt_frame_iron.name=铁框架
+    S:gt.blockmachines.gt_frame_ironmagnetic.name=Magnetic Iron Frame Box
     S:gt.blockmachines.gt_frame_ironwood.name=铁木框架
     S:gt.blockmachines.gt_frame_kanthal.name=坝塔尔合金框架
     S:gt.blockmachines.gt_frame_lanthanum.name=镧框架
@@ -2216,6 +2237,7 @@ languagefile {
     S:gt.blockmachines.gt_frame_naquadahenriched.name=浓缩硅岩框架
     S:gt.blockmachines.gt_frame_naquadria.name=硅岩框架
     S:gt.blockmachines.gt_frame_neodymium.name=钕框架
+    S:gt.blockmachines.gt_frame_neodymiummagnetic.name=Magnetic Neodymium Frame Box
     S:gt.blockmachines.gt_frame_neutronium.name=中子元素框架
     S:gt.blockmachines.gt_frame_nichrome.name=镍铬铁框架
     S:gt.blockmachines.gt_frame_nickel.name=镍框架
@@ -2245,6 +2267,7 @@ languagefile {
     S:gt.blockmachines.gt_frame_stainlesssteel.name=不锈钢框架
     S:gt.blockmachines.gt_frame_steel.name=钢框架
     S:gt.blockmachines.gt_frame_steelleaf.name=铁叶框架
+    S:gt.blockmachines.gt_frame_steelmagnetic.name=Magnetic Steel Frame Box
     S:gt.blockmachines.gt_frame_sterlingsilver.name=纯银框架
     S:gt.blockmachines.gt_frame_sunnarium.name=太阳合金框架
     S:gt.blockmachines.gt_frame_tantalum.name=钽框架
@@ -2562,6 +2585,12 @@ languagefile {
     S:gt.blockmachines.wire.steel.08.name=8x钢线缆(未绝缘)
     S:gt.blockmachines.wire.steel.12.name=12x钢线缆(未绝缘)
     S:gt.blockmachines.wire.steel.16.name=16x钢线缆(未绝缘)
+    S:gt.blockmachines.wire.superconductor.01.name=1x Superconductor Wire
+    S:gt.blockmachines.wire.superconductor.02.name=2x Superconductor Wire
+    S:gt.blockmachines.wire.superconductor.04.name=4x Superconductor Wire
+    S:gt.blockmachines.wire.superconductor.08.name=8x Superconductor Wire
+    S:gt.blockmachines.wire.superconductor.12.name=12x Superconductor Wire
+    S:gt.blockmachines.wire.superconductor.16.name=16x Superconductor Wire
     S:gt.blockmachines.wire.tin.01.name=1x锡线缆(未绝缘)
     S:gt.blockmachines.wire.tin.02.name=2x锡线缆(未绝缘)
     S:gt.blockmachines.wire.tin.04.name=4x锡线缆(未绝缘)
@@ -2589,7 +2618,6 @@ languagefile {
     S:gt.coil01tooltip=Base Heating Capacity = 1800 Kelvin
     S:gt.coil02tooltip=Base Heating Capacity = 2700 Kelvin
     S:gt.coil03tooltip=Base Heating Capacity = 3600 Kelvin
-    S:gt.integrated_circuit.configuration=Configuration: 
     S:gt.integrated_circuit.name=集成电路
     S:gt.itemconcretes.0.name=黑色水泥
     S:gt.itemconcretes.1.name=黑色水泥圆石
@@ -2763,6 +2791,9 @@ languagefile {
     S:gt.itemores.1351.name=玫瑰金矿石
     S:gt.itemores.1352.name=黑黄铜矿石
     S:gt.itemores.1353.name=铋黄铜矿石
+    S:gt.itemores.1354.name=Magnetic Iron Ore
+    S:gt.itemores.1355.name=Magnetic Steel Ore
+    S:gt.itemores.1356.name=Magnetic Neodymium Ore
     S:gt.itemores.14.name=氟矿石
     S:gt.itemores.1500.name=钻石矿石
     S:gt.itemores.1501.name=绿宝石矿石
@@ -2941,6 +2972,9 @@ languagefile {
     S:gt.itemores.16351.name=贫瘠玫瑰金矿石
     S:gt.itemores.16352.name=贫瘠黑黄铜矿石
     S:gt.itemores.16353.name=贫瘠铋黄铜矿石
+    S:gt.itemores.16354.name=Small Magnetic Iron Ore
+    S:gt.itemores.16355.name=Small Magnetic Steel Ore
+    S:gt.itemores.16356.name=Small Magnetic Neodymium Ore
     S:gt.itemores.16500.name=贫瘠钻石矿石
     S:gt.itemores.16501.name=贫瘠绿宝石矿石
     S:gt.itemores.16502.name=贫瘠红宝石矿石
@@ -3103,6 +3137,7 @@ languagefile {
     S:gt.itemores.16888.name=贫瘠咖啡矿石
     S:gt.itemores.16889.name=贫瘠封印之木矿石
     S:gt.itemores.16890.name=贫瘠玻璃矿石
+    S:gt.itemores.16891.name=Small Rare Earth Ore
     S:gt.itemores.16900.name=贫瘠芒硝矿石
     S:gt.itemores.16901.name=贫瘠Mica矿石
     S:gt.itemores.16902.name=贫瘠滑石
@@ -3311,6 +3346,9 @@ languagefile {
     S:gt.itemores.17351.name=贫瘠玫瑰金矿石
     S:gt.itemores.17352.name=贫瘠黑黄铜矿石
     S:gt.itemores.17353.name=贫瘠铋黄铜矿石
+    S:gt.itemores.17354.name=Small Magnetic Iron Ore
+    S:gt.itemores.17355.name=Small Magnetic Steel Ore
+    S:gt.itemores.17356.name=Small Magnetic Neodymium Ore
     S:gt.itemores.17500.name=贫瘠钻石矿石
     S:gt.itemores.17501.name=贫瘠绿宝石矿石
     S:gt.itemores.17502.name=贫瘠红宝石矿石
@@ -3473,6 +3511,7 @@ languagefile {
     S:gt.itemores.17888.name=贫瘠咖啡矿石
     S:gt.itemores.17889.name=贫瘠封印之木矿石
     S:gt.itemores.17890.name=贫瘠玻璃矿石
+    S:gt.itemores.17891.name=Small Rare Earth Ore
     S:gt.itemores.17900.name=贫瘠芒硝矿石
     S:gt.itemores.17901.name=贫瘠Mica矿石
     S:gt.itemores.17902.name=贫瘠滑石
@@ -3691,6 +3730,9 @@ languagefile {
     S:gt.itemores.18351.name=贫瘠玫瑰金矿石
     S:gt.itemores.18352.name=贫瘠黑黄铜矿石
     S:gt.itemores.18353.name=贫瘠铋黄铜矿石
+    S:gt.itemores.18354.name=Small Magnetic Iron Ore
+    S:gt.itemores.18355.name=Small Magnetic Steel Ore
+    S:gt.itemores.18356.name=Small Magnetic Neodymium Ore
     S:gt.itemores.1836.name=Saltpeter矿石
     S:gt.itemores.1837.name=二氧化硅矿石
     S:gt.itemores.1838.name=锰铝榴石矿石
@@ -3907,6 +3949,7 @@ languagefile {
     S:gt.itemores.18889.name=贫瘠封印之木矿石
     S:gt.itemores.1889.name=封印之木矿石
     S:gt.itemores.18890.name=贫瘠玻璃矿石
+    S:gt.itemores.18891.name=Small Rare Earth Ore
     S:gt.itemores.1890.name=玻璃矿石
     S:gt.itemores.18900.name=贫瘠芒硝矿石
     S:gt.itemores.18901.name=贫瘠Mica矿石
@@ -3918,6 +3961,7 @@ languagefile {
     S:gt.itemores.18907.name=贫瘠锂云母矿石
     S:gt.itemores.18908.name=贫瘠菱镁矿矿石
     S:gt.itemores.18909.name=贫瘠镍黄铁矿矿石
+    S:gt.itemores.1891.name=Rare Earth Ore
     S:gt.itemores.18910.name=贫瘠白钨矿矿石
     S:gt.itemores.18911.name=贫瘠明矾矿石
     S:gt.itemores.18912.name=贫瘠温石棉矿石
@@ -4126,6 +4170,9 @@ languagefile {
     S:gt.itemores.19351.name=贫瘠玫瑰金矿石
     S:gt.itemores.19352.name=贫瘠黑黄铜矿石
     S:gt.itemores.19353.name=贫瘠铋黄铜矿石
+    S:gt.itemores.19354.name=Small Magnetic Iron Ore
+    S:gt.itemores.19355.name=Small Magnetic Steel Ore
+    S:gt.itemores.19356.name=Small Magnetic Neodymium Ore
     S:gt.itemores.1936.name=花岗岩砂
     S:gt.itemores.1937.name=锡石砂
     S:gt.itemores.1938.name=石榴石砂
@@ -4301,6 +4348,7 @@ languagefile {
     S:gt.itemores.19888.name=贫瘠咖啡矿石
     S:gt.itemores.19889.name=贫瘠封印之木矿石
     S:gt.itemores.19890.name=贫瘠玻璃矿石
+    S:gt.itemores.19891.name=Small Rare Earth Ore
     S:gt.itemores.19900.name=贫瘠芒硝矿石
     S:gt.itemores.19901.name=贫瘠Mica矿石
     S:gt.itemores.19902.name=贫瘠滑石
@@ -4514,6 +4562,9 @@ languagefile {
     S:gt.itemores.20351.name=贫瘠玫瑰金矿石
     S:gt.itemores.20352.name=贫瘠黑黄铜矿石
     S:gt.itemores.20353.name=贫瘠铋黄铜矿石
+    S:gt.itemores.20354.name=Small Magnetic Iron Ore
+    S:gt.itemores.20355.name=Small Magnetic Steel Ore
+    S:gt.itemores.20356.name=Small Magnetic Neodymium Ore
     S:gt.itemores.2036.name=锌矿石
     S:gt.itemores.2039.name=砷矿石
     S:gt.itemores.2043.name=铷矿石
@@ -4715,6 +4766,7 @@ languagefile {
     S:gt.itemores.20889.name=贫瘠封印之木矿石
     S:gt.itemores.2089.name=铅矿石
     S:gt.itemores.20890.name=贫瘠玻璃矿石
+    S:gt.itemores.20891.name=Small Rare Earth Ore
     S:gt.itemores.2090.name=铋矿石
     S:gt.itemores.20900.name=贫瘠芒硝矿石
     S:gt.itemores.20901.name=贫瘠Mica矿石
@@ -4830,6 +4882,9 @@ languagefile {
     S:gt.itemores.2351.name=玫瑰金矿石
     S:gt.itemores.2352.name=黑黄铜矿石
     S:gt.itemores.2353.name=铋黄铜矿石
+    S:gt.itemores.2354.name=Magnetic Iron Ore
+    S:gt.itemores.2355.name=Magnetic Steel Ore
+    S:gt.itemores.2356.name=Magnetic Neodymium Ore
     S:gt.itemores.25.name=钾矿石
     S:gt.itemores.2500.name=钻石矿石
     S:gt.itemores.2501.name=绿宝石矿石
@@ -4996,6 +5051,7 @@ languagefile {
     S:gt.itemores.2888.name=咖啡矿石
     S:gt.itemores.2889.name=封印之木矿石
     S:gt.itemores.2890.name=玻璃矿石
+    S:gt.itemores.2891.name=Rare Earth Ore
     S:gt.itemores.29.name=钒矿石
     S:gt.itemores.2900.name=芒硝矿石
     S:gt.itemores.2901.name=Mica矿石
@@ -5220,6 +5276,9 @@ languagefile {
     S:gt.itemores.3351.name=玫瑰金矿石
     S:gt.itemores.3352.name=黑黄铜矿石
     S:gt.itemores.3353.name=铋黄铜矿石
+    S:gt.itemores.3354.name=Magnetic Iron Ore
+    S:gt.itemores.3355.name=Magnetic Steel Ore
+    S:gt.itemores.3356.name=Magnetic Neodymium Ore
     S:gt.itemores.336.name=暗影铁矿石
     S:gt.itemores.337.name=暗影钢矿石
     S:gt.itemores.338.name=铁木矿石
@@ -5279,12 +5338,15 @@ languagefile {
     S:gt.itemores.3536.name=木炭矿石
     S:gt.itemores.3537.name=翡翠矿石
     S:gt.itemores.3538.name=褐煤矿石
+    S:gt.itemores.354.name=Magnetic Iron Ore
     S:gt.itemores.3540.name=风之蕴魔石
     S:gt.itemores.3541.name=火之蕴魔石
     S:gt.itemores.3542.name=地之蕴魔石
     S:gt.itemores.3543.name=水之蕴魔石
     S:gt.itemores.3544.name=混沌蕴魔石
     S:gt.itemores.3545.name=秩序蕴魔石
+    S:gt.itemores.355.name=Magnetic Steel Ore
+    S:gt.itemores.356.name=Magnetic Neodymium Ore
     S:gt.itemores.36.name=锌矿石
     S:gt.itemores.3700.name=Lava矿石
     S:gt.itemores.3701.name=Water矿石
@@ -5403,6 +5465,7 @@ languagefile {
     S:gt.itemores.3888.name=咖啡矿石
     S:gt.itemores.3889.name=封印之木矿石
     S:gt.itemores.3890.name=玻璃矿石
+    S:gt.itemores.3891.name=Rare Earth Ore
     S:gt.itemores.39.name=砷矿石
     S:gt.itemores.3900.name=芒硝矿石
     S:gt.itemores.3901.name=Mica矿石
@@ -5587,6 +5650,9 @@ languagefile {
     S:gt.itemores.4351.name=玫瑰金矿石
     S:gt.itemores.4352.name=黑黄铜矿石
     S:gt.itemores.4353.name=铋黄铜矿石
+    S:gt.itemores.4354.name=Magnetic Iron Ore
+    S:gt.itemores.4355.name=Magnetic Steel Ore
+    S:gt.itemores.4356.name=Magnetic Neodymium Ore
     S:gt.itemores.44.name=锶矿石
     S:gt.itemores.45.name=钇矿石
     S:gt.itemores.4500.name=钻石矿石
@@ -5753,6 +5819,7 @@ languagefile {
     S:gt.itemores.4888.name=咖啡矿石
     S:gt.itemores.4889.name=封印之木矿石
     S:gt.itemores.4890.name=玻璃矿石
+    S:gt.itemores.4891.name=Rare Earth Ore
     S:gt.itemores.4900.name=芒硝矿石
     S:gt.itemores.4901.name=Mica矿石
     S:gt.itemores.4902.name=滑石
@@ -5999,6 +6066,7 @@ languagefile {
     S:gt.itemores.889.name=封印之木矿石
     S:gt.itemores.89.name=铅矿石
     S:gt.itemores.890.name=玻璃矿石
+    S:gt.itemores.891.name=Rare Earth Ore
     S:gt.itemores.9.name=硼矿石
     S:gt.itemores.90.name=铋矿石
     S:gt.itemores.900.name=芒硝矿石
@@ -6405,6 +6473,12 @@ languagefile {
     S:gt.metaitem.01.11352.tooltip=AuAgCu3
     S:gt.metaitem.01.11353.name=铋黄铜锭
     S:gt.metaitem.01.11353.tooltip=BiZnCu3
+    S:gt.metaitem.01.11354.name=Magnetic Iron Ingot
+    S:gt.metaitem.01.11354.tooltip=Fe
+    S:gt.metaitem.01.11355.name=Magnetic Steel Ingot
+    S:gt.metaitem.01.11355.tooltip=Fe50C
+    S:gt.metaitem.01.11356.name=Magnetic Neodymium Ingot
+    S:gt.metaitem.01.11356.tooltip=Nd
     S:gt.metaitem.01.11521.name=立场锭
     S:gt.metaitem.01.11521.tooltip=
     S:gt.metaitem.01.11829.name=深渊铁锭
@@ -6561,6 +6635,12 @@ languagefile {
     S:gt.metaitem.01.1352.tooltip=AuAgCu3
     S:gt.metaitem.01.1353.name=一小撮铋黄铜粉末
     S:gt.metaitem.01.1353.tooltip=BiZnCu3
+    S:gt.metaitem.01.1354.name=Small Pile of Magnetic Iron Dust
+    S:gt.metaitem.01.1354.tooltip=Fe
+    S:gt.metaitem.01.1355.name=Small Pile of Magnetic Steel Dust
+    S:gt.metaitem.01.1355.tooltip=Fe50C
+    S:gt.metaitem.01.1356.name=Small Pile of Magnetic Neodymium Dust
+    S:gt.metaitem.01.1356.tooltip=Nd
     S:gt.metaitem.01.1500.name=一小撮钻石粉末
     S:gt.metaitem.01.1500.tooltip=C
     S:gt.metaitem.01.1501.name=一小撮绿宝石粉末
@@ -6873,6 +6953,12 @@ languagefile {
     S:gt.metaitem.01.17352.tooltip=AuAgCu3
     S:gt.metaitem.01.17353.name=铋黄铜板
     S:gt.metaitem.01.17353.tooltip=BiZnCu3
+    S:gt.metaitem.01.17354.name=Magnetic Iron Plate
+    S:gt.metaitem.01.17354.tooltip=Fe
+    S:gt.metaitem.01.17355.name=Magnetic Steel Plate
+    S:gt.metaitem.01.17355.tooltip=Fe50C
+    S:gt.metaitem.01.17356.name=Magnetic Neodymium Plate
+    S:gt.metaitem.01.17356.tooltip=Nd
     S:gt.metaitem.01.17500.name=钻石板
     S:gt.metaitem.01.17500.tooltip=C128
     S:gt.metaitem.01.17501.name=绿宝石板
@@ -6987,6 +7073,8 @@ languagefile {
     S:gt.metaitem.01.17889.tooltip=
     S:gt.metaitem.01.17890.name=玻璃压制板
     S:gt.metaitem.01.17890.tooltip=
+    S:gt.metaitem.01.17947.name=Concrete Plate
+    S:gt.metaitem.01.17947.tooltip=
     S:gt.metaitem.01.18.name=很小一撮镁粉末
     S:gt.metaitem.01.18.tooltip=Mg
     S:gt.metaitem.01.1800.name=一小撮火药
@@ -7171,6 +7259,8 @@ languagefile {
     S:gt.metaitem.01.1889.tooltip=
     S:gt.metaitem.01.1890.name=一小撮玻璃粉末
     S:gt.metaitem.01.1890.tooltip=
+    S:gt.metaitem.01.1891.name=Small Pile of Rare Earth
+    S:gt.metaitem.01.1891.tooltip=
     S:gt.metaitem.01.19.name=很小一撮铝粉末
     S:gt.metaitem.01.19.tooltip=Al
     S:gt.metaitem.01.1900.name=一小撮芒硝粉末
@@ -7707,6 +7797,12 @@ languagefile {
     S:gt.metaitem.01.23352.tooltip=AuAgCu3
     S:gt.metaitem.01.23353.name=铋黄铜杆
     S:gt.metaitem.01.23353.tooltip=BiZnCu3
+    S:gt.metaitem.01.23354.name=Magnetic Iron Rod
+    S:gt.metaitem.01.23354.tooltip=Fe
+    S:gt.metaitem.01.23355.name=Magnetic Steel Rod
+    S:gt.metaitem.01.23355.tooltip=Fe50C
+    S:gt.metaitem.01.23356.name=Magnetic Neodymium Rod
+    S:gt.metaitem.01.23356.tooltip=Nd
     S:gt.metaitem.01.2336.name=暗影铁粉末
     S:gt.metaitem.01.2336.tooltip=Fe3Ma
     S:gt.metaitem.01.2337.name=暗影钢粉末
@@ -7819,6 +7915,8 @@ languagefile {
     S:gt.metaitem.01.23536.tooltip=C
     S:gt.metaitem.01.23538.name=褐煤杆
     S:gt.metaitem.01.23538.tooltip=C2(H2O)4C2
+    S:gt.metaitem.01.2354.name=Magnetic Iron Dust
+    S:gt.metaitem.01.2354.tooltip=Fe
     S:gt.metaitem.01.23540.name=风之要素杆
     S:gt.metaitem.01.23540.tooltip=
     S:gt.metaitem.01.23541.name=火之要素杆
@@ -7831,6 +7929,10 @@ languagefile {
     S:gt.metaitem.01.23544.tooltip=
     S:gt.metaitem.01.23545.name=秩序要素杆
     S:gt.metaitem.01.23545.tooltip=
+    S:gt.metaitem.01.2355.name=Magnetic Steel Dust
+    S:gt.metaitem.01.2355.tooltip=Fe50C
+    S:gt.metaitem.01.2356.name=Magnetic Neodymium Dust
+    S:gt.metaitem.01.2356.tooltip=Nd
     S:gt.metaitem.01.23829.name=深渊铁杆
     S:gt.metaitem.01.23829.tooltip=Fe
     S:gt.metaitem.01.23874.name=塑料杆
@@ -8185,6 +8287,12 @@ languagefile {
     S:gt.metaitem.01.25352.tooltip=AuAgCu3
     S:gt.metaitem.01.25353.name=铋黄铜垫片
     S:gt.metaitem.01.25353.tooltip=BiZnCu3
+    S:gt.metaitem.01.25354.name=Magnetic Iron Round
+    S:gt.metaitem.01.25354.tooltip=Fe
+    S:gt.metaitem.01.25355.name=Magnetic Steel Round
+    S:gt.metaitem.01.25355.tooltip=Fe50C
+    S:gt.metaitem.01.25356.name=Magnetic Neodymium Round
+    S:gt.metaitem.01.25356.tooltip=Nd
     S:gt.metaitem.01.2536.name=木炭粉末
     S:gt.metaitem.01.2536.tooltip=C
     S:gt.metaitem.01.2537.name=翡翠粉末
@@ -8435,6 +8543,12 @@ languagefile {
     S:gt.metaitem.01.26352.tooltip=AuAgCu3
     S:gt.metaitem.01.26353.name=铋黄铜螺栓
     S:gt.metaitem.01.26353.tooltip=BiZnCu3
+    S:gt.metaitem.01.26354.name=Magnetic Iron Bolt
+    S:gt.metaitem.01.26354.tooltip=Fe
+    S:gt.metaitem.01.26355.name=Magnetic Steel Bolt
+    S:gt.metaitem.01.26355.tooltip=Fe50C
+    S:gt.metaitem.01.26356.name=Magnetic Neodymium Bolt
+    S:gt.metaitem.01.26356.tooltip=Nd
     S:gt.metaitem.01.26500.name=钻石螺栓
     S:gt.metaitem.01.26500.tooltip=C
     S:gt.metaitem.01.26501.name=绿宝石螺栓
@@ -8757,6 +8871,12 @@ languagefile {
     S:gt.metaitem.01.27352.tooltip=AuAgCu3
     S:gt.metaitem.01.27353.name=铋黄铜螺丝
     S:gt.metaitem.01.27353.tooltip=BiZnCu3
+    S:gt.metaitem.01.27354.name=Magnetic Iron Screw
+    S:gt.metaitem.01.27354.tooltip=Fe
+    S:gt.metaitem.01.27355.name=Magnetic Steel Screw
+    S:gt.metaitem.01.27355.tooltip=Fe50C
+    S:gt.metaitem.01.27356.name=Magnetic Neodymium Screw
+    S:gt.metaitem.01.27356.tooltip=Nd
     S:gt.metaitem.01.27500.name=钻石螺丝
     S:gt.metaitem.01.27500.tooltip=C
     S:gt.metaitem.01.27501.name=绿宝石螺丝
@@ -9135,6 +9255,12 @@ languagefile {
     S:gt.metaitem.01.28352.tooltip=AuAgCu3
     S:gt.metaitem.01.28353.name=铋黄铜环
     S:gt.metaitem.01.28353.tooltip=BiZnCu3
+    S:gt.metaitem.01.28354.name=Magnetic Iron Ring
+    S:gt.metaitem.01.28354.tooltip=Fe
+    S:gt.metaitem.01.28355.name=Magnetic Steel Ring
+    S:gt.metaitem.01.28355.tooltip=Fe50C
+    S:gt.metaitem.01.28356.name=Magnetic Neodymium Ring
+    S:gt.metaitem.01.28356.tooltip=Nd
     S:gt.metaitem.01.2836.name=硝石粉末
     S:gt.metaitem.01.2836.tooltip=KNO3
     S:gt.metaitem.01.2837.name=二氧化硅粉末
@@ -9257,6 +9383,8 @@ languagefile {
     S:gt.metaitem.01.2889.tooltip=
     S:gt.metaitem.01.2890.name=玻璃粉末
     S:gt.metaitem.01.2890.tooltip=
+    S:gt.metaitem.01.2891.name=Rare Earth
+    S:gt.metaitem.01.2891.tooltip=
     S:gt.metaitem.01.29.name=很小一撮钒粉末
     S:gt.metaitem.01.29.tooltip=V
     S:gt.metaitem.01.2900.name=芒硝粉末
@@ -9547,6 +9675,12 @@ languagefile {
     S:gt.metaitem.01.29352.tooltip=AuAgCu3
     S:gt.metaitem.01.29353.name=铋黄铜箔
     S:gt.metaitem.01.29353.tooltip=BiZnCu3
+    S:gt.metaitem.01.29354.name=Magnetic Iron Foil
+    S:gt.metaitem.01.29354.tooltip=Fe
+    S:gt.metaitem.01.29355.name=Magnetic Steel Foil
+    S:gt.metaitem.01.29355.tooltip=Fe50C
+    S:gt.metaitem.01.29356.name=Magnetic Neodymium Foil
+    S:gt.metaitem.01.29356.tooltip=Nd
     S:gt.metaitem.01.2936.name=花岗岩砂
     S:gt.metaitem.01.2936.tooltip=Fe3O4(SiO2)4KMg3Al3F2Si3O10
     S:gt.metaitem.01.2937.name=锡石砂
@@ -9649,8 +9783,6 @@ languagefile {
     S:gt.metaitem.01.30065.tooltip=Ce
     S:gt.metaitem.01.30066.name=镨槽
     S:gt.metaitem.01.30066.tooltip=Pr
-    S:gt.metaitem.01.30067.name=钕槽
-    S:gt.metaitem.01.30067.tooltip=Nd
     S:gt.metaitem.01.30068.name=钷槽
     S:gt.metaitem.01.30068.tooltip=Pm
     S:gt.metaitem.01.30069.name=钐槽
@@ -9939,8 +10071,6 @@ languagefile {
     S:gt.metaitem.01.31065.tooltip=Ce
     S:gt.metaitem.01.31066.name=镨离子槽
     S:gt.metaitem.01.31066.tooltip=Pr
-    S:gt.metaitem.01.31067.name=钕离子槽
-    S:gt.metaitem.01.31067.tooltip=Nd
     S:gt.metaitem.01.31068.name=钷离子槽
     S:gt.metaitem.01.31068.tooltip=Pm
     S:gt.metaitem.01.31069.name=钐离子槽
@@ -10489,6 +10619,8 @@ languagefile {
     S:gt.metaitem.01.3537.tooltip=
     S:gt.metaitem.01.3538.name=含有杂质的褐煤粉末
     S:gt.metaitem.01.3538.tooltip=C2(H2O)4C2
+    S:gt.metaitem.01.354.name=Tiny Pile of Magnetic Iron Dust
+    S:gt.metaitem.01.354.tooltip=Fe
     S:gt.metaitem.01.3540.name=含有杂质的风之蕴晶体粉末
     S:gt.metaitem.01.3540.tooltip=
     S:gt.metaitem.01.3541.name=含有杂质的火之蕴晶体粉末
@@ -10501,6 +10633,10 @@ languagefile {
     S:gt.metaitem.01.3544.tooltip=
     S:gt.metaitem.01.3545.name=含有杂质的秩序晶体粉末
     S:gt.metaitem.01.3545.tooltip=
+    S:gt.metaitem.01.355.name=Tiny Pile of Magnetic Steel Dust
+    S:gt.metaitem.01.355.tooltip=Fe50C
+    S:gt.metaitem.01.356.name=Tiny Pile of Magnetic Neodymium Dust
+    S:gt.metaitem.01.356.tooltip=Nd
     S:gt.metaitem.01.36.name=很小一撮锌粉末
     S:gt.metaitem.01.36.tooltip=Zn
     S:gt.metaitem.01.3802.name=含有杂质的燧石粉末
@@ -12679,6 +12815,8 @@ languagefile {
     S:gt.metaitem.01.89.tooltip=Pb
     S:gt.metaitem.01.890.name=很小一撮玻璃粉末
     S:gt.metaitem.01.890.tooltip=
+    S:gt.metaitem.01.891.name=Tiny Pile of Rare Earth
+    S:gt.metaitem.01.891.tooltip=
     S:gt.metaitem.01.9.name=很小一撮硼粉末
     S:gt.metaitem.01.9.tooltip=B
     S:gt.metaitem.01.90.name=很小一撮铋粉末
@@ -12969,6 +13107,12 @@ languagefile {
     S:gt.metaitem.01.9352.tooltip=AuAgCu3
     S:gt.metaitem.01.9353.name=铋黄铜粒
     S:gt.metaitem.01.9353.tooltip=BiZnCu3
+    S:gt.metaitem.01.9354.name=Magnetic Iron Nugget
+    S:gt.metaitem.01.9354.tooltip=Fe
+    S:gt.metaitem.01.9355.name=Magnetic Steel Nugget
+    S:gt.metaitem.01.9355.tooltip=Fe50C
+    S:gt.metaitem.01.9356.name=Magnetic Neodymium Nugget
+    S:gt.metaitem.01.9356.tooltip=Nd
     S:gt.metaitem.01.936.name=很小一撮花岗岩砂
     S:gt.metaitem.01.936.tooltip=Fe3O4(SiO2)4KMg3Al3F2Si3O10
     S:gt.metaitem.01.937.name=很小一撮锡石砂
@@ -13042,6 +13186,8 @@ languagefile {
     S:gt.metaitem.02.10052.tooltip=Pd
     S:gt.metaitem.02.10054.name=银扳手顶
     S:gt.metaitem.02.10054.tooltip=Ag
+    S:gt.metaitem.02.10067.name=Neodymium Wrench Tip
+    S:gt.metaitem.02.10067.tooltip=Nd
     S:gt.metaitem.02.1008.name=铍镐头
     S:gt.metaitem.02.1008.tooltip=Be
     S:gt.metaitem.02.10081.name=钨扳手顶
@@ -13184,6 +13330,12 @@ languagefile {
     S:gt.metaitem.02.10352.tooltip=(AuAgCu3)4
     S:gt.metaitem.02.10353.name=铋黄铜扳手顶
     S:gt.metaitem.02.10353.tooltip=(BiZnCu3)4
+    S:gt.metaitem.02.10354.name=Magnetic Iron Wrench Tip
+    S:gt.metaitem.02.10354.tooltip=Fe4
+    S:gt.metaitem.02.10355.name=Magnetic Steel Wrench Tip
+    S:gt.metaitem.02.10355.tooltip=Fe50C4
+    S:gt.metaitem.02.10356.name=Magnetic Neodymium Wrench Tip
+    S:gt.metaitem.02.10356.tooltip=Nd4
     S:gt.metaitem.02.1048.name=钼镐头
     S:gt.metaitem.02.1048.tooltip=Mo
     S:gt.metaitem.02.10500.name=钻石扳手顶
@@ -13238,6 +13390,8 @@ languagefile {
     S:gt.metaitem.02.10544.tooltip=
     S:gt.metaitem.02.10545.name=秩序扳手顶
     S:gt.metaitem.02.10545.tooltip=
+    S:gt.metaitem.02.1067.name=Neodymium Pickaxe Head
+    S:gt.metaitem.02.1067.tooltip=Nd
     S:gt.metaitem.02.10801.name=烈焰扳手顶
     S:gt.metaitem.02.10801.tooltip=(C2SMa)6
     S:gt.metaitem.02.1081.name=钨镐头
@@ -13292,6 +13446,8 @@ languagefile {
     S:gt.metaitem.02.11052.tooltip=Pd
     S:gt.metaitem.02.11054.name=银万能铲头
     S:gt.metaitem.02.11054.tooltip=Ag
+    S:gt.metaitem.02.11067.name=Neodymium Universal Spade Head
+    S:gt.metaitem.02.11067.tooltip=Nd
     S:gt.metaitem.02.11081.name=钨万能铲头
     S:gt.metaitem.02.11081.tooltip=W
     S:gt.metaitem.02.11083.name=锇万能铲头
@@ -13416,6 +13572,12 @@ languagefile {
     S:gt.metaitem.02.11352.tooltip=AuAgCu3
     S:gt.metaitem.02.11353.name=铋黄铜万能铲头
     S:gt.metaitem.02.11353.tooltip=BiZnCu3
+    S:gt.metaitem.02.11354.name=Magnetic Iron Universal Spade Head
+    S:gt.metaitem.02.11354.tooltip=Fe
+    S:gt.metaitem.02.11355.name=Magnetic Steel Universal Spade Head
+    S:gt.metaitem.02.11355.tooltip=Fe50C
+    S:gt.metaitem.02.11356.name=Magnetic Neodymium Universal Spade Head
+    S:gt.metaitem.02.11356.tooltip=Nd
     S:gt.metaitem.02.11500.name=钻石Universal Spade Head
     S:gt.metaitem.02.11500.tooltip=C128
     S:gt.metaitem.02.11501.name=绿宝石Universal Spade Head
@@ -13496,6 +13658,8 @@ languagefile {
     S:gt.metaitem.02.12052.tooltip=Pd
     S:gt.metaitem.02.12054.name=银镰刀刀刃
     S:gt.metaitem.02.12054.tooltip=Ag
+    S:gt.metaitem.02.12067.name=Neodymium Sense Blade
+    S:gt.metaitem.02.12067.tooltip=Nd
     S:gt.metaitem.02.12081.name=钨镰刀刀刃
     S:gt.metaitem.02.12081.tooltip=W
     S:gt.metaitem.02.12083.name=锇镰刀刀刃
@@ -13620,6 +13784,12 @@ languagefile {
     S:gt.metaitem.02.12352.tooltip=(AuAgCu3)3
     S:gt.metaitem.02.12353.name=铋青铜镰刀刀刃
     S:gt.metaitem.02.12353.tooltip=(BiZnCu3)3
+    S:gt.metaitem.02.12354.name=Magnetic Iron Sense Blade
+    S:gt.metaitem.02.12354.tooltip=Fe3
+    S:gt.metaitem.02.12355.name=Magnetic Steel Sense Blade
+    S:gt.metaitem.02.12355.tooltip=Fe50C3
+    S:gt.metaitem.02.12356.name=Magnetic Neodymium Sense Blade
+    S:gt.metaitem.02.12356.tooltip=Nd3
     S:gt.metaitem.02.12500.name=钻石镰刀刀刃
     S:gt.metaitem.02.12500.tooltip=C384
     S:gt.metaitem.02.12501.name=绿宝石镰刀刀刃
@@ -13732,6 +13902,8 @@ languagefile {
     S:gt.metaitem.02.13054.tooltip=Ag
     S:gt.metaitem.02.1306.name=不锈钢镐头
     S:gt.metaitem.02.1306.tooltip=(Fe6CrMnNi)3
+    S:gt.metaitem.02.13067.name=Neodymium Plow Head
+    S:gt.metaitem.02.13067.tooltip=Nd
     S:gt.metaitem.02.1307.name=生铁镐头
     S:gt.metaitem.02.1307.tooltip=Fe3
     S:gt.metaitem.02.13081.name=钨犁头
@@ -13904,6 +14076,12 @@ languagefile {
     S:gt.metaitem.02.13352.tooltip=(AuAgCu3)4
     S:gt.metaitem.02.13353.name=铋青铜犁头
     S:gt.metaitem.02.13353.tooltip=(BiZnCu3)4
+    S:gt.metaitem.02.13354.name=Magnetic Iron Plow Head
+    S:gt.metaitem.02.13354.tooltip=Fe4
+    S:gt.metaitem.02.13355.name=Magnetic Steel Plow Head
+    S:gt.metaitem.02.13355.tooltip=Fe50C4
+    S:gt.metaitem.02.13356.name=Magnetic Neodymium Plow Head
+    S:gt.metaitem.02.13356.tooltip=Nd4
     S:gt.metaitem.02.1336.name=暗影铁镐头
     S:gt.metaitem.02.1336.tooltip=(Fe3Ma)4
     S:gt.metaitem.02.1337.name=暗影钢镐头
@@ -13974,6 +14152,8 @@ languagefile {
     S:gt.metaitem.02.13529.tooltip=Ma4
     S:gt.metaitem.02.1353.name=铋黄铜镐头
     S:gt.metaitem.02.1353.tooltip=(BiZnCu3)3
+    S:gt.metaitem.02.1354.name=Magnetic Iron Pickaxe Head
+    S:gt.metaitem.02.1354.tooltip=Fe3
     S:gt.metaitem.02.13540.name=魔力犁头
     S:gt.metaitem.02.13540.tooltip=
     S:gt.metaitem.02.13541.name=火之蕴魔石犁头
@@ -13986,6 +14166,10 @@ languagefile {
     S:gt.metaitem.02.13544.tooltip=
     S:gt.metaitem.02.13545.name=秩序蕴魔石犁头
     S:gt.metaitem.02.13545.tooltip=
+    S:gt.metaitem.02.1355.name=Magnetic Steel Pickaxe Head
+    S:gt.metaitem.02.1355.tooltip=Fe50C3
+    S:gt.metaitem.02.1356.name=Magnetic Neodymium Pickaxe Head
+    S:gt.metaitem.02.1356.tooltip=Nd3
     S:gt.metaitem.02.13801.name=烈焰犁头
     S:gt.metaitem.02.13801.tooltip=(C2SMa)6
     S:gt.metaitem.02.13802.name=燧石犁头
@@ -14104,6 +14288,8 @@ languagefile {
     S:gt.metaitem.02.2052.tooltip=Pd
     S:gt.metaitem.02.2054.name=银铲头
     S:gt.metaitem.02.2054.tooltip=Ag
+    S:gt.metaitem.02.2067.name=Neodymium Shovel Head
+    S:gt.metaitem.02.2067.tooltip=Nd
     S:gt.metaitem.02.2081.name=钨铲头
     S:gt.metaitem.02.2081.tooltip=W
     S:gt.metaitem.02.2083.name=锇铲头
@@ -14228,6 +14414,12 @@ languagefile {
     S:gt.metaitem.02.2352.tooltip=AuAgCu3
     S:gt.metaitem.02.2353.name=铋黄铜铲头
     S:gt.metaitem.02.2353.tooltip=BiZnCu3
+    S:gt.metaitem.02.2354.name=Magnetic Iron Shovel Head
+    S:gt.metaitem.02.2354.tooltip=Fe
+    S:gt.metaitem.02.2355.name=Magnetic Steel Shovel Head
+    S:gt.metaitem.02.2355.tooltip=Fe50C
+    S:gt.metaitem.02.2356.name=Magnetic Neodymium Shovel Head
+    S:gt.metaitem.02.2356.tooltip=Nd
     S:gt.metaitem.02.2500.name=钻石铲头
     S:gt.metaitem.02.2500.tooltip=C128
     S:gt.metaitem.02.2501.name=绿宝石铲头
@@ -14342,6 +14534,8 @@ languagefile {
     S:gt.metaitem.02.3054.tooltip=Ag
     S:gt.metaitem.02.306.name=不锈钢剑刃
     S:gt.metaitem.02.306.tooltip=(Fe6CrMnNi)2
+    S:gt.metaitem.02.3067.name=Neodymium Axe Head
+    S:gt.metaitem.02.3067.tooltip=Nd
     S:gt.metaitem.02.307.name=生铁剑刃
     S:gt.metaitem.02.307.tooltip=Fe2
     S:gt.metaitem.02.3081.name=钨斧头
@@ -14392,6 +14586,8 @@ languagefile {
     S:gt.metaitem.02.31054.tooltip=Ag
     S:gt.metaitem.02.31057.name=锡齿轮
     S:gt.metaitem.02.31057.tooltip=Sn
+    S:gt.metaitem.02.31067.name=Neodymium Gear
+    S:gt.metaitem.02.31067.tooltip=Nd
     S:gt.metaitem.02.31081.name=钨齿轮
     S:gt.metaitem.02.31081.tooltip=W
     S:gt.metaitem.02.31083.name=锇齿轮
@@ -14462,6 +14658,12 @@ languagefile {
     S:gt.metaitem.02.31352.tooltip=(AuAgCu3)4
     S:gt.metaitem.02.31353.name=铋黄铜齿轮
     S:gt.metaitem.02.31353.tooltip=(BiZnCu3)4
+    S:gt.metaitem.02.31354.name=Magnetic Iron Gear
+    S:gt.metaitem.02.31354.tooltip=Fe4
+    S:gt.metaitem.02.31355.name=Magnetic Steel Gear
+    S:gt.metaitem.02.31355.tooltip=Fe50C4
+    S:gt.metaitem.02.31356.name=Magnetic Neodymium Gear
+    S:gt.metaitem.02.31356.tooltip=Nd4
     S:gt.metaitem.02.31500.name=钻石齿轮
     S:gt.metaitem.02.31500.tooltip=C512
     S:gt.metaitem.02.31521.name=立场齿轮
@@ -14830,6 +15032,12 @@ languagefile {
     S:gt.metaitem.02.3352.tooltip=(AuAgCu3)3
     S:gt.metaitem.02.3353.name=铋黄铜斧头
     S:gt.metaitem.02.3353.tooltip=(BiZnCu3)3
+    S:gt.metaitem.02.3354.name=Magnetic Iron Axe Head
+    S:gt.metaitem.02.3354.tooltip=Fe3
+    S:gt.metaitem.02.3355.name=Magnetic Steel Axe Head
+    S:gt.metaitem.02.3355.tooltip=Fe50C3
+    S:gt.metaitem.02.3356.name=Magnetic Neodymium Axe Head
+    S:gt.metaitem.02.3356.tooltip=Nd3
     S:gt.metaitem.02.336.name=暗影铁剑刃
     S:gt.metaitem.02.336.tooltip=(Fe3Ma)2
     S:gt.metaitem.02.337.name=暗影钢剑刃
@@ -14902,6 +15110,8 @@ languagefile {
     S:gt.metaitem.02.3529.tooltip=Ma3
     S:gt.metaitem.02.353.name=铋黄铜剑刃
     S:gt.metaitem.02.353.tooltip=(BiZnCu3)2
+    S:gt.metaitem.02.354.name=Magnetic Iron Sword Blade
+    S:gt.metaitem.02.354.tooltip=Fe2
     S:gt.metaitem.02.3540.name=风之蕴斧头
     S:gt.metaitem.02.3540.tooltip=
     S:gt.metaitem.02.3541.name=火之蕴斧头
@@ -14914,6 +15124,10 @@ languagefile {
     S:gt.metaitem.02.3544.tooltip=
     S:gt.metaitem.02.3545.name=秩序斧头
     S:gt.metaitem.02.3545.tooltip=
+    S:gt.metaitem.02.355.name=Magnetic Steel Sword Blade
+    S:gt.metaitem.02.355.tooltip=Fe50C2
+    S:gt.metaitem.02.356.name=Magnetic Neodymium Sword Blade
+    S:gt.metaitem.02.356.tooltip=Nd2
     S:gt.metaitem.02.3801.name=烈焰斧头
     S:gt.metaitem.02.3801.tooltip=(C2SMa)4
     S:gt.metaitem.02.3802.name=燧石斧头
@@ -14960,6 +15174,8 @@ languagefile {
     S:gt.metaitem.02.4052.tooltip=Pd
     S:gt.metaitem.02.4054.name=银锄头
     S:gt.metaitem.02.4054.tooltip=Ag
+    S:gt.metaitem.02.4067.name=Neodymium Hoe Head
+    S:gt.metaitem.02.4067.tooltip=Nd
     S:gt.metaitem.02.4081.name=钨锄头
     S:gt.metaitem.02.4081.tooltip=W
     S:gt.metaitem.02.4083.name=锇锄头
@@ -15084,6 +15300,12 @@ languagefile {
     S:gt.metaitem.02.4352.tooltip=(AuAgCu3)2
     S:gt.metaitem.02.4353.name=铋黄铜锄头
     S:gt.metaitem.02.4353.tooltip=(BiZnCu3)2
+    S:gt.metaitem.02.4354.name=Magnetic Iron Hoe Head
+    S:gt.metaitem.02.4354.tooltip=Fe2
+    S:gt.metaitem.02.4355.name=Magnetic Steel Hoe Head
+    S:gt.metaitem.02.4355.tooltip=Fe50C2
+    S:gt.metaitem.02.4356.name=Magnetic Neodymium Hoe Head
+    S:gt.metaitem.02.4356.tooltip=Nd2
     S:gt.metaitem.02.4500.name=钻石锄头
     S:gt.metaitem.02.4500.tooltip=C256
     S:gt.metaitem.02.4501.name=绿宝石锄头
@@ -15194,6 +15416,8 @@ languagefile {
     S:gt.metaitem.02.5054.tooltip=Ag
     S:gt.metaitem.02.506.name=下界之星剑刃
     S:gt.metaitem.02.506.tooltip=
+    S:gt.metaitem.02.5067.name=Neodymium Hammer Head
+    S:gt.metaitem.02.5067.tooltip=Nd
     S:gt.metaitem.02.507.name=黄玉剑刃
     S:gt.metaitem.02.507.tooltip=(Al2SiF2H2O6)2
     S:gt.metaitem.02.508.name=黝帘石剑刃
@@ -15342,6 +15566,12 @@ languagefile {
     S:gt.metaitem.02.5352.tooltip=(AuAgCu3)6
     S:gt.metaitem.02.5353.name=铋黄铜锤头
     S:gt.metaitem.02.5353.tooltip=(BiZnCu3)6
+    S:gt.metaitem.02.5354.name=Magnetic Iron Hammer Head
+    S:gt.metaitem.02.5354.tooltip=Fe6
+    S:gt.metaitem.02.5355.name=Magnetic Steel Hammer Head
+    S:gt.metaitem.02.5355.tooltip=Fe50C6
+    S:gt.metaitem.02.5356.name=Magnetic Neodymium Hammer Head
+    S:gt.metaitem.02.5356.tooltip=Nd6
     S:gt.metaitem.02.54.name=银剑刃
     S:gt.metaitem.02.54.tooltip=Ag
     S:gt.metaitem.02.540.name=风之蕴剑刃
@@ -15450,6 +15680,8 @@ languagefile {
     S:gt.metaitem.02.6052.tooltip=Pd
     S:gt.metaitem.02.6054.name=银锉刀头
     S:gt.metaitem.02.6054.tooltip=Ag
+    S:gt.metaitem.02.6067.name=Neodymium File Head
+    S:gt.metaitem.02.6067.tooltip=Nd
     S:gt.metaitem.02.6081.name=钨锉刀头
     S:gt.metaitem.02.6081.tooltip=W
     S:gt.metaitem.02.6083.name=锇锉刀头
@@ -15572,6 +15804,12 @@ languagefile {
     S:gt.metaitem.02.6352.tooltip=(AuAgCu3)2
     S:gt.metaitem.02.6353.name=铋黄铜锉刀头
     S:gt.metaitem.02.6353.tooltip=(BiZnCu3)2
+    S:gt.metaitem.02.6354.name=Magnetic Iron File Head
+    S:gt.metaitem.02.6354.tooltip=Fe2
+    S:gt.metaitem.02.6355.name=Magnetic Steel File Head
+    S:gt.metaitem.02.6355.tooltip=Fe50C2
+    S:gt.metaitem.02.6356.name=Magnetic Neodymium File Head
+    S:gt.metaitem.02.6356.tooltip=Nd2
     S:gt.metaitem.02.6500.name=钻石锉刀头
     S:gt.metaitem.02.6500.tooltip=C256
     S:gt.metaitem.02.6501.name=绿宝石锉刀头
@@ -15620,6 +15858,8 @@ languagefile {
     S:gt.metaitem.02.6544.tooltip=
     S:gt.metaitem.02.6545.name=秩序锉刀头
     S:gt.metaitem.02.6545.tooltip=
+    S:gt.metaitem.02.67.name=Neodymium Sword Blade
+    S:gt.metaitem.02.67.tooltip=Nd
     S:gt.metaitem.02.6801.name=烈焰锉刀头
     S:gt.metaitem.02.6801.tooltip=(C2SMa)3
     S:gt.metaitem.02.6819.name=石墨烯锉刀头
@@ -15652,6 +15892,8 @@ languagefile {
     S:gt.metaitem.02.7052.tooltip=Pd
     S:gt.metaitem.02.7054.name=银锯刃
     S:gt.metaitem.02.7054.tooltip=Ag
+    S:gt.metaitem.02.7067.name=Neodymium Saw Blade
+    S:gt.metaitem.02.7067.tooltip=Nd
     S:gt.metaitem.02.7081.name=钨锯刃
     S:gt.metaitem.02.7081.tooltip=W
     S:gt.metaitem.02.7083.name=锇锯刃
@@ -15774,6 +16016,12 @@ languagefile {
     S:gt.metaitem.02.7352.tooltip=(AuAgCu3)2
     S:gt.metaitem.02.7353.name=铋黄铜锯刃
     S:gt.metaitem.02.7353.tooltip=(BiZnCu3)2
+    S:gt.metaitem.02.7354.name=Magnetic Iron Saw Blade
+    S:gt.metaitem.02.7354.tooltip=Fe2
+    S:gt.metaitem.02.7355.name=Magnetic Steel Saw Blade
+    S:gt.metaitem.02.7355.tooltip=Fe50C2
+    S:gt.metaitem.02.7356.name=Magnetic Neodymium Saw Blade
+    S:gt.metaitem.02.7356.tooltip=Nd2
     S:gt.metaitem.02.7500.name=钻石锯刃
     S:gt.metaitem.02.7500.tooltip=C256
     S:gt.metaitem.02.7501.name=绿宝石锯刃
@@ -15860,6 +16108,8 @@ languagefile {
     S:gt.metaitem.02.8052.tooltip=Pd
     S:gt.metaitem.02.8054.name=银钻头
     S:gt.metaitem.02.8054.tooltip=Ag
+    S:gt.metaitem.02.8067.name=Neodymium Drill Tip
+    S:gt.metaitem.02.8067.tooltip=Nd
     S:gt.metaitem.02.8081.name=钨钻头
     S:gt.metaitem.02.8081.tooltip=W
     S:gt.metaitem.02.8083.name=锇钻头
@@ -15992,6 +16242,12 @@ languagefile {
     S:gt.metaitem.02.8352.tooltip=(AuAgCu3)4
     S:gt.metaitem.02.8353.name=铋黄铜钻头
     S:gt.metaitem.02.8353.tooltip=(BiZnCu3)4
+    S:gt.metaitem.02.8354.name=Magnetic Iron Drill Tip
+    S:gt.metaitem.02.8354.tooltip=Fe4
+    S:gt.metaitem.02.8355.name=Magnetic Steel Drill Tip
+    S:gt.metaitem.02.8355.tooltip=Fe50C4
+    S:gt.metaitem.02.8356.name=Magnetic Neodymium Drill Tip
+    S:gt.metaitem.02.8356.tooltip=Nd4
     S:gt.metaitem.02.84.name=铱剑刃
     S:gt.metaitem.02.84.tooltip=Ir
     S:gt.metaitem.02.849.name=黑花岗岩剑刃
@@ -16094,6 +16350,8 @@ languagefile {
     S:gt.metaitem.02.9052.tooltip=Pd
     S:gt.metaitem.02.9054.name=银电锯锯刃
     S:gt.metaitem.02.9054.tooltip=Ag
+    S:gt.metaitem.02.9067.name=Neodymium Chainsaw Tip
+    S:gt.metaitem.02.9067.tooltip=Nd
     S:gt.metaitem.02.9081.name=钨电锯锯刃
     S:gt.metaitem.02.9081.tooltip=W
     S:gt.metaitem.02.9083.name=锇电锯锯刃
@@ -16216,6 +16474,12 @@ languagefile {
     S:gt.metaitem.02.9352.tooltip=(AuAgCu3)2
     S:gt.metaitem.02.9353.name=铋黄铜电锯锯刃
     S:gt.metaitem.02.9353.tooltip=(BiZnCu3)2
+    S:gt.metaitem.02.9354.name=Magnetic Iron Chainsaw Tip
+    S:gt.metaitem.02.9354.tooltip=Fe2
+    S:gt.metaitem.02.9355.name=Magnetic Steel Chainsaw Tip
+    S:gt.metaitem.02.9355.tooltip=Fe50C2
+    S:gt.metaitem.02.9356.name=Magnetic Neodymium Chainsaw Tip
+    S:gt.metaitem.02.9356.tooltip=Nd2
     S:gt.metaitem.02.9500.name=钻石电锯锯刃
     S:gt.metaitem.02.9500.tooltip=C256
     S:gt.metaitem.02.9501.name=绿宝石电锯锯刃
@@ -16505,6 +16769,12 @@ languagefile {
     S:gt.metaitem.03.1352.tooltip=AuAgCu3
     S:gt.metaitem.03.1353.name=一箱铋黄铜锭
     S:gt.metaitem.03.1353.tooltip=BiZnCu3
+    S:gt.metaitem.03.1354.name=Crate of Magnetic Iron Ingot
+    S:gt.metaitem.03.1354.tooltip=Fe
+    S:gt.metaitem.03.1355.name=Crate of Magnetic Steel Ingot
+    S:gt.metaitem.03.1355.tooltip=Fe50C
+    S:gt.metaitem.03.1356.name=Crate of Magnetic Neodymium Ingot
+    S:gt.metaitem.03.1356.tooltip=Nd
     S:gt.metaitem.03.1521.name=一箱立场锭
     S:gt.metaitem.03.1521.tooltip=
     S:gt.metaitem.03.17.name=一箱钠粉末
@@ -16931,6 +17201,12 @@ languagefile {
     S:gt.metaitem.03.3352.tooltip=AuAgCu3
     S:gt.metaitem.03.3353.name=一箱铋黄铜板
     S:gt.metaitem.03.3353.tooltip=BiZnCu3
+    S:gt.metaitem.03.3354.name=Crate of Magnetic Iron Plate
+    S:gt.metaitem.03.3354.tooltip=Fe
+    S:gt.metaitem.03.3355.name=Crate of Magnetic Steel Plate
+    S:gt.metaitem.03.3355.tooltip=Fe50C
+    S:gt.metaitem.03.3356.name=Crate of Magnetic Neodymium Plate
+    S:gt.metaitem.03.3356.tooltip=Nd
     S:gt.metaitem.03.336.name=一箱暗影铁粉末
     S:gt.metaitem.03.336.tooltip=Fe3Ma
     S:gt.metaitem.03.337.name=一箱暗影钢粉末
@@ -17047,6 +17323,8 @@ languagefile {
     S:gt.metaitem.03.3536.tooltip=C
     S:gt.metaitem.03.3538.name=一箱褐煤板
     S:gt.metaitem.03.3538.tooltip=C2(H2O)4C2
+    S:gt.metaitem.03.354.name=Crate of Magnetic Iron Dust
+    S:gt.metaitem.03.354.tooltip=Fe
     S:gt.metaitem.03.3540.name=一箱风之蕴晶体板
     S:gt.metaitem.03.3540.tooltip=
     S:gt.metaitem.03.3541.name=一箱火之蕴晶体板
@@ -17059,6 +17337,10 @@ languagefile {
     S:gt.metaitem.03.3544.tooltip=
     S:gt.metaitem.03.3545.name=一箱秩序晶体板
     S:gt.metaitem.03.3545.tooltip=
+    S:gt.metaitem.03.355.name=Crate of Magnetic Steel Dust
+    S:gt.metaitem.03.355.tooltip=Fe50C
+    S:gt.metaitem.03.356.name=Crate of Magnetic Neodymium Dust
+    S:gt.metaitem.03.356.tooltip=Nd
     S:gt.metaitem.03.36.name=一箱锌粉末
     S:gt.metaitem.03.36.tooltip=Zn
     S:gt.metaitem.03.3804.name=一箱黑曜石板
@@ -17437,6 +17719,8 @@ languagefile {
     S:gt.metaitem.03.89.tooltip=Pb
     S:gt.metaitem.03.890.name=一箱玻璃粉末
     S:gt.metaitem.03.890.tooltip=
+    S:gt.metaitem.03.891.name=Crate of Rare Earth
+    S:gt.metaitem.03.891.tooltip=
     S:gt.metaitem.03.9.name=一箱硼粉末
     S:gt.metaitem.03.9.tooltip=B
     S:gt.metaitem.03.90.name=一箱铋粉末
@@ -17691,6 +17975,7 @@ languagefile {
     S:gt.recipe.distillationtower=蒸馏塔
     S:gt.recipe.distillery=蒸馏室
     S:gt.recipe.electrolyzer=电解器
+    S:gt.recipe.electromagneticseparator=Electromagnetic Separator
     S:gt.recipe.extruder=压模器
     S:gt.recipe.fermenter=发酵器
     S:gt.recipe.fluidcanner=液体灌装机
@@ -17699,7 +17984,6 @@ languagefile {
     S:gt.recipe.fluidsolidifier=液体固化器
     S:gt.recipe.fusionreactor=核聚变
     S:gt.recipe.gasturbinefuel=燃气轮机燃料
-    S:gt.recipe.grinder=工业研磨机
     S:gt.recipe.hammer=锤子
     S:gt.recipe.implosioncompressor=聚爆压缩机
     S:gt.recipe.largenaquadahreactor=巨型硅岩反应堆
@@ -17709,6 +17993,7 @@ languagefile {
     S:gt.recipe.metalbender=卷板机
     S:gt.recipe.packager=打包器
     S:gt.recipe.plasmageneratorfuels=等离子发电机燃料
+    S:gt.recipe.polarizer=Electromagnetic Polarizer
     S:gt.recipe.rockbreaker=碎石机
     S:gt.recipe.scanner=扫描仪
     S:gt.recipe.semifluidboilerfuels=半流质锅炉燃料
@@ -17737,6 +18022,8 @@ languagefile {
     S:gt.research.page.1.GT_TRANSZINC=你发现了如何从金属提取§5metallum§0要素并将其转换为锌粒的方法.
     S:gt.research.page.1.GT_WOOD_TO_CHARCOAL=你发现了一种用魔法的方法而不是通常的加热法来制作木炭.<BR><BR>制作木炭首先要隔绝空气,因此需要一些虚空(Vacuus)要素,其次要用火(火之蕴魔石)要素灼烧木头直至其中的水分全部被蒸发.<BR><BR>然而这种方法不会产生木榴油这样的副产品.
     S:gt.runfastertooltip=在这个方块上你可以走得更快
+    S:ic.recipe.compressor=Compressor
+    S:ic.recipe.extractor=Extractor
     S:ic.recipe.orewasher=洗矿机
     S:ic.recipe.thermalcentrifuge=热力离心机
     S:mc.recipe.furnace=炉子
