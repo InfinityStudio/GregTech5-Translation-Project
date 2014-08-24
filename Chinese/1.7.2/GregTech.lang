@@ -2305,7 +2305,7 @@ languagefile {
     S:gt.blockmachines.gt_frame_solderingalloy.name=焊料框架
     S:gt.blockmachines.gt_frame_stainlesssteel.name=不锈钢框架
     S:gt.blockmachines.gt_frame_steel.name=钢框架
-    S:gt.blockmachines.gt_frame_steelleaf.name=铁叶框架
+    S:gt.blockmachines.gt_frame_steelleaf.name=钢叶框架
     S:gt.blockmachines.gt_frame_steelmagnetic.name=磁钢框架
     S:gt.blockmachines.gt_frame_sterlingsilver.name=纯银框架
     S:gt.blockmachines.gt_frame_sunnarium.name=太阳合金框架
@@ -6442,7 +6442,7 @@ languagefile {
     S:gt.metaitem.01.11337.tooltip=(Fe50C)3Ma
     S:gt.metaitem.01.11338.name=铁木锭
     S:gt.metaitem.01.11338.tooltip=(Fe9(?3Ma)9Au)2
-    S:gt.metaitem.01.11339.name=铁叶
+    S:gt.metaitem.01.11339.name=钢叶
     S:gt.metaitem.01.11339.tooltip=Fe50CMa
     S:gt.metaitem.01.11340.name=陨铁锭
     S:gt.metaitem.01.11340.tooltip=
@@ -6602,7 +6602,7 @@ languagefile {
     S:gt.metaitem.01.1337.tooltip=(Fe50C)3Ma
     S:gt.metaitem.01.1338.name=一小撮铁木粉末
     S:gt.metaitem.01.1338.tooltip=Fe9(?3Ma)9Au
-    S:gt.metaitem.01.1339.name=一小撮铁叶粉末
+    S:gt.metaitem.01.1339.name=一小撮钢叶粉末
     S:gt.metaitem.01.1339.tooltip=Fe50CMa
     S:gt.metaitem.01.1340.name=一小撮陨铁粉末
     S:gt.metaitem.01.1340.tooltip=
@@ -6918,7 +6918,7 @@ languagefile {
     S:gt.metaitem.01.17337.tooltip=(Fe50C)3Ma
     S:gt.metaitem.01.17338.name=铁木板
     S:gt.metaitem.01.17338.tooltip=(Fe9(?3Ma)9Au)2
-    S:gt.metaitem.01.17339.name=铁叶板
+    S:gt.metaitem.01.17339.name=钢叶板
     S:gt.metaitem.01.17339.tooltip=Fe50CMa
     S:gt.metaitem.01.17340.name=陨铁板
     S:gt.metaitem.01.17340.tooltip=
@@ -7226,7 +7226,7 @@ languagefile {
     S:gt.metaitem.01.1877.tooltip=Mg3Si4H2O12
     S:gt.metaitem.01.1878.name=一小撮油砂粉末
     S:gt.metaitem.01.1878.tooltip=
-    S:gt.metaitem.01.1879.name=一小撮Chad
+    S:gt.metaitem.01.1879.name=一小撮纸屑
     S:gt.metaitem.01.1879.tooltip=
     S:gt.metaitem.01.1880.name=一小撮橡胶浆
     S:gt.metaitem.01.1880.tooltip=C5H8
@@ -7756,7 +7756,7 @@ languagefile {
     S:gt.metaitem.01.23337.tooltip=(Fe50C)3Ma
     S:gt.metaitem.01.23338.name=铁木杆
     S:gt.metaitem.01.23338.tooltip=Fe9(?3Ma)9Au
-    S:gt.metaitem.01.23339.name=铁叶杆
+    S:gt.metaitem.01.23339.name=钢叶杆
     S:gt.metaitem.01.23339.tooltip=Fe50CMa
     S:gt.metaitem.01.2334.name=玄钢粉末
     S:gt.metaitem.01.2334.tooltip=NiAuAgCu3(Fe50C)3
@@ -7802,7 +7802,7 @@ languagefile {
     S:gt.metaitem.01.2337.tooltip=(Fe50C)3Ma
     S:gt.metaitem.01.2338.name=铁木粉末
     S:gt.metaitem.01.2338.tooltip=(Fe9(?3Ma)9Au)2
-    S:gt.metaitem.01.2339.name=铁叶粉末
+    S:gt.metaitem.01.2339.name=钢叶粉末
     S:gt.metaitem.01.2339.tooltip=Fe50CMa
     S:gt.metaitem.01.2340.name=陨铁粉末
     S:gt.metaitem.01.2340.tooltip=
@@ -8244,7 +8244,7 @@ languagefile {
     S:gt.metaitem.01.25337.tooltip=(Fe50C)3Ma
     S:gt.metaitem.01.25338.name=铁木垫片
     S:gt.metaitem.01.25338.tooltip=Fe9(?3Ma)9Au
-    S:gt.metaitem.01.25339.name=铁叶垫片
+    S:gt.metaitem.01.25339.name=钢叶垫片
     S:gt.metaitem.01.25339.tooltip=Fe50CMa
     S:gt.metaitem.01.2534.name=磷粉末
     S:gt.metaitem.01.2534.tooltip=Ca3(PO4)2
@@ -8502,7 +8502,7 @@ languagefile {
     S:gt.metaitem.01.26337.tooltip=(Fe50C)3Ma
     S:gt.metaitem.01.26338.name=铁木螺栓
     S:gt.metaitem.01.26338.tooltip=Fe9(?3Ma)9Au
-    S:gt.metaitem.01.26339.name=铁叶螺栓
+    S:gt.metaitem.01.26339.name=钢叶螺栓
     S:gt.metaitem.01.26339.tooltip=Fe50CMa
     S:gt.metaitem.01.26340.name=陨铁螺栓
     S:gt.metaitem.01.26340.tooltip=
@@ -8828,7 +8828,7 @@ languagefile {
     S:gt.metaitem.01.27337.tooltip=(Fe50C)3Ma
     S:gt.metaitem.01.27338.name=铁木螺丝
     S:gt.metaitem.01.27338.tooltip=Fe9(?3Ma)9Au
-    S:gt.metaitem.01.27339.name=铁叶螺丝
+    S:gt.metaitem.01.27339.name=钢叶螺丝
     S:gt.metaitem.01.27339.tooltip=Fe50CMa
     S:gt.metaitem.01.27340.name=陨铁螺丝
     S:gt.metaitem.01.27340.tooltip=
@@ -9208,7 +9208,7 @@ languagefile {
     S:gt.metaitem.01.28337.tooltip=(Fe50C)3Ma
     S:gt.metaitem.01.28338.name=铁木环
     S:gt.metaitem.01.28338.tooltip=Fe9(?3Ma)9Au
-    S:gt.metaitem.01.28339.name=铁叶环
+    S:gt.metaitem.01.28339.name=钢叶环
     S:gt.metaitem.01.28339.tooltip=Fe50CMa
     S:gt.metaitem.01.2834.name=黄铁矿粉末
     S:gt.metaitem.01.2834.tooltip=FeS2
@@ -9334,7 +9334,7 @@ languagefile {
     S:gt.metaitem.01.2877.tooltip=Mg3Si4H2O12
     S:gt.metaitem.01.2878.name=油砂粉末
     S:gt.metaitem.01.2878.tooltip=
-    S:gt.metaitem.01.2879.name=Chad
+    S:gt.metaitem.01.2879.name=纸屑
     S:gt.metaitem.01.2879.tooltip=
     S:gt.metaitem.01.2880.name=橡胶浆
     S:gt.metaitem.01.2880.tooltip=C5H8
@@ -9628,7 +9628,7 @@ languagefile {
     S:gt.metaitem.01.29337.tooltip=(Fe50C)3Ma
     S:gt.metaitem.01.29338.name=铁木箔
     S:gt.metaitem.01.29338.tooltip=Fe9(?3Ma)9Au
-    S:gt.metaitem.01.29339.name=铁叶箔
+    S:gt.metaitem.01.29339.name=钢叶箔
     S:gt.metaitem.01.29339.tooltip=Fe50CMa
     S:gt.metaitem.01.2934.name=石膏粉末
     S:gt.metaitem.01.2934.tooltip=CaS(H2O)2O4
@@ -10502,7 +10502,7 @@ languagefile {
     S:gt.metaitem.01.337.tooltip=(Fe50C)3Ma
     S:gt.metaitem.01.338.name=很小一撮铁木粉末
     S:gt.metaitem.01.338.tooltip=Fe9(?3Ma)9Au
-    S:gt.metaitem.01.339.name=很小一撮铁叶粉末
+    S:gt.metaitem.01.339.name=很小一撮钢叶粉末
     S:gt.metaitem.01.339.tooltip=Fe50CMa
     S:gt.metaitem.01.34.name=很小一撮镍粉末
     S:gt.metaitem.01.34.tooltip=Ni
@@ -12770,7 +12770,7 @@ languagefile {
     S:gt.metaitem.01.877.tooltip=Mg3Si4H2O12
     S:gt.metaitem.01.878.name=很小一撮油砂粉末
     S:gt.metaitem.01.878.tooltip=
-    S:gt.metaitem.01.879.name=很小一撮Chad
+    S:gt.metaitem.01.879.name=很小一撮纸屑
     S:gt.metaitem.01.879.tooltip=
     S:gt.metaitem.01.880.name=很小一撮橡胶浆
     S:gt.metaitem.01.880.tooltip=C5H8
@@ -13056,7 +13056,7 @@ languagefile {
     S:gt.metaitem.01.9337.tooltip=(Fe50C)3Ma
     S:gt.metaitem.01.9338.name=铁木粒
     S:gt.metaitem.01.9338.tooltip=Fe9(?3Ma)9Au
-    S:gt.metaitem.01.9339.name=铁叶粒
+    S:gt.metaitem.01.9339.name=钢叶粒
     S:gt.metaitem.01.9339.tooltip=Fe50CMa
     S:gt.metaitem.01.934.name=很小一撮石膏粉末
     S:gt.metaitem.01.934.tooltip=CaS(H2O)2O4
@@ -13281,7 +13281,7 @@ languagefile {
     S:gt.metaitem.02.10337.tooltip=((Fe50C)3Ma)5
     S:gt.metaitem.02.10338.name=铁木扳手顶
     S:gt.metaitem.02.10338.tooltip=(Fe9(?3Ma)9Au)8
-    S:gt.metaitem.02.10339.name=铁叶扳手顶
+    S:gt.metaitem.02.10339.name=钢叶扳手顶
     S:gt.metaitem.02.10339.tooltip=(Fe50CMa)4
     S:gt.metaitem.02.1034.name=镍镐头
     S:gt.metaitem.02.1034.tooltip=Ni
@@ -13525,7 +13525,7 @@ languagefile {
     S:gt.metaitem.02.11337.tooltip=(Fe50C)3Ma
     S:gt.metaitem.02.11338.name=铁木万能铲头
     S:gt.metaitem.02.11338.tooltip=(Fe9(?3Ma)9Au)2
-    S:gt.metaitem.02.11339.name=铁叶万能铲头
+    S:gt.metaitem.02.11339.name=钢叶万能铲头
     S:gt.metaitem.02.11339.tooltip=Fe50CMa
     S:gt.metaitem.02.11340.name=陨铁万能铲头
     S:gt.metaitem.02.11340.tooltip=
@@ -14069,7 +14069,7 @@ languagefile {
     S:gt.metaitem.02.1337.tooltip=((Fe50C)3Ma)4
     S:gt.metaitem.02.1338.name=铁木镐头
     S:gt.metaitem.02.1338.tooltip=(Fe9(?3Ma)9Au)6
-    S:gt.metaitem.02.1339.name=铁叶镐头
+    S:gt.metaitem.02.1339.name=钢叶镐头
     S:gt.metaitem.02.1339.tooltip=(Fe50CMa)3
     S:gt.metaitem.02.1340.name=陨铁镐头
     S:gt.metaitem.02.1340.tooltip=
@@ -14367,7 +14367,7 @@ languagefile {
     S:gt.metaitem.02.2337.tooltip=(Fe50C)3Ma
     S:gt.metaitem.02.2338.name=铁木铲头
     S:gt.metaitem.02.2338.tooltip=(Fe9(?3Ma)9Au)2
-    S:gt.metaitem.02.2339.name=铁叶铲头
+    S:gt.metaitem.02.2339.name=钢叶铲头
     S:gt.metaitem.02.2339.tooltip=Fe50CMa
     S:gt.metaitem.02.2340.name=陨铁铲头
     S:gt.metaitem.02.2340.tooltip=
@@ -14863,7 +14863,7 @@ languagefile {
     S:gt.metaitem.02.32501.tooltip=生产银
     S:gt.metaitem.02.32502.name=靛蓝色花
     S:gt.metaitem.02.32502.tooltip=用于制作蓝色染料
-    S:gt.metaitem.02.32503.name=铁叶花
+    S:gt.metaitem.02.32503.name=钢叶花
     S:gt.metaitem.02.32503.tooltip=生产铁
     S:gt.metaitem.02.32504.name=金叶花
     S:gt.metaitem.02.32504.tooltip=生产金
@@ -14981,7 +14981,7 @@ languagefile {
     S:gt.metaitem.02.3337.tooltip=((Fe50C)3Ma)4
     S:gt.metaitem.02.3338.name=铁木斧头
     S:gt.metaitem.02.3338.tooltip=(Fe9(?3Ma)9Au)6
-    S:gt.metaitem.02.3339.name=铁叶斧头
+    S:gt.metaitem.02.3339.name=钢叶斧头
     S:gt.metaitem.02.3339.tooltip=(Fe50CMa)3
     S:gt.metaitem.02.334.name=玄钢剑刃
     S:gt.metaitem.02.334.tooltip=(NiAuAgCu3(Fe50C)3)2
@@ -15025,7 +15025,7 @@ languagefile {
     S:gt.metaitem.02.337.tooltip=((Fe50C)3Ma)2
     S:gt.metaitem.02.338.name=铁木剑刃
     S:gt.metaitem.02.338.tooltip=(Fe9(?3Ma)9Au)4
-    S:gt.metaitem.02.339.name=铁叶剑刃
+    S:gt.metaitem.02.339.name=钢叶剑刃
     S:gt.metaitem.02.339.tooltip=(Fe50CMa)2
     S:gt.metaitem.02.34.name=镍剑刃
     S:gt.metaitem.02.34.tooltip=Ni
@@ -15253,7 +15253,7 @@ languagefile {
     S:gt.metaitem.02.4337.tooltip=((Fe50C)3Ma)2
     S:gt.metaitem.02.4338.name=铁木锄头
     S:gt.metaitem.02.4338.tooltip=(Fe9(?3Ma)9Au)4
-    S:gt.metaitem.02.4339.name=铁叶锄头
+    S:gt.metaitem.02.4339.name=钢叶锄头
     S:gt.metaitem.02.4339.tooltip=(Fe50CMa)2
     S:gt.metaitem.02.4340.name=陨铁锄头
     S:gt.metaitem.02.4340.tooltip=
@@ -15519,7 +15519,7 @@ languagefile {
     S:gt.metaitem.02.5337.tooltip=((Fe50C)3Ma)8
     S:gt.metaitem.02.5338.name=铁木锤头
     S:gt.metaitem.02.5338.tooltip=(Fe9(?3Ma)9Au)12
-    S:gt.metaitem.02.5339.name=铁叶锤头
+    S:gt.metaitem.02.5339.name=钢叶锤头
     S:gt.metaitem.02.5339.tooltip=(Fe50CMa)6
     S:gt.metaitem.02.5340.name=陨铁锤头
     S:gt.metaitem.02.5340.tooltip=
@@ -15757,7 +15757,7 @@ languagefile {
     S:gt.metaitem.02.6337.tooltip=((Fe50C)3Ma)2
     S:gt.metaitem.02.6338.name=铁木锉刀刀刃
     S:gt.metaitem.02.6338.tooltip=(Fe9(?3Ma)9Au)4
-    S:gt.metaitem.02.6339.name=铁叶锉刀刀刃
+    S:gt.metaitem.02.6339.name=钢叶锉刀刀刃
     S:gt.metaitem.02.6339.tooltip=(Fe50CMa)2
     S:gt.metaitem.02.6340.name=陨铁锉刀刀刃
     S:gt.metaitem.02.6340.tooltip=
@@ -15969,7 +15969,7 @@ languagefile {
     S:gt.metaitem.02.7337.tooltip=((Fe50C)3Ma)2
     S:gt.metaitem.02.7338.name=铁木锯刃
     S:gt.metaitem.02.7338.tooltip=(Fe9(?3Ma)9Au)4
-    S:gt.metaitem.02.7339.name=铁叶锯刃
+    S:gt.metaitem.02.7339.name=钢叶锯刃
     S:gt.metaitem.02.7339.tooltip=(Fe50CMa)2
     S:gt.metaitem.02.7340.name=陨铁锯刃
     S:gt.metaitem.02.7340.tooltip=
@@ -16195,7 +16195,7 @@ languagefile {
     S:gt.metaitem.02.8337.tooltip=((Fe50C)3Ma)5
     S:gt.metaitem.02.8338.name=铁木钻头
     S:gt.metaitem.02.8338.tooltip=(Fe9(?3Ma)9Au)8
-    S:gt.metaitem.02.8339.name=铁叶钻头
+    S:gt.metaitem.02.8339.name=钢叶钻头
     S:gt.metaitem.02.8339.tooltip=(Fe50CMa)4
     S:gt.metaitem.02.8340.name=陨铁钻头
     S:gt.metaitem.02.8340.tooltip=
@@ -16427,7 +16427,7 @@ languagefile {
     S:gt.metaitem.02.9337.tooltip=((Fe50C)3Ma)2
     S:gt.metaitem.02.9338.name=铁木电锯锯刃
     S:gt.metaitem.02.9338.tooltip=(Fe9(?3Ma)9Au)4
-    S:gt.metaitem.02.9339.name=铁叶电锯锯刃
+    S:gt.metaitem.02.9339.name=钢叶电锯锯刃
     S:gt.metaitem.02.9339.tooltip=(Fe50CMa)2
     S:gt.metaitem.02.9340.name=陨铁电锯锯刃
     S:gt.metaitem.02.9340.tooltip=
@@ -16722,7 +16722,7 @@ languagefile {
     S:gt.metaitem.03.1337.tooltip=(Fe50C)3Ma
     S:gt.metaitem.03.1338.name=一箱铁木锭
     S:gt.metaitem.03.1338.tooltip=Fe9(?3Ma)9Au
-    S:gt.metaitem.03.1339.name=一箱铁叶
+    S:gt.metaitem.03.1339.name=一箱钢叶
     S:gt.metaitem.03.1339.tooltip=Fe50CMa
     S:gt.metaitem.03.1340.name=一箱陨铁锭
     S:gt.metaitem.03.1340.tooltip=
@@ -17146,7 +17146,7 @@ languagefile {
     S:gt.metaitem.03.3337.tooltip=(Fe50C)3Ma
     S:gt.metaitem.03.3338.name=一箱铁木板
     S:gt.metaitem.03.3338.tooltip=Fe9(?3Ma)9Au
-    S:gt.metaitem.03.3339.name=一箱铁叶板
+    S:gt.metaitem.03.3339.name=一箱钢叶板
     S:gt.metaitem.03.3339.tooltip=Fe50CMa
     S:gt.metaitem.03.334.name=一箱玄钢粉末
     S:gt.metaitem.03.334.tooltip=NiAuAgCu3(Fe50C)3
@@ -17192,7 +17192,7 @@ languagefile {
     S:gt.metaitem.03.337.tooltip=(Fe50C)3Ma
     S:gt.metaitem.03.338.name=一箱铁木粉末
     S:gt.metaitem.03.338.tooltip=Fe9(?3Ma)9Au
-    S:gt.metaitem.03.339.name=一箱铁叶粉末
+    S:gt.metaitem.03.339.name=一箱钢叶粉末
     S:gt.metaitem.03.339.tooltip=Fe50CMa
     S:gt.metaitem.03.34.name=一箱镍粉末
     S:gt.metaitem.03.34.tooltip=Ni
@@ -17668,7 +17668,7 @@ languagefile {
     S:gt.metaitem.03.877.tooltip=Mg3Si4H2O12
     S:gt.metaitem.03.878.name=一箱油砂粉末
     S:gt.metaitem.03.878.tooltip=
-    S:gt.metaitem.03.879.name=一箱Chad
+    S:gt.metaitem.03.879.name=一箱纸屑
     S:gt.metaitem.03.879.tooltip=
     S:gt.metaitem.03.880.name=一箱橡胶浆
     S:gt.metaitem.03.880.tooltip=C5H8
