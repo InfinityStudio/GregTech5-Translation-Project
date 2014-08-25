@@ -1,7 +1,7 @@
 # Configuration file
-# Compatible with GregTech 5.03n
-# Author:TehporP & DeckerCHAN & ZhangHS
-# Translation bug report https://github.com/DeckerCHAN/Gregtech5-Translation-Chinese/issues
+# Compatible with: GregTech 5.03n
+# Author: TehporP & DeckerCHAN & ZhangHS
+# Translation bug report to:https: https://github.com/Trigonometry-F/Gregtech5-Translation-Chinese/issues
 enablelangfile {
     B:UseThisFileAsLanguageFile=true
 }
