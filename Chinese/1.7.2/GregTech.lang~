@@ -6127,8 +6127,8 @@ languagefile {
     S:gt.blockores.97.name=铀-235矿石
     S:gt.blockores.98.name=铀-238矿石
     S:gt.coil01tooltip=基础比热容 = 1800 开式度
-    S:gt.coil02tooltip=基础比热容 = 2700 开式度
-    S:gt.coil03tooltip=基础比热容 = 3600 开式度
+    S:gt.coil02tooltip=基础比热容 = 2700 Kelvin
+    S:gt.coil03tooltip=基础比热容 = 3600 Kelvin
     S:gt.integrated_circuit.configuration=配置为: 
     S:gt.integrated_circuit.name=集成电路
     S:gt.metaitem.01.10.name=很小一撮碳粉末
