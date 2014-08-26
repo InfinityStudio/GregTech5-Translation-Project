@@ -18,7 +18,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_1000_Index_7=1x 大型设备维护方块 (底部一个)
     S:TileEntity_DESCRIPTION_1000_Index_8=1x 消声处理方块 (顶层中间)
     S:TileEntity_DESCRIPTION_1000_Index_9=剩下的空缺填充高温隔热外壳
-    S:TileEntity_DESCRIPTION_1001_Index_0=内爆压缩机中央控制器
+    S:TileEntity_DESCRIPTION_1001_Index_0=聚爆压缩机中央控制器
     S:TileEntity_DESCRIPTION_1001_Index_1=大小:3长3宽3高 (中空)
     S:TileEntity_DESCRIPTION_1001_Index_2=控制器位置 (第二层前部中间)
     S:TileEntity_DESCRIPTION_1001_Index_3=1x 输入总线方块 (任何位置)
@@ -2488,7 +2488,7 @@ languagefile {
     S:gt.blockmachines.multimachine.boiler.steel.name=大型钢制锅炉
     S:gt.blockmachines.multimachine.boiler.titanium.name=大型钛制锅炉
     S:gt.blockmachines.multimachine.boiler.tungstensteel.name=巨型钨钢锅炉
-    S:gt.blockmachines.multimachine.implosioncompressor.name=内爆压缩机
+    S:gt.blockmachines.multimachine.implosioncompressor.name=聚爆压缩机
     S:gt.blockmachines.multimachine.multifurnace.name=大型熔炼炉
     S:gt.blockmachines.multimachine.vacuumfreezer.name=真空冷冻器
     S:gt.blockmachines.steelmachine.alloysmelter.name=高压合金炉
