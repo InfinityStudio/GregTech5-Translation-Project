@@ -10205,8 +10205,8 @@ languagefile {
     S:gt.metaitem.01.32357.tooltip=用于制作物品机器外壳
     S:gt.metaitem.01.32358.name=模板 (微型泵)
     S:gt.metaitem.01.32358.tooltip=用于制作微型泵
-    S:gt.metaitem.01.32359.name=模板 (贫瘠泵)
-    S:gt.metaitem.01.32359.tooltip=用于制作贫瘠泵
+    S:gt.metaitem.01.32359.name=模板 (小型泵)
+    S:gt.metaitem.01.32359.tooltip=用于制作小型泵
     S:gt.metaitem.01.32360.name=模板 (普通泵)
     S:gt.metaitem.01.32360.tooltip=用于制作泵
     S:gt.metaitem.01.32361.name=模板 (巨型泵)
