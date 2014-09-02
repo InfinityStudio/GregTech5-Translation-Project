@@ -1,6 +1,6 @@
-# Configuration file
+# Translation file
 # Compatible with: GregTech 5.04.00
-# Author: TehporP & DeckerCHAN & ZhangHS
+# Translation author: TehporP & DeckerCHAN & ZhangHS
 # Translation bug report to: https://github.com/Trigonometry-F/Gregtech5-Translation-Chinese/issues
 enablelangfile {
     B:UseThisFileAsLanguageFile=true
