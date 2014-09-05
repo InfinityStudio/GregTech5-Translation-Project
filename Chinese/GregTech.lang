@@ -1359,7 +1359,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_4454_Index_0=你可以使用覆盖板覆盖或者直接填充工业泡沫
     S:TileEntity_DESCRIPTION_4455_Index_0=你可以使用覆盖板覆盖或者直接填充工业泡沫
     S:TileEntity_DESCRIPTION_4456_Index_0=你可以使用覆盖板覆盖或者直接填充工业泡沫
-    S:TileEntity_DESCRIPTION_4457_Index_0=Just something you can put a Cover or CFoam on.
+    S:TileEntity_DESCRIPTION_4457_Index_0=你可以使用覆盖板覆盖或者直接填充工业泡沫
     S:TileEntity_DESCRIPTION_445_Index_0=生产原石
     S:TileEntity_DESCRIPTION_44_Index_0=用于大型机械的能源输入
     S:TileEntity_DESCRIPTION_451_Index_0=以20%的效率拆解机器
@@ -1568,17 +1568,17 @@ languagefile {
     S:TileEntity_DESCRIPTION_584_Index_0=这玩意是用来混合的？
     S:TileEntity_DESCRIPTION_585_Index_0=这玩意是用来混合的？
     S:TileEntity_DESCRIPTION_58_Index_0=用于向大型机械中输入原料
-    S:TileEntity_DESCRIPTION_591_Index_0=Don't look directly at the Laser
-    S:TileEntity_DESCRIPTION_592_Index_0=Don't look directly at the Laser
-    S:TileEntity_DESCRIPTION_593_Index_0=Don't look directly at the Laser
-    S:TileEntity_DESCRIPTION_594_Index_0=Don't look directly at the Laser
-    S:TileEntity_DESCRIPTION_595_Index_0=Don't look directly at the Laser
+    S:TileEntity_DESCRIPTION_591_Index_0=激光直视危险！
+    S:TileEntity_DESCRIPTION_592_Index_0=激光直视危险！
+    S:TileEntity_DESCRIPTION_593_Index_0=激光直视危险！
+    S:TileEntity_DESCRIPTION_594_Index_0=激光直视危险！
+    S:TileEntity_DESCRIPTION_595_Index_0=激光直视危险！
     S:TileEntity_DESCRIPTION_59_Index_0=用于向大型机械中输入原料
-    S:TileEntity_DESCRIPTION_601_Index_0=Imprinting Images into things
-    S:TileEntity_DESCRIPTION_602_Index_0=Imprinting Images into things
-    S:TileEntity_DESCRIPTION_603_Index_0=Imprinting Images into things
-    S:TileEntity_DESCRIPTION_604_Index_0=Imprinting Images into things
-    S:TileEntity_DESCRIPTION_605_Index_0=Imprinting Images into things
+    S:TileEntity_DESCRIPTION_601_Index_0=向物品上打印图像
+    S:TileEntity_DESCRIPTION_602_Index_0=向物品上打印图像
+    S:TileEntity_DESCRIPTION_603_Index_0=向物品上打印图像
+    S:TileEntity_DESCRIPTION_604_Index_0=向物品上打印图像
+    S:TileEntity_DESCRIPTION_605_Index_0=向物品上打印图像
     S:TileEntity_DESCRIPTION_60_Index_0=使用螺丝刀来调整对应的输出类型
     S:TileEntity_DESCRIPTION_61_Index_0=使用螺丝刀来调整对应的输出类型
     S:TileEntity_DESCRIPTION_62_Index_0=使用螺丝刀来调整对应的输出类型
@@ -1704,7 +1704,7 @@ languagefile {
     S:fluid.milk=牛奶
     S:fluid.molten.concrete=塑性水泥
     S:fluid.molten.glass=熔融玻璃
-    S:fluid.molten.redstone=Molten Redstone
+    S:fluid.molten.redstone=熔融红石
     S:fluid.nitrocoalfuel=硝基煤油
     S:fluid.nitrofuel=硝基柴油
     S:fluid.nitrogen=氮
@@ -2106,11 +2106,11 @@ languagefile {
     S:gt.blockmachines.basicmachine.fluidsolidifier.tier.03.name=进阶液体固化器 II
     S:gt.blockmachines.basicmachine.fluidsolidifier.tier.04.name=进阶液体固化器 III
     S:gt.blockmachines.basicmachine.fluidsolidifier.tier.05.name=进阶液体固化器 IV
-    S:gt.blockmachines.basicmachine.laserengraver.tier.01.name=Basic Precision Laser Engraver
-    S:gt.blockmachines.basicmachine.laserengraver.tier.02.name=Advanced Precision Laser Engraver
-    S:gt.blockmachines.basicmachine.laserengraver.tier.03.name=Advanced Precision Laser Engraver II
-    S:gt.blockmachines.basicmachine.laserengraver.tier.04.name=Advanced Precision Laser Engraver III
-    S:gt.blockmachines.basicmachine.laserengraver.tier.05.name=Advanced Precision Laser Engraver IV
+    S:gt.blockmachines.basicmachine.laserengraver.tier.01.name=基础激光刻蚀机
+    S:gt.blockmachines.basicmachine.laserengraver.tier.02.name=高精度镭射刻印机
+    S:gt.blockmachines.basicmachine.laserengraver.tier.03.name=高精度镭射刻印机 II
+    S:gt.blockmachines.basicmachine.laserengraver.tier.04.name=高精度镭射刻印机 III
+    S:gt.blockmachines.basicmachine.laserengraver.tier.05.name=高精度镭射刻印机 IV
     S:gt.blockmachines.basicmachine.lathe.tier.01.name=基础车床
     S:gt.blockmachines.basicmachine.lathe.tier.02.name=进阶车床
     S:gt.blockmachines.basicmachine.lathe.tier.03.name=进阶车床 II
@@ -2146,11 +2146,11 @@ languagefile {
     S:gt.blockmachines.basicmachine.polarizer.tier.03.name=进阶两极磁化器 II
     S:gt.blockmachines.basicmachine.polarizer.tier.04.name=进阶两极磁化器 III
     S:gt.blockmachines.basicmachine.polarizer.tier.05.name=高能粒子流磁畴调谐器
-    S:gt.blockmachines.basicmachine.press.tier.01.name=Basic Forming Press
-    S:gt.blockmachines.basicmachine.press.tier.02.name=Advanced Forming Press
-    S:gt.blockmachines.basicmachine.press.tier.03.name=Advanced Forming Press II
-    S:gt.blockmachines.basicmachine.press.tier.04.name=Advanced Forming Press III
-    S:gt.blockmachines.basicmachine.press.tier.05.name=Advanced Forming Press IV
+    S:gt.blockmachines.basicmachine.press.tier.01.name=基础压力成型机
+    S:gt.blockmachines.basicmachine.press.tier.02.name=进阶压力成型机
+    S:gt.blockmachines.basicmachine.press.tier.03.name=进阶压力成型机 II
+    S:gt.blockmachines.basicmachine.press.tier.04.name=进阶压力成型机 III
+    S:gt.blockmachines.basicmachine.press.tier.05.name=进阶压力成型机 IV
     S:gt.blockmachines.basicmachine.printer.tier.01.name=基础打印机
     S:gt.blockmachines.basicmachine.printer.tier.02.name=进阶打印机
     S:gt.blockmachines.basicmachine.printer.tier.03.name=进阶打印机 II
@@ -2391,7 +2391,7 @@ languagefile {
     S:gt.blockmachines.gt_frame_caesium.name=铯框架
     S:gt.blockmachines.gt_frame_cerium.name=铈框架
     S:gt.blockmachines.gt_frame_chrome.name=铬框架
-    S:gt.blockmachines.gt_frame_chromiumdioxide.name=ChromiumDioxide Frame Box
+    S:gt.blockmachines.gt_frame_chromiumdioxide.name=二氧化铬框架
     S:gt.blockmachines.gt_frame_cobalt.name=钴框架
     S:gt.blockmachines.gt_frame_cobaltbrass.name=钴铜框架
     S:gt.blockmachines.gt_frame_copper.name=铜框架
@@ -2861,7 +2861,7 @@ languagefile {
     S:gt.blockores.1021.name=磷矿石
     S:gt.blockores.1022.name=硫磺矿石
     S:gt.blockores.1023.name=氯矿石
-    S:gt.blockores.1024.name=Argon Ore
+    S:gt.blockores.1024.name=氩矿石
     S:gt.blockores.1025.name=钾矿石
     S:gt.blockores.1026.name=钙矿石
     S:gt.blockores.1027.name=钪矿石
@@ -2915,7 +2915,7 @@ languagefile {
     S:gt.blockores.1087.name=汞矿石
     S:gt.blockores.1089.name=铅矿石
     S:gt.blockores.1090.name=铋矿石
-    S:gt.blockores.1093.name=Radon Ore
+    S:gt.blockores.1093.name=氡矿石
     S:gt.blockores.1096.name=钍矿石
     S:gt.blockores.1097.name=铀-235矿石
     S:gt.blockores.1098.name=铀-238矿石
@@ -2988,7 +2988,7 @@ languagefile {
     S:gt.blockores.1358.name=钇钡铜氧矿石
     S:gt.blockores.1359.name=一氮化铌矿石
     S:gt.blockores.1360.name=铌钛合金矿石
-    S:gt.blockores.1361.name=ChromiumDioxide Ore
+    S:gt.blockores.1361.name=二氧化铬矿石
     S:gt.blockores.14.name=氟矿石
     S:gt.blockores.1500.name=钻石矿石
     S:gt.blockores.1501.name=绿宝石矿石
@@ -3053,7 +3053,7 @@ languagefile {
     S:gt.blockores.16021.name=贫瘠磷矿石
     S:gt.blockores.16022.name=贫瘠硫磺矿石
     S:gt.blockores.16023.name=贫瘠氯矿石
-    S:gt.blockores.16024.name=Small Argon Ore
+    S:gt.blockores.16024.name=贫瘠氩矿石
     S:gt.blockores.16025.name=贫瘠钾矿石
     S:gt.blockores.16026.name=贫瘠钙矿石
     S:gt.blockores.16027.name=贫瘠钪矿石
@@ -3106,7 +3106,7 @@ languagefile {
     S:gt.blockores.16087.name=贫瘠汞矿石
     S:gt.blockores.16089.name=贫瘠铅矿石
     S:gt.blockores.16090.name=贫瘠铋矿石
-    S:gt.blockores.16093.name=Small Radon Ore
+    S:gt.blockores.16093.name=贫瘠氡矿石
     S:gt.blockores.16096.name=贫瘠钍矿石
     S:gt.blockores.16097.name=贫瘠铀-235矿石
     S:gt.blockores.16098.name=贫瘠铀-238矿石
@@ -3175,8 +3175,8 @@ languagefile {
     S:gt.blockores.16357.name=贫瘠钒镓合金矿石
     S:gt.blockores.16358.name=贫瘠钇钡铜氧矿石
     S:gt.blockores.16359.name=贫瘠一氮化铌矿石
-    S:gt.blockores.16360.name=Small铌钛合金Ore
-    S:gt.blockores.16361.name=Small ChromiumDioxide Ore
+    S:gt.blockores.16360.name=贫瘠铌钛合金矿石
+    S:gt.blockores.16361.name=贫瘠二氧化铬矿石
     S:gt.blockores.16500.name=贫瘠钻石矿石
     S:gt.blockores.16501.name=贫瘠绿宝石矿石
     S:gt.blockores.16502.name=贫瘠红宝石矿石
@@ -3411,7 +3411,7 @@ languagefile {
     S:gt.blockores.17021.name=贫瘠磷矿石
     S:gt.blockores.17022.name=贫瘠硫磺矿石
     S:gt.blockores.17023.name=贫瘠氯矿石
-    S:gt.blockores.17024.name=Small Argon Ore
+    S:gt.blockores.17024.name=贫瘠氩矿石
     S:gt.blockores.17025.name=贫瘠钾矿石
     S:gt.blockores.17026.name=贫瘠钙矿石
     S:gt.blockores.17027.name=贫瘠钪矿石
@@ -3471,7 +3471,7 @@ languagefile {
     S:gt.blockores.17089.name=贫瘠铅矿石
     S:gt.blockores.1709.name=硝基柴油矿石
     S:gt.blockores.17090.name=贫瘠铋矿石
-    S:gt.blockores.17093.name=Small Radon Ore
+    S:gt.blockores.17093.name=贫瘠氡矿石
     S:gt.blockores.17096.name=贫瘠钍矿石
     S:gt.blockores.17097.name=贫瘠铀-235矿石
     S:gt.blockores.17098.name=贫瘠铀-238矿石
@@ -3556,8 +3556,8 @@ languagefile {
     S:gt.blockores.17357.name=贫瘠钒镓合金矿石
     S:gt.blockores.17358.name=贫瘠钇钡铜氧矿石
     S:gt.blockores.17359.name=贫瘠一氮化铌矿石
-    S:gt.blockores.17360.name=Small铌钛合金Ore
-    S:gt.blockores.17361.name=Small ChromiumDioxide Ore
+    S:gt.blockores.17360.name=贫瘠铌钛合金矿石
+    S:gt.blockores.17361.name=贫瘠二氧化铬矿石
     S:gt.blockores.17500.name=贫瘠钻石矿石
     S:gt.blockores.17501.name=贫瘠绿宝石矿石
     S:gt.blockores.17502.name=贫瘠红宝石矿石
@@ -3792,7 +3792,7 @@ languagefile {
     S:gt.blockores.18021.name=贫瘠磷矿石
     S:gt.blockores.18022.name=贫瘠硫磺矿石
     S:gt.blockores.18023.name=贫瘠氯矿石
-    S:gt.blockores.18024.name=Small Argon Ore
+    S:gt.blockores.18024.name=贫瘠氩矿石
     S:gt.blockores.18025.name=贫瘠钾矿石
     S:gt.blockores.18026.name=贫瘠钙矿石
     S:gt.blockores.18027.name=贫瘠钪矿石
@@ -3852,7 +3852,7 @@ languagefile {
     S:gt.blockores.18089.name=贫瘠铅矿石
     S:gt.blockores.1809.name=木矿石
     S:gt.blockores.18090.name=贫瘠铋矿石
-    S:gt.blockores.18093.name=Small Radon Ore
+    S:gt.blockores.18093.name=贫瘠氡矿石
     S:gt.blockores.18096.name=贫瘠钍矿石
     S:gt.blockores.18097.name=贫瘠铀-235矿石
     S:gt.blockores.18098.name=贫瘠铀-238矿石
@@ -3948,8 +3948,8 @@ languagefile {
     S:gt.blockores.18358.name=贫瘠钇钡铜氧矿石
     S:gt.blockores.18359.name=贫瘠一氮化铌矿石
     S:gt.blockores.1836.name=硝石矿石
-    S:gt.blockores.18360.name=Small铌钛合金Ore
-    S:gt.blockores.18361.name=Small ChromiumDioxide Ore
+    S:gt.blockores.18360.name=贫瘠铌钛合金矿石
+    S:gt.blockores.18361.name=贫瘠二氧化铬矿石
     S:gt.blockores.1837.name=二氧化硅矿石
     S:gt.blockores.1838.name=锰铝榴石矿石
     S:gt.blockores.1839.name=闪锌矿矿石
@@ -4239,7 +4239,7 @@ languagefile {
     S:gt.blockores.19021.name=贫瘠磷矿石
     S:gt.blockores.19022.name=贫瘠硫磺矿石
     S:gt.blockores.19023.name=贫瘠氯矿石
-    S:gt.blockores.19024.name=Small Argon Ore
+    S:gt.blockores.19024.name=贫瘠氩矿石
     S:gt.blockores.19025.name=贫瘠钾矿石
     S:gt.blockores.19026.name=贫瘠钙矿石
     S:gt.blockores.19027.name=贫瘠钪矿石
@@ -4299,7 +4299,7 @@ languagefile {
     S:gt.blockores.19089.name=贫瘠铅矿石
     S:gt.blockores.1909.name=镍黄铁矿矿石
     S:gt.blockores.19090.name=贫瘠铋矿石
-    S:gt.blockores.19093.name=Small Radon Ore
+    S:gt.blockores.19093.name=贫瘠氡矿石
     S:gt.blockores.19096.name=贫瘠钍矿石
     S:gt.blockores.19097.name=贫瘠铀-235矿石
     S:gt.blockores.19098.name=贫瘠铀-238矿石
@@ -4395,8 +4395,8 @@ languagefile {
     S:gt.blockores.19358.name=贫瘠钇钡铜氧矿石
     S:gt.blockores.19359.name=贫瘠一氮化铌矿石
     S:gt.blockores.1936.name=花岗岩砂
-    S:gt.blockores.19360.name=Small铌钛合金Ore
-    S:gt.blockores.19361.name=Small ChromiumDioxide Ore
+    S:gt.blockores.19360.name=贫瘠铌钛合金矿石
+    S:gt.blockores.19361.name=贫瘠二氧化铬矿石
     S:gt.blockores.1937.name=锡石砂
     S:gt.blockores.1938.name=石榴石砂
     S:gt.blockores.1939.name=石英砂
@@ -4643,7 +4643,7 @@ languagefile {
     S:gt.blockores.20021.name=贫瘠磷矿石
     S:gt.blockores.20022.name=贫瘠硫磺矿石
     S:gt.blockores.20023.name=贫瘠氯矿石
-    S:gt.blockores.20024.name=Small Argon Ore
+    S:gt.blockores.20024.name=贫瘠氩矿石
     S:gt.blockores.20025.name=贫瘠钾矿石
     S:gt.blockores.20026.name=贫瘠钙矿石
     S:gt.blockores.20027.name=贫瘠钪矿石
@@ -4702,7 +4702,7 @@ languagefile {
     S:gt.blockores.20089.name=贫瘠铅矿石
     S:gt.blockores.2009.name=硼矿石
     S:gt.blockores.20090.name=贫瘠铋矿石
-    S:gt.blockores.20093.name=Small Radon Ore
+    S:gt.blockores.20093.name=贫瘠氡矿石
     S:gt.blockores.20096.name=贫瘠钍矿石
     S:gt.blockores.20097.name=贫瘠铀-235矿石
     S:gt.blockores.20098.name=贫瘠铀-238矿石
@@ -4721,7 +4721,7 @@ languagefile {
     S:gt.blockores.2021.name=磷矿石
     S:gt.blockores.2022.name=硫磺矿石
     S:gt.blockores.2023.name=氯矿石
-    S:gt.blockores.2024.name=Argon Ore
+    S:gt.blockores.2024.name=氩矿石
     S:gt.blockores.2025.name=钾矿石
     S:gt.blockores.2026.name=钙矿石
     S:gt.blockores.2027.name=钪矿石
@@ -4795,8 +4795,8 @@ languagefile {
     S:gt.blockores.20358.name=贫瘠钇钡铜氧矿石
     S:gt.blockores.20359.name=贫瘠一氮化铌矿石
     S:gt.blockores.2036.name=锌矿石
-    S:gt.blockores.20360.name=Small铌钛合金Ore
-    S:gt.blockores.20361.name=Small ChromiumDioxide Ore
+    S:gt.blockores.20360.name=贫瘠铌钛合金矿石
+    S:gt.blockores.20361.name=贫瘠二氧化铬矿石
     S:gt.blockores.2037.name=镓矿石
     S:gt.blockores.2039.name=砷矿石
     S:gt.blockores.2043.name=铷矿石
@@ -5029,7 +5029,7 @@ languagefile {
     S:gt.blockores.20927.name=贫瘠膨润土
     S:gt.blockores.20928.name=贫瘠硅藻土
     S:gt.blockores.20929.name=贫瘠高岭石
-    S:gt.blockores.2093.name=Radon Ore
+    S:gt.blockores.2093.name=氡矿石
     S:gt.blockores.20930.name=贫瘠褐色褐铁矿矿石
     S:gt.blockores.20931.name=贫瘠黄色褐铁矿矿石
     S:gt.blockores.20932.name=贫瘠蛭石
@@ -5121,8 +5121,8 @@ languagefile {
     S:gt.blockores.2358.name=钇钡铜氧矿石
     S:gt.blockores.2359.name=一氮化铌矿石
     S:gt.blockores.2360.name=铌钛合金矿石
-    S:gt.blockores.2361.name=ChromiumDioxide Ore
-    S:gt.blockores.24.name=Argon Ore
+    S:gt.blockores.2361.name=二氧化铬矿石
+    S:gt.blockores.24.name=氩矿石
     S:gt.blockores.25.name=钾矿石
     S:gt.blockores.2500.name=钻石矿石
     S:gt.blockores.2501.name=绿宝石矿石
@@ -5364,7 +5364,7 @@ languagefile {
     S:gt.blockores.3021.name=磷矿石
     S:gt.blockores.3022.name=硫磺矿石
     S:gt.blockores.3023.name=氯矿石
-    S:gt.blockores.3024.name=Argon Ore
+    S:gt.blockores.3024.name=氩矿石
     S:gt.blockores.3025.name=钾矿石
     S:gt.blockores.3026.name=钙矿石
     S:gt.blockores.3027.name=钪矿石
@@ -5424,7 +5424,7 @@ languagefile {
     S:gt.blockores.3089.name=铅矿石
     S:gt.blockores.309.name=蓝色合金矿石
     S:gt.blockores.3090.name=铋矿石
-    S:gt.blockores.3093.name=Radon Ore
+    S:gt.blockores.3093.name=氡矿石
     S:gt.blockores.3096.name=钍矿石
     S:gt.blockores.3097.name=铀-235矿石
     S:gt.blockores.3098.name=铀-238矿石
@@ -5525,7 +5525,7 @@ languagefile {
     S:gt.blockores.3359.name=一氮化铌矿石
     S:gt.blockores.336.name=暗影铁矿石
     S:gt.blockores.3360.name=铌钛合金矿石
-    S:gt.blockores.3361.name=ChromiumDioxide Ore
+    S:gt.blockores.3361.name=二氧化铬矿石
     S:gt.blockores.337.name=暗影钢矿石
     S:gt.blockores.338.name=铁木矿石
     S:gt.blockores.339.name=钢叶矿石
@@ -5597,7 +5597,7 @@ languagefile {
     S:gt.blockores.359.name=一氮化铌矿石
     S:gt.blockores.36.name=锌矿石
     S:gt.blockores.360.name=铌钛合金矿石
-    S:gt.blockores.361.name=ChromiumDioxide Ore
+    S:gt.blockores.361.name=二氧化铬矿石
     S:gt.blockores.37.name=镓矿石
     S:gt.blockores.3700.name=Lava矿石
     S:gt.blockores.3701.name=Water矿石
@@ -5787,7 +5787,7 @@ languagefile {
     S:gt.blockores.4021.name=磷矿石
     S:gt.blockores.4022.name=硫磺矿石
     S:gt.blockores.4023.name=氯矿石
-    S:gt.blockores.4024.name=Argon Ore
+    S:gt.blockores.4024.name=氩矿石
     S:gt.blockores.4025.name=钾矿石
     S:gt.blockores.4026.name=钙矿石
     S:gt.blockores.4027.name=钪矿石
@@ -5840,7 +5840,7 @@ languagefile {
     S:gt.blockores.4087.name=汞矿石
     S:gt.blockores.4089.name=铅矿石
     S:gt.blockores.4090.name=铋矿石
-    S:gt.blockores.4093.name=Radon Ore
+    S:gt.blockores.4093.name=氡矿石
     S:gt.blockores.4096.name=钍矿石
     S:gt.blockores.4097.name=铀-235矿石
     S:gt.blockores.4098.name=铀-238矿石
@@ -5911,7 +5911,7 @@ languagefile {
     S:gt.blockores.4358.name=钇钡铜氧矿石
     S:gt.blockores.4359.name=一氮化铌矿石
     S:gt.blockores.4360.name=铌钛合金矿石
-    S:gt.blockores.4361.name=ChromiumDioxide Ore
+    S:gt.blockores.4361.name=二氧化铬矿石
     S:gt.blockores.44.name=锶矿石
     S:gt.blockores.45.name=钇矿石
     S:gt.blockores.4500.name=钻石矿石
@@ -6356,7 +6356,7 @@ languagefile {
     S:gt.blockores.927.name=膨润土
     S:gt.blockores.928.name=硅藻土
     S:gt.blockores.929.name=高岭石
-    S:gt.blockores.93.name=Radon Ore
+    S:gt.blockores.93.name=氡矿石
     S:gt.blockores.930.name=褐铁矿矿石
     S:gt.blockores.931.name=褐铁矿矿石
     S:gt.blockores.932.name=蛭石
@@ -6754,7 +6754,7 @@ languagefile {
     S:gt.metaitem.01.11359.tooltip=NbN
     S:gt.metaitem.01.11360.name=铌钛合金锭
     S:gt.metaitem.01.11360.tooltip=NbTi
-    S:gt.metaitem.01.11361.name=ChromiumDioxide Ingot
+    S:gt.metaitem.01.11361.name=二氧化铬锭
     S:gt.metaitem.01.11361.tooltip=(CrO2)3
     S:gt.metaitem.01.11521.name=立场锭
     S:gt.metaitem.01.11521.tooltip=
@@ -6936,7 +6936,7 @@ languagefile {
     S:gt.metaitem.01.1359.tooltip=NbN
     S:gt.metaitem.01.1360.name=一小撮铌钛合金粉末
     S:gt.metaitem.01.1360.tooltip=NbTi
-    S:gt.metaitem.01.1361.name=Small Pile of ChromiumDioxide Dust
+    S:gt.metaitem.01.1361.name=一小撮二氧化铬粉末
     S:gt.metaitem.01.1361.tooltip=CrO2
     S:gt.metaitem.01.1500.name=一小撮钻石粉末
     S:gt.metaitem.01.1500.tooltip=C
@@ -7264,7 +7264,7 @@ languagefile {
     S:gt.metaitem.01.17359.tooltip=NbN
     S:gt.metaitem.01.17360.name=铌钛合金板
     S:gt.metaitem.01.17360.tooltip=NbTi
-    S:gt.metaitem.01.17361.name=ChromiumDioxide Plate
+    S:gt.metaitem.01.17361.name=二氧化铬板
     S:gt.metaitem.01.17361.tooltip=(CrO2)3
     S:gt.metaitem.01.17500.name=钻石板
     S:gt.metaitem.01.17500.tooltip=C128
@@ -8122,7 +8122,7 @@ languagefile {
     S:gt.metaitem.01.2336.tooltip=Fe3Ma
     S:gt.metaitem.01.23360.name=铌钛合金杆
     S:gt.metaitem.01.23360.tooltip=NbTi
-    S:gt.metaitem.01.23361.name=ChromiumDioxide Rod
+    S:gt.metaitem.01.23361.name=二氧化铬杆
     S:gt.metaitem.01.23361.tooltip=CrO2
     S:gt.metaitem.01.2337.name=暗影钢粉末
     S:gt.metaitem.01.2337.tooltip=(Fe50C)3Ma
@@ -8258,7 +8258,7 @@ languagefile {
     S:gt.metaitem.01.2359.tooltip=NbN
     S:gt.metaitem.01.2360.name=铌钛合金粉末
     S:gt.metaitem.01.2360.tooltip=NbTi
-    S:gt.metaitem.01.2361.name=ChromiumDioxide Dust
+    S:gt.metaitem.01.2361.name=二氧化铬粉末
     S:gt.metaitem.01.2361.tooltip=(CrO2)3
     S:gt.metaitem.01.23829.name=深渊铁杆
     S:gt.metaitem.01.23829.tooltip=Fe
@@ -8630,7 +8630,7 @@ languagefile {
     S:gt.metaitem.01.2536.tooltip=C
     S:gt.metaitem.01.25360.name=铌钛合金垫片
     S:gt.metaitem.01.25360.tooltip=NbTi
-    S:gt.metaitem.01.25361.name=ChromiumDioxide Round
+    S:gt.metaitem.01.25361.name=二氧化铬垫片
     S:gt.metaitem.01.25361.tooltip=CrO2
     S:gt.metaitem.01.2537.name=翡翠粉末
     S:gt.metaitem.01.2537.tooltip=
@@ -8896,7 +8896,7 @@ languagefile {
     S:gt.metaitem.01.26359.tooltip=NbN
     S:gt.metaitem.01.26360.name=铌钛合金螺栓
     S:gt.metaitem.01.26360.tooltip=NbTi
-    S:gt.metaitem.01.26361.name=ChromiumDioxide Bolt
+    S:gt.metaitem.01.26361.name=二氧化铬螺栓
     S:gt.metaitem.01.26361.tooltip=CrO2
     S:gt.metaitem.01.26500.name=钻石螺栓
     S:gt.metaitem.01.26500.tooltip=C
@@ -9234,7 +9234,7 @@ languagefile {
     S:gt.metaitem.01.27359.tooltip=NbN
     S:gt.metaitem.01.27360.name=铌钛合金螺丝
     S:gt.metaitem.01.27360.tooltip=NbTi
-    S:gt.metaitem.01.27361.name=ChromiumDioxide Screw
+    S:gt.metaitem.01.27361.name=二氧化铬螺丝
     S:gt.metaitem.01.27361.tooltip=CrO2
     S:gt.metaitem.01.27500.name=钻石螺丝
     S:gt.metaitem.01.27500.tooltip=C
@@ -9630,7 +9630,7 @@ languagefile {
     S:gt.metaitem.01.2836.tooltip=KNO3
     S:gt.metaitem.01.28360.name=铌钛合金环
     S:gt.metaitem.01.28360.tooltip=NbTi
-    S:gt.metaitem.01.28361.name=ChromiumDioxide Ring
+    S:gt.metaitem.01.28361.name=二氧化铬环
     S:gt.metaitem.01.28361.tooltip=CrO2
     S:gt.metaitem.01.2837.name=二氧化硅粉末
     S:gt.metaitem.01.2837.tooltip=SiO2
@@ -10062,7 +10062,7 @@ languagefile {
     S:gt.metaitem.01.2936.tooltip=Fe3O4(SiO2)4KMg3Al3F2Si3O10
     S:gt.metaitem.01.29360.name=铌钛合金箔
     S:gt.metaitem.01.29360.tooltip=NbTi
-    S:gt.metaitem.01.29361.name=ChromiumDioxide Foil
+    S:gt.metaitem.01.29361.name=二氧化铬箔
     S:gt.metaitem.01.29361.tooltip=CrO2
     S:gt.metaitem.01.2937.name=锡石砂
     S:gt.metaitem.01.2937.tooltip=(SnO2)3
@@ -10140,7 +10140,7 @@ languagefile {
     S:gt.metaitem.01.30022.tooltip=S
     S:gt.metaitem.01.30023.name=氯槽
     S:gt.metaitem.01.30023.tooltip=Cl
-    S:gt.metaitem.01.30024.name=Argon Cell
+    S:gt.metaitem.01.30024.name=氩槽
     S:gt.metaitem.01.30024.tooltip=Ar
     S:gt.metaitem.01.30025.name=钾槽
     S:gt.metaitem.01.30025.tooltip=K
@@ -10194,7 +10194,7 @@ languagefile {
     S:gt.metaitem.01.30087.tooltip=Hg
     S:gt.metaitem.01.3009.name=含有杂质的硼粉末
     S:gt.metaitem.01.3009.tooltip=B
-    S:gt.metaitem.01.30093.name=Radon Cell
+    S:gt.metaitem.01.30093.name=氡槽
     S:gt.metaitem.01.30093.tooltip=Rn
     S:gt.metaitem.01.301.name=很小一撮黄铜粉末
     S:gt.metaitem.01.301.tooltip=ZnCu3
@@ -10434,7 +10434,7 @@ languagefile {
     S:gt.metaitem.01.31022.tooltip=S
     S:gt.metaitem.01.31023.name=氯离子槽
     S:gt.metaitem.01.31023.tooltip=Cl
-    S:gt.metaitem.01.31024.name=Argon Plasma Cell
+    S:gt.metaitem.01.31024.name=氩离子槽
     S:gt.metaitem.01.31024.tooltip=Ar
     S:gt.metaitem.01.31025.name=钾离子槽
     S:gt.metaitem.01.31025.tooltip=K
@@ -10484,7 +10484,7 @@ languagefile {
     S:gt.metaitem.01.31078.tooltip=Lu
     S:gt.metaitem.01.31087.name=汞离子槽
     S:gt.metaitem.01.31087.tooltip=Hg
-    S:gt.metaitem.01.31093.name=Radon Plasma Cell
+    S:gt.metaitem.01.31093.name=氡离子槽
     S:gt.metaitem.01.31093.tooltip=Rn
     S:gt.metaitem.01.311.name=很小一撮镍铬铁粉末
     S:gt.metaitem.01.311.tooltip=Ni4Cr
@@ -11038,7 +11038,7 @@ languagefile {
     S:gt.metaitem.01.36.tooltip=Zn
     S:gt.metaitem.01.360.name=很小一撮铌钛合金粉末
     S:gt.metaitem.01.360.tooltip=NbTi
-    S:gt.metaitem.01.361.name=Tiny Pile of ChromiumDioxide Dust
+    S:gt.metaitem.01.361.name=很小一撮二氧化铬粉末
     S:gt.metaitem.01.361.tooltip=CrO2
     S:gt.metaitem.01.37.name=很小一撮镓粉末
     S:gt.metaitem.01.37.tooltip=Ga
@@ -13532,7 +13532,7 @@ languagefile {
     S:gt.metaitem.01.936.tooltip=Fe3O4(SiO2)4KMg3Al3F2Si3O10
     S:gt.metaitem.01.9360.name=铌钛合金粒
     S:gt.metaitem.01.9360.tooltip=NbTi
-    S:gt.metaitem.01.9361.name=ChromiumDioxide Nugget
+    S:gt.metaitem.01.9361.name=二氧化铬粒
     S:gt.metaitem.01.9361.tooltip=CrO2
     S:gt.metaitem.01.937.name=很小一撮锡石砂
     S:gt.metaitem.01.937.tooltip=SnO2
@@ -17204,7 +17204,7 @@ languagefile {
     S:gt.metaitem.03.1359.tooltip=NbN
     S:gt.metaitem.03.1360.name=一箱铌钛合金锭
     S:gt.metaitem.03.1360.tooltip=NbTi
-    S:gt.metaitem.03.1361.name=Crate of ChromiumDioxide Ingot
+    S:gt.metaitem.03.1361.name=一箱二氧化铬锭
     S:gt.metaitem.03.1361.tooltip=CrO2
     S:gt.metaitem.03.1521.name=一箱立场锭
     S:gt.metaitem.03.1521.tooltip=
@@ -17648,7 +17648,7 @@ languagefile {
     S:gt.metaitem.03.336.tooltip=Fe3Ma
     S:gt.metaitem.03.3360.name=一箱铌钛合金板
     S:gt.metaitem.03.3360.tooltip=NbTi
-    S:gt.metaitem.03.3361.name=Crate of ChromiumDioxide Plate
+    S:gt.metaitem.03.3361.name=一箱二氧化铬板
     S:gt.metaitem.03.3361.tooltip=CrO2
     S:gt.metaitem.03.337.name=一箱暗影钢粉末
     S:gt.metaitem.03.337.tooltip=(Fe50C)3Ma
@@ -17790,7 +17790,7 @@ languagefile {
     S:gt.metaitem.03.36.tooltip=Zn
     S:gt.metaitem.03.360.name=一箱铌钛合金粉末
     S:gt.metaitem.03.360.tooltip=NbTi
-    S:gt.metaitem.03.361.name=Crate of ChromiumDioxide Dust
+    S:gt.metaitem.03.361.name=一箱二氧化铬粉末
     S:gt.metaitem.03.361.tooltip=CrO2
     S:gt.metaitem.03.37.name=一箱镓粉末
     S:gt.metaitem.03.37.tooltip=Ga
@@ -18438,7 +18438,7 @@ languagefile {
     S:gt.recipe.hammer=锻造锤
     S:gt.recipe.implosioncompressor=聚爆压缩机
     S:gt.recipe.largenaquadahreactor=巨型硅岩反应堆
-    S:gt.recipe.laserengraver=Precision Laser Engraver
+    S:gt.recipe.laserengraver=激光刻蚀机
     S:gt.recipe.lathe=车床
     S:gt.recipe.macerator=粉碎
     S:gt.recipe.magicfuels=魔法燃料
@@ -18447,7 +18447,7 @@ languagefile {
     S:gt.recipe.packager=打包器
     S:gt.recipe.plasmageneratorfuels=等离子发电机燃料
     S:gt.recipe.polarizer=电磁两极磁化器
-    S:gt.recipe.press=Forming Press
+    S:gt.recipe.press=压力成型机
     S:gt.recipe.rockbreaker=碎石机
     S:gt.recipe.scanner=扫描仪
     S:gt.recipe.semifluidboilerfuels=半流质锅炉燃料
