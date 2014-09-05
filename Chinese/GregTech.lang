@@ -1561,11 +1561,11 @@ languagefile {
     S:TileEntity_DESCRIPTION_574_Index_0=使粉末结晶
     S:TileEntity_DESCRIPTION_575_Index_0=使粉末结晶
     S:TileEntity_DESCRIPTION_57_Index_0=用于向大型机械中输入原料
-    S:TileEntity_DESCRIPTION_581_Index_0=Will it Blend?
-    S:TileEntity_DESCRIPTION_582_Index_0=Will it Blend?
-    S:TileEntity_DESCRIPTION_583_Index_0=Will it Blend?
-    S:TileEntity_DESCRIPTION_584_Index_0=Will it Blend?
-    S:TileEntity_DESCRIPTION_585_Index_0=Will it Blend?
+    S:TileEntity_DESCRIPTION_581_Index_0=这玩意是用来混合的？
+    S:TileEntity_DESCRIPTION_582_Index_0=这玩意是用来混合的？
+    S:TileEntity_DESCRIPTION_583_Index_0=这玩意是用来混合的？
+    S:TileEntity_DESCRIPTION_584_Index_0=这玩意是用来混合的？
+    S:TileEntity_DESCRIPTION_585_Index_0=这玩意是用来混合的？
     S:TileEntity_DESCRIPTION_58_Index_0=用于向大型机械中输入原料
     S:TileEntity_DESCRIPTION_59_Index_0=用于向大型机械中输入原料
     S:TileEntity_DESCRIPTION_60_Index_0=使用螺丝刀来调整对应的输出类型
@@ -2114,11 +2114,11 @@ languagefile {
     S:gt.blockmachines.basicmachine.microwave.tier.03.name=进阶微波炉 II
     S:gt.blockmachines.basicmachine.microwave.tier.04.name=进阶微波炉 III
     S:gt.blockmachines.basicmachine.microwave.tier.05.name=进阶微波炉 IV
-    S:gt.blockmachines.basicmachine.mixer.tier.01.name=Basic Mixer
-    S:gt.blockmachines.basicmachine.mixer.tier.02.name=Advanced Mixer
-    S:gt.blockmachines.basicmachine.mixer.tier.03.name=Advanced Mixer II
-    S:gt.blockmachines.basicmachine.mixer.tier.04.name=Advanced Mixer III
-    S:gt.blockmachines.basicmachine.mixer.tier.05.name=Advanced Mixer IV
+    S:gt.blockmachines.basicmachine.mixer.tier.01.name=基础搅拌机
+    S:gt.blockmachines.basicmachine.mixer.tier.02.name=进阶搅拌机
+    S:gt.blockmachines.basicmachine.mixer.tier.03.name=进阶搅拌机 II
+    S:gt.blockmachines.basicmachine.mixer.tier.04.name=进阶搅拌机 III
+    S:gt.blockmachines.basicmachine.mixer.tier.05.name=进阶搅拌机 IV
     S:gt.blockmachines.basicmachine.orewasher.tier.01.name=基础洗矿场
     S:gt.blockmachines.basicmachine.orewasher.tier.02.name=进阶洗矿场
     S:gt.blockmachines.basicmachine.orewasher.tier.03.name=进阶洗矿场 II
@@ -6329,7 +6329,7 @@ languagefile {
     S:gt.coil01tooltip=基础比热容 = 1800 开式度
     S:gt.coil02tooltip=基础比热容 = 2700 开式度
     S:gt.coil03tooltip=基础比热容 = 3600 开式度
-    S:gt.integrated_circuit.configuration=Configuration: 
+    S:gt.integrated_circuit.configuration=配置: 
     S:gt.integrated_circuit.name=集成电路
     S:gt.metaitem.01.10.name=很小一撮碳粉末
     S:gt.metaitem.01.10.tooltip=C
@@ -18351,7 +18351,7 @@ languagefile {
     S:gt.recipe.macerator=粉碎
     S:gt.recipe.magicfuels=魔法燃料
     S:gt.recipe.metalbender=卷板机
-    S:gt.recipe.mixer=Mixer
+    S:gt.recipe.mixer=搅拌机
     S:gt.recipe.packager=打包器
     S:gt.recipe.plasmageneratorfuels=等离子发电机燃料
     S:gt.recipe.polarizer=电磁两极磁化器
