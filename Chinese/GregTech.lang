@@ -1,5 +1,5 @@
 # Translation file
-# Compatible with: GregTech 5.04.02
+# Compatible with: GregTech 5.04.03
 # Translation author: TehporP & DeckerCHAN & ZhangHS
 # Translation bug report to: https://github.com/Trigonometry-F/Gregtech5-Translation-Chinese/issues
 enablelangfile {
@@ -1580,6 +1580,11 @@ languagefile {
     S:TileEntity_DESCRIPTION_604_Index_0=向物品上打印图像
     S:TileEntity_DESCRIPTION_605_Index_0=向物品上打印图像
     S:TileEntity_DESCRIPTION_60_Index_0=使用螺丝刀来调整对应的输出类型
+    S:TileEntity_DESCRIPTION_611_Index_0=Stop, Hammertime!
+    S:TileEntity_DESCRIPTION_612_Index_0=Stop, Hammertime!
+    S:TileEntity_DESCRIPTION_613_Index_0=Stop, Hammertime!
+    S:TileEntity_DESCRIPTION_614_Index_0=Stop, Hammertime!
+    S:TileEntity_DESCRIPTION_615_Index_0=Stop, Hammertime!
     S:TileEntity_DESCRIPTION_61_Index_0=使用螺丝刀来调整对应的输出类型
     S:TileEntity_DESCRIPTION_62_Index_0=使用螺丝刀来调整对应的输出类型
     S:TileEntity_DESCRIPTION_63_Index_0=使用螺丝刀来调整对应的输出类型
@@ -1685,6 +1690,7 @@ languagefile {
     S:TileEntity_EUp_STORE=容量:
     S:enchantment.damage.endermen=分解
     S:enchantment.damage.radioactivity=辐射
+    S:fluid.air=Air
     S:fluid.bioethanol=生物乙醇
     S:fluid.biomass=生物质
     S:fluid.chlorine=氯
@@ -1702,6 +1708,7 @@ languagefile {
     S:fluid.mercury=汞
     S:fluid.methane=甲烷
     S:fluid.milk=牛奶
+    S:fluid.molten.blaze=Molten Blaze
     S:fluid.molten.concrete=塑性水泥
     S:fluid.molten.glass=熔融玻璃
     S:fluid.molten.redstone=熔融红石
@@ -1710,6 +1717,7 @@ languagefile {
     S:fluid.nitrogen=氮
     S:fluid.nitrogendioxide=二氧化氮
     S:fluid.oil=原有
+    S:fluid.oxygen=Oxygen
     S:fluid.potion.alcopops=混合果汁酒
     S:fluid.potion.applejuice=苹果汁
     S:fluid.potion.awkward=笨拙的药水
@@ -2106,6 +2114,11 @@ languagefile {
     S:gt.blockmachines.basicmachine.fluidsolidifier.tier.03.name=进阶液体固化器 II
     S:gt.blockmachines.basicmachine.fluidsolidifier.tier.04.name=进阶液体固化器 III
     S:gt.blockmachines.basicmachine.fluidsolidifier.tier.05.name=进阶液体固化器 IV
+    S:gt.blockmachines.basicmachine.hammer.tier.01.name=Basic Forge Hammer
+    S:gt.blockmachines.basicmachine.hammer.tier.02.name=Advanced Forge Hammer
+    S:gt.blockmachines.basicmachine.hammer.tier.03.name=Advanced Forge Hammer II
+    S:gt.blockmachines.basicmachine.hammer.tier.04.name=Advanced Forge Hammer III
+    S:gt.blockmachines.basicmachine.hammer.tier.05.name=Advanced Forge Hammer IV
     S:gt.blockmachines.basicmachine.laserengraver.tier.01.name=基础激光刻蚀机
     S:gt.blockmachines.basicmachine.laserengraver.tier.02.name=高精度镭射刻印机
     S:gt.blockmachines.basicmachine.laserengraver.tier.03.name=高精度镭射刻印机 II
@@ -10126,6 +10139,8 @@ languagefile {
     S:gt.metaitem.01.30010.tooltip=C
     S:gt.metaitem.01.30012.name=氮槽
     S:gt.metaitem.01.30012.tooltip=N
+    S:gt.metaitem.01.30013.name=Oxygen Cell
+    S:gt.metaitem.01.30013.tooltip=O
     S:gt.metaitem.01.30014.name=氟槽
     S:gt.metaitem.01.30014.tooltip=F
     S:gt.metaitem.01.30017.name=钠槽
