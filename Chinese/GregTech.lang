@@ -18444,7 +18444,7 @@ languagefile {
     S:gt.recipe.alloysmelter=合金炉
     S:gt.recipe.assembler=组装机
     S:gt.recipe.autoclave=高压釜
-    S:gt.recipe.blastfurnace=组装机
+    S:gt.recipe.blastfurnace=工业高炉
     S:gt.recipe.brewer=酿造炉
     S:gt.recipe.byproductlist=矿物副产物列表
     S:gt.recipe.canner=灌装机
