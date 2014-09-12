@@ -1702,12 +1702,12 @@ languagefile {
     S:fluid.honey=Honey
     S:fluid.hydrogen=氢
     S:fluid.ice=碎冰
-    S:fluid.liquid_extra_heavy_oil=Very Heavy Oil
-    S:fluid.liquid_heavy_oil=Heavy Oil
-    S:fluid.liquid_light_oil=Light Oil
-    S:fluid.liquid_medium_oil=Raw Oil
+    S:fluid.liquid_extra_heavy_oil=超重油
+    S:fluid.liquid_heavy_oil=重油
+    S:fluid.liquid_light_oil=轻质油
+    S:fluid.liquid_medium_oil=原油
     S:fluid.lubricant=润滑油
-    S:fluid.mcguffium=Mc Guffium 239
+    S:fluid.mcguffium=流质乌有岩
     S:fluid.mercury=汞
     S:fluid.methane=甲烷
     S:fluid.milk=牛奶
@@ -1715,7 +1715,7 @@ languagefile {
     S:fluid.molten.concrete=塑性水泥
     S:fluid.molten.glass=熔融玻璃
     S:fluid.molten.redstone=熔融红石
-    S:fluid.molten.tin=Molten Tin
+    S:fluid.molten.tin=液态锡
     S:fluid.nitrocoalfuel=硝基煤油
     S:fluid.nitrofuel=硝基柴油
     S:fluid.nitrogen=氮
@@ -3405,7 +3405,7 @@ languagefile {
     S:gt.blockores.16946.name=贫瘠石棉矿石
     S:gt.blockores.16947.name=贫瘠Concrete 矿石
     S:gt.blockores.16948.name=贫瘠硅藻土矿石
-    S:gt.blockores.16999.name=Small Mc Guffium 239 Ore
+    S:gt.blockores.16999.name=贫瘠乌有岩239矿石
     S:gt.blockores.17.name=钠矿石
     S:gt.blockores.1700.name=Lava矿石
     S:gt.blockores.17001.name=贫瘠氢矿石
@@ -3787,7 +3787,7 @@ languagefile {
     S:gt.blockores.17946.name=贫瘠石棉矿石
     S:gt.blockores.17947.name=贫瘠Concrete 矿石
     S:gt.blockores.17948.name=贫瘠硅藻土矿石
-    S:gt.blockores.17999.name=Small Mc Guffium 239 Ore
+    S:gt.blockores.17999.name=贫瘠乌有岩239矿石
     S:gt.blockores.18.name=镁矿石
     S:gt.blockores.1800.name=火药矿石
     S:gt.blockores.18001.name=贫瘠氢矿石
@@ -4235,7 +4235,7 @@ languagefile {
     S:gt.blockores.18946.name=贫瘠石棉矿石
     S:gt.blockores.18947.name=贫瘠Concrete 矿石
     S:gt.blockores.18948.name=贫瘠硅藻土矿石
-    S:gt.blockores.18999.name=Small Mc Guffium 239 Ore
+    S:gt.blockores.18999.name=贫瘠乌有岩239矿石
     S:gt.blockores.19.name=铝矿石
     S:gt.blockores.1900.name=芒硝矿石
     S:gt.blockores.19001.name=贫瘠氢矿石
@@ -4640,8 +4640,8 @@ languagefile {
     S:gt.blockores.19946.name=贫瘠石棉矿石
     S:gt.blockores.19947.name=贫瘠Concrete 矿石
     S:gt.blockores.19948.name=贫瘠硅藻土矿石
-    S:gt.blockores.1999.name=Mc Guffium 239 Ore
-    S:gt.blockores.19999.name=Small Mc Guffium 239 Ore
+    S:gt.blockores.1999.name=乌有岩239矿石
+    S:gt.blockores.19999.name=贫瘠乌有岩239矿石
     S:gt.blockores.2.name=氘矿石
     S:gt.blockores.20.name=硅矿石
     S:gt.blockores.20001.name=贫瘠氢矿石
@@ -5074,7 +5074,7 @@ languagefile {
     S:gt.blockores.2096.name=钍矿石
     S:gt.blockores.2097.name=铀-235矿石
     S:gt.blockores.2098.name=铀-238矿石
-    S:gt.blockores.20999.name=Small Mc Guffium 239 Ore
+    S:gt.blockores.20999.name=贫瘠乌有岩239矿石
     S:gt.blockores.21.name=磷矿石
     S:gt.blockores.2100.name=钚-244矿石
     S:gt.blockores.2101.name=钚-241矿石
@@ -5363,7 +5363,7 @@ languagefile {
     S:gt.blockores.2947.name=混凝土矿石
     S:gt.blockores.2948.name=硅藻土矿石
     S:gt.blockores.299.name=石头矿石
-    S:gt.blockores.2999.name=Mc Guffium 239 Ore
+    S:gt.blockores.2999.name=乌有岩239矿石
     S:gt.blockores.3.name=氚矿石
     S:gt.blockores.30.name=铬矿石
     S:gt.blockores.300.name=黄铜矿石
@@ -5791,7 +5791,7 @@ languagefile {
     S:gt.blockores.3946.name=石棉矿石
     S:gt.blockores.3947.name=混凝土矿石
     S:gt.blockores.3948.name=硅藻土矿石
-    S:gt.blockores.3999.name=Mc Guffium 239 Ore
+    S:gt.blockores.3999.name=乌有岩239矿石
     S:gt.blockores.4.name=氦矿石
     S:gt.blockores.4001.name=氢矿石
     S:gt.blockores.4002.name=氘矿石
@@ -6152,7 +6152,7 @@ languagefile {
     S:gt.blockores.4946.name=石棉矿石
     S:gt.blockores.4947.name=混凝土矿石
     S:gt.blockores.4948.name=硅藻土矿石
-    S:gt.blockores.4999.name=Mc Guffium 239 Ore
+    S:gt.blockores.4999.name=乌有岩239矿石
     S:gt.blockores.5.name=氦-3矿石
     S:gt.blockores.500.name=钻石矿石
     S:gt.blockores.501.name=绿宝石矿石
@@ -6405,7 +6405,7 @@ languagefile {
     S:gt.blockores.96.name=钍矿石
     S:gt.blockores.97.name=铀-235矿石
     S:gt.blockores.98.name=铀-238矿石
-    S:gt.blockores.999.name=Mc Guffium 239 Ore
+    S:gt.blockores.999.name=乌有岩239矿石
     S:gt.coil01tooltip=基础比热容 = 1800 开式度
     S:gt.coil02tooltip=基础比热容 = 2700 开式度
     S:gt.coil03tooltip=基础比热容 = 3600 开式度
@@ -10419,7 +10419,7 @@ languagefile {
     S:gt.metaitem.01.3097.tooltip=U-235
     S:gt.metaitem.01.3098.name=含有杂质的铀-238粉末
     S:gt.metaitem.01.3098.tooltip=U
-    S:gt.metaitem.01.30999.name=Mc Guffium 239 Cell
+    S:gt.metaitem.01.30999.name=乌有岩239槽
     S:gt.metaitem.01.30999.tooltip=
     S:gt.metaitem.01.31.name=很小一撮锰粉末
     S:gt.metaitem.01.31.tooltip=Mn
