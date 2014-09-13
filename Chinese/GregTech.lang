@@ -2427,7 +2427,7 @@ languagefile {
     S:gt.blockmachines.cable.zinc.04.name=4x锌线缆
     S:gt.blockmachines.cable.zinc.08.name=8x锌线缆
     S:gt.blockmachines.cable.zinc.12.name=12x锌线缆
-    S:gt.blockmachines.gt_frame_adamantium.name=艾曼达合金框架
+    S:gt.blockmachines.gt_frame_adamantium.name=精金框架
     S:gt.blockmachines.gt_frame_aluminium.name=铝框架
     S:gt.blockmachines.gt_frame_americium.name=镅框架
     S:gt.blockmachines.gt_frame_annealedcopper.name=韧铜框架
@@ -3007,7 +3007,7 @@ languagefile {
     S:gt.blockores.1316.name=钨钢矿石
     S:gt.blockores.1317.name=铱锇矿石
     S:gt.blockores.1318.name=太阳合金矿石
-    S:gt.blockores.1319.name=艾曼达合金矿石
+    S:gt.blockores.1319.name=精金矿石
     S:gt.blockores.1320.name=熔融琥珀金矿石
     S:gt.blockores.1321.name=末影矿石
     S:gt.blockores.1322.name=高强度低合金钢矿石
@@ -3195,7 +3195,7 @@ languagefile {
     S:gt.blockores.16316.name=小型钨钢矿石
     S:gt.blockores.16317.name=贫瘠铱锇矿石
     S:gt.blockores.16318.name=贫瘠太阳合金矿石
-    S:gt.blockores.16319.name=贫瘠艾曼达合金矿石
+    S:gt.blockores.16319.name=贫瘠精金矿石
     S:gt.blockores.16320.name=贫瘠熔融琥珀金矿石
     S:gt.blockores.16321.name=贫瘠末影矿石
     S:gt.blockores.16322.name=贫瘠高强度低合金钢矿石
@@ -3577,7 +3577,7 @@ languagefile {
     S:gt.blockores.17316.name=小型钨钢矿石
     S:gt.blockores.17317.name=贫瘠铱锇矿石
     S:gt.blockores.17318.name=贫瘠太阳合金矿石
-    S:gt.blockores.17319.name=贫瘠艾曼达合金矿石
+    S:gt.blockores.17319.name=贫瘠精金矿石
     S:gt.blockores.17320.name=贫瘠熔融琥珀金矿石
     S:gt.blockores.17321.name=贫瘠末影矿石
     S:gt.blockores.17322.name=贫瘠高强度低合金钢矿石
@@ -3965,7 +3965,7 @@ languagefile {
     S:gt.blockores.18316.name=小型钨钢矿石
     S:gt.blockores.18317.name=贫瘠铱锇矿石
     S:gt.blockores.18318.name=贫瘠太阳合金矿石
-    S:gt.blockores.18319.name=贫瘠艾曼达合金矿石
+    S:gt.blockores.18319.name=贫瘠精金矿石
     S:gt.blockores.1832.name=活根矿石
     S:gt.blockores.18320.name=贫瘠熔融琥珀金矿石
     S:gt.blockores.18321.name=贫瘠末影矿石
@@ -4413,7 +4413,7 @@ languagefile {
     S:gt.blockores.19316.name=小型钨钢矿石
     S:gt.blockores.19317.name=贫瘠铱锇矿石
     S:gt.blockores.19318.name=贫瘠太阳合金矿石
-    S:gt.blockores.19319.name=贫瘠艾曼达合金矿石
+    S:gt.blockores.19319.name=贫瘠精金矿石
     S:gt.blockores.1932.name=蛭石
     S:gt.blockores.19320.name=贫瘠熔融琥珀金矿石
     S:gt.blockores.19321.name=贫瘠末影矿石
@@ -4815,7 +4815,7 @@ languagefile {
     S:gt.blockores.20316.name=小型钨钢矿石
     S:gt.blockores.20317.name=贫瘠铱锇矿石
     S:gt.blockores.20318.name=贫瘠太阳合金矿石
-    S:gt.blockores.20319.name=贫瘠艾曼达合金矿石
+    S:gt.blockores.20319.name=贫瘠精金矿石
     S:gt.blockores.2032.name=铁矿石
     S:gt.blockores.20320.name=贫瘠熔融琥珀金矿石
     S:gt.blockores.20321.name=贫瘠末影矿石
@@ -5146,7 +5146,7 @@ languagefile {
     S:gt.blockores.2316.name=钨钢矿石
     S:gt.blockores.2317.name=铱锇矿石
     S:gt.blockores.2318.name=太阳合金矿石
-    S:gt.blockores.2319.name=艾曼达合金矿石
+    S:gt.blockores.2319.name=精金矿石
     S:gt.blockores.2320.name=熔融琥珀金矿石
     S:gt.blockores.2321.name=末影矿石
     S:gt.blockores.2322.name=高强度低合金钢矿石
@@ -5510,7 +5510,7 @@ languagefile {
     S:gt.blockores.316.name=钨钢矿石
     S:gt.blockores.317.name=铱锇矿石
     S:gt.blockores.318.name=太阳合金矿石
-    S:gt.blockores.319.name=艾曼达合金矿石
+    S:gt.blockores.319.name=精金矿石
     S:gt.blockores.32.name=铁矿石
     S:gt.blockores.320.name=熔融琥珀金矿石
     S:gt.blockores.321.name=末影矿石
@@ -5546,7 +5546,7 @@ languagefile {
     S:gt.blockores.3316.name=钨钢矿石
     S:gt.blockores.3317.name=铱锇矿石
     S:gt.blockores.3318.name=太阳合金矿石
-    S:gt.blockores.3319.name=艾曼达合金矿石
+    S:gt.blockores.3319.name=精金矿石
     S:gt.blockores.332.name=点金素矿石
     S:gt.blockores.3320.name=熔融琥珀金矿石
     S:gt.blockores.3321.name=末影矿石
@@ -5938,7 +5938,7 @@ languagefile {
     S:gt.blockores.4316.name=钨钢矿石
     S:gt.blockores.4317.name=铱锇矿石
     S:gt.blockores.4318.name=太阳合金矿石
-    S:gt.blockores.4319.name=艾曼达合金矿石
+    S:gt.blockores.4319.name=精金矿石
     S:gt.blockores.4320.name=熔融琥珀金矿石
     S:gt.blockores.4321.name=末影矿石
     S:gt.blockores.4322.name=高强度低合金钢矿石
@@ -6743,7 +6743,7 @@ languagefile {
     S:gt.metaitem.01.11317.tooltip=
     S:gt.metaitem.01.11318.name=太阳合金锭
     S:gt.metaitem.01.11318.tooltip=
-    S:gt.metaitem.01.11319.name=艾曼达合金锭
+    S:gt.metaitem.01.11319.name=精金锭
     S:gt.metaitem.01.11319.tooltip=
     S:gt.metaitem.01.11320.name=熔融琥珀金锭
     S:gt.metaitem.01.11320.tooltip=
@@ -6923,7 +6923,7 @@ languagefile {
     S:gt.metaitem.01.1317.tooltip=
     S:gt.metaitem.01.1318.name=一小撮太阳合金粉末
     S:gt.metaitem.01.1318.tooltip=
-    S:gt.metaitem.01.1319.name=一小撮艾曼达合金粉末
+    S:gt.metaitem.01.1319.name=一小撮精金粉末
     S:gt.metaitem.01.1319.tooltip=
     S:gt.metaitem.01.1320.name=一小撮熔融琥珀金粉末
     S:gt.metaitem.01.1320.tooltip=
@@ -7251,7 +7251,7 @@ languagefile {
     S:gt.metaitem.01.17317.tooltip=
     S:gt.metaitem.01.17318.name=太阳合金板
     S:gt.metaitem.01.17318.tooltip=
-    S:gt.metaitem.01.17319.name=艾曼达合金板
+    S:gt.metaitem.01.17319.name=精金板
     S:gt.metaitem.01.17319.tooltip=
     S:gt.metaitem.01.17320.name=熔融琥珀金板
     S:gt.metaitem.01.17320.tooltip=
@@ -8035,7 +8035,7 @@ languagefile {
     S:gt.metaitem.01.2317.tooltip=
     S:gt.metaitem.01.2318.name=太阳合金粉末
     S:gt.metaitem.01.2318.tooltip=
-    S:gt.metaitem.01.2319.name=艾曼达合金粉末
+    S:gt.metaitem.01.2319.name=精金粉末
     S:gt.metaitem.01.2319.tooltip=
     S:gt.metaitem.01.2320.name=熔融琥珀金粉末
     S:gt.metaitem.01.2320.tooltip=
@@ -8099,7 +8099,7 @@ languagefile {
     S:gt.metaitem.01.23317.tooltip=
     S:gt.metaitem.01.23318.name=太阳合金杆
     S:gt.metaitem.01.23318.tooltip=
-    S:gt.metaitem.01.23319.name=艾曼达合金杆
+    S:gt.metaitem.01.23319.name=精金杆
     S:gt.metaitem.01.23319.tooltip=
     S:gt.metaitem.01.2332.name=点金素粉末
     S:gt.metaitem.01.2332.tooltip=Au2Ma
@@ -8609,7 +8609,7 @@ languagefile {
     S:gt.metaitem.01.25317.tooltip=
     S:gt.metaitem.01.25318.name=太阳合金垫片
     S:gt.metaitem.01.25318.tooltip=
-    S:gt.metaitem.01.25319.name=艾曼达合金垫片
+    S:gt.metaitem.01.25319.name=精金垫片
     S:gt.metaitem.01.25319.tooltip=
     S:gt.metaitem.01.2532.name=末影珍珠粉末
     S:gt.metaitem.01.2532.tooltip=BeK4N5Ma6
@@ -8883,7 +8883,7 @@ languagefile {
     S:gt.metaitem.01.26317.tooltip=
     S:gt.metaitem.01.26318.name=太阳合金螺栓
     S:gt.metaitem.01.26318.tooltip=
-    S:gt.metaitem.01.26319.name=艾曼达合金螺栓
+    S:gt.metaitem.01.26319.name=精金螺栓
     S:gt.metaitem.01.26319.tooltip=
     S:gt.metaitem.01.26320.name=熔融琥珀金螺栓
     S:gt.metaitem.01.26320.tooltip=
@@ -9221,7 +9221,7 @@ languagefile {
     S:gt.metaitem.01.27317.tooltip=
     S:gt.metaitem.01.27318.name=太阳合金螺丝
     S:gt.metaitem.01.27318.tooltip=
-    S:gt.metaitem.01.27319.name=艾曼达合金螺丝
+    S:gt.metaitem.01.27319.name=精金螺丝
     S:gt.metaitem.01.27319.tooltip=
     S:gt.metaitem.01.27320.name=熔融琥珀金螺丝
     S:gt.metaitem.01.27320.tooltip=
@@ -9609,7 +9609,7 @@ languagefile {
     S:gt.metaitem.01.28317.tooltip=
     S:gt.metaitem.01.28318.name=太阳合金环
     S:gt.metaitem.01.28318.tooltip=
-    S:gt.metaitem.01.28319.name=艾曼达合金环
+    S:gt.metaitem.01.28319.name=精金环
     S:gt.metaitem.01.28319.tooltip=
     S:gt.metaitem.01.2832.name=活根粉末
     S:gt.metaitem.01.2832.tooltip=?3Ma
@@ -10041,7 +10041,7 @@ languagefile {
     S:gt.metaitem.01.29317.tooltip=
     S:gt.metaitem.01.29318.name=太阳合金箔
     S:gt.metaitem.01.29318.tooltip=
-    S:gt.metaitem.01.29319.name=艾曼达合金箔
+    S:gt.metaitem.01.29319.name=精金箔
     S:gt.metaitem.01.29319.tooltip=
     S:gt.metaitem.01.2932.name=蛭石
     S:gt.metaitem.01.2932.tooltip=Fe3Al4Si4H2(H2O)4O12
@@ -10579,7 +10579,7 @@ languagefile {
     S:gt.metaitem.01.317.tooltip=
     S:gt.metaitem.01.318.name=很小一撮太阳合金粉末
     S:gt.metaitem.01.318.tooltip=
-    S:gt.metaitem.01.319.name=很小一撮艾曼达合金粉末
+    S:gt.metaitem.01.319.name=很小一撮精金粉末
     S:gt.metaitem.01.319.tooltip=
     S:gt.metaitem.01.32.name=很小一撮铁粉末
     S:gt.metaitem.01.32.tooltip=Fe
@@ -10955,7 +10955,7 @@ languagefile {
     S:gt.metaitem.01.3307.tooltip=Fe
     S:gt.metaitem.01.331.name=很小一撮秘银粉末
     S:gt.metaitem.01.331.tooltip=Pt2Ma
-    S:gt.metaitem.01.3319.name=含有杂质的艾曼达合金粉末
+    S:gt.metaitem.01.3319.name=含有杂质的精金粉末
     S:gt.metaitem.01.3319.tooltip=
     S:gt.metaitem.01.332.name=很小一撮点金素粉末
     S:gt.metaitem.01.332.tooltip=Au2Ma
@@ -11437,7 +11437,7 @@ languagefile {
     S:gt.metaitem.01.43.tooltip=Rb
     S:gt.metaitem.01.4307.name=纯净的生铁粉末
     S:gt.metaitem.01.4307.tooltip=Fe
-    S:gt.metaitem.01.4319.name=纯净的艾曼达合金粉末
+    S:gt.metaitem.01.4319.name=纯净的精金粉末
     S:gt.metaitem.01.4319.tooltip=
     S:gt.metaitem.01.4323.name=纯净的灌输金粉末
     S:gt.metaitem.01.4323.tooltip=
@@ -11905,7 +11905,7 @@ languagefile {
     S:gt.metaitem.01.5307.tooltip=Fe
     S:gt.metaitem.01.531.name=很小一撮硝石粉末
     S:gt.metaitem.01.531.tooltip=KNO3
-    S:gt.metaitem.01.5319.name=粉碎的艾曼达合金矿石
+    S:gt.metaitem.01.5319.name=粉碎的精金矿石
     S:gt.metaitem.01.5319.tooltip=
     S:gt.metaitem.01.532.name=很小一撮末影珍珠粉末
     S:gt.metaitem.01.532.tooltip=BeK4N5Ma6
@@ -12345,7 +12345,7 @@ languagefile {
     S:gt.metaitem.01.63.tooltip=Ba
     S:gt.metaitem.01.6307.name=纯净的生铁矿石
     S:gt.metaitem.01.6307.tooltip=Fe
-    S:gt.metaitem.01.6319.name=纯净的艾曼达合金矿石
+    S:gt.metaitem.01.6319.name=纯净的精金矿石
     S:gt.metaitem.01.6319.tooltip=
     S:gt.metaitem.01.6323.name=纯净的灌输金矿石
     S:gt.metaitem.01.6323.tooltip=
@@ -12763,7 +12763,7 @@ languagefile {
     S:gt.metaitem.01.73.tooltip=Dy
     S:gt.metaitem.01.7307.name=离心过的生铁矿石
     S:gt.metaitem.01.7307.tooltip=Fe
-    S:gt.metaitem.01.7319.name=离心过的艾曼达合金矿石
+    S:gt.metaitem.01.7319.name=离心过的精金矿石
     S:gt.metaitem.01.7319.tooltip=
     S:gt.metaitem.01.7323.name=离心过的灌输金矿石
     S:gt.metaitem.01.7323.tooltip=
@@ -13525,7 +13525,7 @@ languagefile {
     S:gt.metaitem.01.9317.tooltip=
     S:gt.metaitem.01.9318.name=太阳合金粒
     S:gt.metaitem.01.9318.tooltip=
-    S:gt.metaitem.01.9319.name=艾曼达合金粒
+    S:gt.metaitem.01.9319.name=精金粒
     S:gt.metaitem.01.9319.tooltip=
     S:gt.metaitem.01.932.name=很小一撮蛭石
     S:gt.metaitem.01.932.tooltip=Fe3Al4Si4H2(H2O)4O12
@@ -13760,7 +13760,7 @@ languagefile {
     S:gt.metaitem.02.10316.tooltip=(Fe50CW)4
     S:gt.metaitem.02.10317.name=铱锇扳手顶
     S:gt.metaitem.02.10317.tooltip=
-    S:gt.metaitem.02.10319.name=艾曼达合金扳手顶
+    S:gt.metaitem.02.10319.name=精金扳手顶
     S:gt.metaitem.02.10319.tooltip=
     S:gt.metaitem.02.1032.name=铁镐头
     S:gt.metaitem.02.1032.tooltip=Fe
@@ -14008,7 +14008,7 @@ languagefile {
     S:gt.metaitem.02.11316.tooltip=Fe50CW
     S:gt.metaitem.02.11317.name=铱锇万能铲头
     S:gt.metaitem.02.11317.tooltip=
-    S:gt.metaitem.02.11319.name=艾曼达合金万能铲头
+    S:gt.metaitem.02.11319.name=精金万能铲头
     S:gt.metaitem.02.11319.tooltip=
     S:gt.metaitem.02.11320.name=熔融琥珀金万能铲头
     S:gt.metaitem.02.11320.tooltip=
@@ -14448,7 +14448,7 @@ languagefile {
     S:gt.metaitem.02.1316.tooltip=(Fe50CW)3
     S:gt.metaitem.02.1317.name=铱锇镐头
     S:gt.metaitem.02.1317.tooltip=
-    S:gt.metaitem.02.1319.name=艾曼达合金镐头
+    S:gt.metaitem.02.1319.name=精金镐头
     S:gt.metaitem.02.1319.tooltip=
     S:gt.metaitem.02.1320.name=熔融琥珀金镐头
     S:gt.metaitem.02.1320.tooltip=
@@ -14850,7 +14850,7 @@ languagefile {
     S:gt.metaitem.02.2316.tooltip=Fe50CW
     S:gt.metaitem.02.2317.name=铱锇铲头
     S:gt.metaitem.02.2317.tooltip=
-    S:gt.metaitem.02.2319.name=艾曼达合金铲头
+    S:gt.metaitem.02.2319.name=精金铲头
     S:gt.metaitem.02.2319.tooltip=
     S:gt.metaitem.02.2320.name=熔融琥珀金铲头
     S:gt.metaitem.02.2320.tooltip=
@@ -15136,7 +15136,7 @@ languagefile {
     S:gt.metaitem.02.31316.tooltip=(Fe50CW)4
     S:gt.metaitem.02.31317.name=铱锇齿轮
     S:gt.metaitem.02.31317.tooltip=
-    S:gt.metaitem.02.31319.name=艾曼达合金齿轮
+    S:gt.metaitem.02.31319.name=精金齿轮
     S:gt.metaitem.02.31319.tooltip=
     S:gt.metaitem.02.31322.name=高强度低合金钢齿轮
     S:gt.metaitem.02.31322.tooltip=
@@ -15204,7 +15204,7 @@ languagefile {
     S:gt.metaitem.02.31880.tooltip=(C5H8)4
     S:gt.metaitem.02.31889.name=封印之木齿轮
     S:gt.metaitem.02.31889.tooltip=
-    S:gt.metaitem.02.319.name=艾曼达合金剑刃
+    S:gt.metaitem.02.319.name=精金剑刃
     S:gt.metaitem.02.319.tooltip=
     S:gt.metaitem.02.32.name=铁剑刃
     S:gt.metaitem.02.32.tooltip=Fe
@@ -15460,7 +15460,7 @@ languagefile {
     S:gt.metaitem.02.3316.tooltip=(Fe50CW)3
     S:gt.metaitem.02.3317.name=铱锇斧头
     S:gt.metaitem.02.3317.tooltip=
-    S:gt.metaitem.02.3319.name=艾曼达合金斧头
+    S:gt.metaitem.02.3319.name=精金斧头
     S:gt.metaitem.02.3319.tooltip=
     S:gt.metaitem.02.332.name=点金素剑刃
     S:gt.metaitem.02.332.tooltip=(Au2Ma)3
@@ -15736,7 +15736,7 @@ languagefile {
     S:gt.metaitem.02.4316.tooltip=(Fe50CW)2
     S:gt.metaitem.02.4317.name=铱锇锄头
     S:gt.metaitem.02.4317.tooltip=
-    S:gt.metaitem.02.4319.name=艾曼达合金锄头
+    S:gt.metaitem.02.4319.name=精金锄头
     S:gt.metaitem.02.4319.tooltip=
     S:gt.metaitem.02.4320.name=熔融琥珀金锄头
     S:gt.metaitem.02.4320.tooltip=
@@ -16002,7 +16002,7 @@ languagefile {
     S:gt.metaitem.02.5316.tooltip=(Fe50CW)6
     S:gt.metaitem.02.5317.name=铱锇锤头
     S:gt.metaitem.02.5317.tooltip=
-    S:gt.metaitem.02.5319.name=艾曼达合金锤头
+    S:gt.metaitem.02.5319.name=精金锤头
     S:gt.metaitem.02.5319.tooltip=
     S:gt.metaitem.02.5320.name=熔融琥珀金锤头
     S:gt.metaitem.02.5320.tooltip=
@@ -16240,7 +16240,7 @@ languagefile {
     S:gt.metaitem.02.6316.tooltip=(Fe50CW)2
     S:gt.metaitem.02.6317.name=铱锇锉刀刀刃
     S:gt.metaitem.02.6317.tooltip=
-    S:gt.metaitem.02.6319.name=艾曼达合金锉刀刀刃
+    S:gt.metaitem.02.6319.name=精金锉刀刀刃
     S:gt.metaitem.02.6319.tooltip=
     S:gt.metaitem.02.6320.name=熔融琥珀金锉刀刀刃
     S:gt.metaitem.02.6320.tooltip=
@@ -16452,7 +16452,7 @@ languagefile {
     S:gt.metaitem.02.7316.tooltip=(Fe50CW)2
     S:gt.metaitem.02.7317.name=铱锇锯刃
     S:gt.metaitem.02.7317.tooltip=
-    S:gt.metaitem.02.7319.name=艾曼达合金锯刃
+    S:gt.metaitem.02.7319.name=精金锯刃
     S:gt.metaitem.02.7319.tooltip=
     S:gt.metaitem.02.7320.name=熔融琥珀金锯刃
     S:gt.metaitem.02.7320.tooltip=
@@ -16678,7 +16678,7 @@ languagefile {
     S:gt.metaitem.02.8316.tooltip=(Fe50CW)4
     S:gt.metaitem.02.8317.name=铱锇钻头
     S:gt.metaitem.02.8317.tooltip=
-    S:gt.metaitem.02.8319.name=艾曼达合金钻头
+    S:gt.metaitem.02.8319.name=精金钻头
     S:gt.metaitem.02.8319.tooltip=
     S:gt.metaitem.02.8320.name=熔融琥珀金钻头
     S:gt.metaitem.02.8320.tooltip=
@@ -16910,7 +16910,7 @@ languagefile {
     S:gt.metaitem.02.9316.tooltip=(Fe50CW)2
     S:gt.metaitem.02.9317.name=铱锇电锯锯刃
     S:gt.metaitem.02.9317.tooltip=
-    S:gt.metaitem.02.9319.name=艾曼达合金电锯锯刃
+    S:gt.metaitem.02.9319.name=精金电锯锯刃
     S:gt.metaitem.02.9319.tooltip=
     S:gt.metaitem.02.9320.name=熔融琥珀金电锯锯刃
     S:gt.metaitem.02.9320.tooltip=
@@ -17207,7 +17207,7 @@ languagefile {
     S:gt.metaitem.03.1317.tooltip=
     S:gt.metaitem.03.1318.name=一箱太阳合金锭
     S:gt.metaitem.03.1318.tooltip=
-    S:gt.metaitem.03.1319.name=一箱艾曼达合金锭
+    S:gt.metaitem.03.1319.name=一箱精金锭
     S:gt.metaitem.03.1319.tooltip=
     S:gt.metaitem.03.1320.name=一箱熔融琥珀金锭
     S:gt.metaitem.03.1320.tooltip=
@@ -17571,7 +17571,7 @@ languagefile {
     S:gt.metaitem.03.317.tooltip=
     S:gt.metaitem.03.318.name=一箱太阳合金粉末
     S:gt.metaitem.03.318.tooltip=
-    S:gt.metaitem.03.319.name=一箱艾曼达合金粉末
+    S:gt.metaitem.03.319.name=一箱精金粉末
     S:gt.metaitem.03.319.tooltip=
     S:gt.metaitem.03.32.name=一箱铁粉末
     S:gt.metaitem.03.32.tooltip=Fe
@@ -17639,7 +17639,7 @@ languagefile {
     S:gt.metaitem.03.3317.tooltip=
     S:gt.metaitem.03.3318.name=一箱太阳合金板
     S:gt.metaitem.03.3318.tooltip=
-    S:gt.metaitem.03.3319.name=一箱艾曼达合金板
+    S:gt.metaitem.03.3319.name=一箱精金板
     S:gt.metaitem.03.3319.tooltip=
     S:gt.metaitem.03.332.name=一箱点金素粉末
     S:gt.metaitem.03.332.tooltip=Au2Ma
