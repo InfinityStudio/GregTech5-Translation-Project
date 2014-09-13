@@ -10885,7 +10885,7 @@ languagefile {
     S:gt.metaitem.01.32716.tooltip=电路板的一部分
     S:gt.metaitem.01.32717.name=腐蚀印制高压电路
     S:gt.metaitem.01.32717.tooltip=电路板的一部分
-    S:gt.metaitem.01.32718.name=腐蚀印制超高压电路
+    S:gt.metaitem.01.32718.name=腐蚀印制特高压电路
     S:gt.metaitem.01.32718.tooltip=电路板的一部分
     S:gt.metaitem.01.32721.name=钻石锯片
     S:gt.metaitem.01.32721.tooltip=
