@@ -1,5 +1,5 @@
 # Translation file
-# Compatible with: GregTech 5.05.00
+# Compatible with: GregTech 5.05.02
 # Translation author: TehporP & DeckerCHAN & ZhangHS
 # Translation bug report to: https://github.com/Trigonometry-F/Gregtech5-Translation-Chinese/issues
 enablelangfile {
@@ -1749,7 +1749,6 @@ languagefile {
     S:fluid.molten.glass=熔融玻璃
     S:fluid.molten.redstone=熔融红石
     S:fluid.molten.tin=液态锡
-    S:fluid.nitrocoalfuel=硝基煤油
     S:fluid.nitrofuel=硝基柴油
     S:fluid.nitrogen=氮
     S:fluid.nitrogendioxide=二氧化氮
@@ -8721,6 +8720,8 @@ languagefile {
     S:gt.metaitem.01.2545.tooltip=
     S:gt.metaitem.01.25521.name=立场垫片
     S:gt.metaitem.01.25521.tooltip=
+    S:gt.metaitem.01.25809.name=Wood Round
+    S:gt.metaitem.01.25809.tooltip=
     S:gt.metaitem.01.25829.name=深渊铁垫片
     S:gt.metaitem.01.25829.tooltip=Fe
     S:gt.metaitem.01.25874.name=塑料垫片
@@ -9055,6 +9056,8 @@ languagefile {
     S:gt.metaitem.01.26544.tooltip=
     S:gt.metaitem.01.26545.name=秩序要素螺栓
     S:gt.metaitem.01.26545.tooltip=
+    S:gt.metaitem.01.26809.name=Wood Bolt
+    S:gt.metaitem.01.26809.tooltip=
     S:gt.metaitem.01.26829.name=深渊铁螺栓
     S:gt.metaitem.01.26829.tooltip=Fe
     S:gt.metaitem.01.26874.name=塑料螺栓
@@ -9393,6 +9396,8 @@ languagefile {
     S:gt.metaitem.01.27544.tooltip=
     S:gt.metaitem.01.27545.name=秩序要素螺丝
     S:gt.metaitem.01.27545.tooltip=
+    S:gt.metaitem.01.27809.name=Wood Screw
+    S:gt.metaitem.01.27809.tooltip=
     S:gt.metaitem.01.27829.name=深渊铁螺丝
     S:gt.metaitem.01.27829.tooltip=Fe
     S:gt.metaitem.01.27874.name=塑料螺丝
@@ -9793,6 +9798,8 @@ languagefile {
     S:gt.metaitem.01.2879.tooltip=
     S:gt.metaitem.01.2880.name=橡胶浆
     S:gt.metaitem.01.2880.tooltip=C5H8
+    S:gt.metaitem.01.28809.name=Wood Ring
+    S:gt.metaitem.01.28809.tooltip=
     S:gt.metaitem.01.2881.name=面粉
     S:gt.metaitem.01.2881.tooltip=
     S:gt.metaitem.01.2882.name=钼铅矿粉末
@@ -10161,6 +10168,8 @@ languagefile {
     S:gt.metaitem.01.2948.tooltip=SiO28Fe2O3Al2O3
     S:gt.metaitem.01.29521.name=立场箔
     S:gt.metaitem.01.29521.tooltip=
+    S:gt.metaitem.01.29809.name=Wood Foil
+    S:gt.metaitem.01.29809.tooltip=
     S:gt.metaitem.01.29829.name=深渊铁箔
     S:gt.metaitem.01.29829.tooltip=Fe
     S:gt.metaitem.01.29874.name=塑料箔
@@ -13651,6 +13660,8 @@ languagefile {
     S:gt.metaitem.01.97.tooltip=U-235
     S:gt.metaitem.01.98.name=很小一撮铀-238粉末
     S:gt.metaitem.01.98.tooltip=U
+    S:gt.metaitem.01.9809.name=Wood Chip
+    S:gt.metaitem.01.9809.tooltip=
     S:gt.metaitem.01.9829.name=深渊铁粒
     S:gt.metaitem.01.9829.tooltip=Fe
     S:gt.metaitem.01.9874.name=塑料片
@@ -14130,6 +14141,8 @@ languagefile {
     S:gt.metaitem.02.11544.tooltip=
     S:gt.metaitem.02.11545.name=秩序要素万能铲头
     S:gt.metaitem.02.11545.tooltip=
+    S:gt.metaitem.02.11809.name=Wood Universal Spade Head
+    S:gt.metaitem.02.11809.tooltip=
     S:gt.metaitem.02.11829.name=深渊铁万能铲头
     S:gt.metaitem.02.11829.tooltip=Fe
     S:gt.metaitem.02.11874.name=塑料万能铲头
@@ -17297,6 +17310,8 @@ languagefile {
     S:gt.metaitem.03.17.tooltip=Na
     S:gt.metaitem.03.18.name=一箱镁粉末
     S:gt.metaitem.03.18.tooltip=Mg
+    S:gt.metaitem.03.1809.name=Crate of Wood Ingot
+    S:gt.metaitem.03.1809.tooltip=
     S:gt.metaitem.03.1829.name=一箱深渊铁锭
     S:gt.metaitem.03.1829.tooltip=Fe
     S:gt.metaitem.03.1874.name=一箱塑料棒
