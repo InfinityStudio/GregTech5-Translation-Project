@@ -6452,6 +6452,7 @@ languagefile {
     S:gt.coil01tooltip=Base Heating Capacity = 1800 Kelvin
     S:gt.coil02tooltip=Base Heating Capacity = 2700 Kelvin
     S:gt.coil03tooltip=Base Heating Capacity = 3600 Kelvin
+    S:gt.integrated_circuit.configuration=Configuration: 
     S:gt.integrated_circuit.name=Integrated Circuit
     S:gt.metaitem.01.10.name=Tiny Pile of Carbon Dust
     S:gt.metaitem.01.10.tooltip=C
@@ -8719,6 +8720,8 @@ languagefile {
     S:gt.metaitem.01.2545.tooltip=
     S:gt.metaitem.01.25521.name=Force Round
     S:gt.metaitem.01.25521.tooltip=
+    S:gt.metaitem.01.25809.name=Wood Round
+    S:gt.metaitem.01.25809.tooltip=
     S:gt.metaitem.01.25829.name=Deep Iron Round
     S:gt.metaitem.01.25829.tooltip=Fe
     S:gt.metaitem.01.25874.name=Plastic Round
@@ -9053,6 +9056,8 @@ languagefile {
     S:gt.metaitem.01.26544.tooltip=
     S:gt.metaitem.01.26545.name=Ordo Bolt
     S:gt.metaitem.01.26545.tooltip=
+    S:gt.metaitem.01.26809.name=Wood Bolt
+    S:gt.metaitem.01.26809.tooltip=
     S:gt.metaitem.01.26829.name=Deep Iron Bolt
     S:gt.metaitem.01.26829.tooltip=Fe
     S:gt.metaitem.01.26874.name=Plastic Bolt
@@ -9391,6 +9396,8 @@ languagefile {
     S:gt.metaitem.01.27544.tooltip=
     S:gt.metaitem.01.27545.name=Ordo Screw
     S:gt.metaitem.01.27545.tooltip=
+    S:gt.metaitem.01.27809.name=Wood Screw
+    S:gt.metaitem.01.27809.tooltip=
     S:gt.metaitem.01.27829.name=Deep Iron Screw
     S:gt.metaitem.01.27829.tooltip=Fe
     S:gt.metaitem.01.27874.name=Plastic Screw
@@ -9791,6 +9798,8 @@ languagefile {
     S:gt.metaitem.01.2879.tooltip=
     S:gt.metaitem.01.2880.name=Rubber Pulp
     S:gt.metaitem.01.2880.tooltip=C5H8
+    S:gt.metaitem.01.28809.name=Wood Ring
+    S:gt.metaitem.01.28809.tooltip=
     S:gt.metaitem.01.2881.name=Flour
     S:gt.metaitem.01.2881.tooltip=
     S:gt.metaitem.01.2882.name=Wulfenite Dust
@@ -10159,6 +10168,8 @@ languagefile {
     S:gt.metaitem.01.2948.tooltip=SiO28Fe2O3Al2O3
     S:gt.metaitem.01.29521.name=Force Foil
     S:gt.metaitem.01.29521.tooltip=
+    S:gt.metaitem.01.29809.name=Wood Foil
+    S:gt.metaitem.01.29809.tooltip=
     S:gt.metaitem.01.29829.name=Deep Iron Foil
     S:gt.metaitem.01.29829.tooltip=Fe
     S:gt.metaitem.01.29874.name=Thin Plastic Sheet
@@ -13649,6 +13660,8 @@ languagefile {
     S:gt.metaitem.01.97.tooltip=U-235
     S:gt.metaitem.01.98.name=Tiny Pile of Uranium 238 Dust
     S:gt.metaitem.01.98.tooltip=U
+    S:gt.metaitem.01.9809.name=Wood Chip
+    S:gt.metaitem.01.9809.tooltip=
     S:gt.metaitem.01.9829.name=Deep Iron Nugget
     S:gt.metaitem.01.9829.tooltip=Fe
     S:gt.metaitem.01.9874.name=Plastic Chip
@@ -14128,6 +14141,8 @@ languagefile {
     S:gt.metaitem.02.11544.tooltip=
     S:gt.metaitem.02.11545.name=Ordo Universal Spade Head
     S:gt.metaitem.02.11545.tooltip=
+    S:gt.metaitem.02.11809.name=Wood Universal Spade Head
+    S:gt.metaitem.02.11809.tooltip=
     S:gt.metaitem.02.11829.name=Deep Iron Universal Spade Head
     S:gt.metaitem.02.11829.tooltip=Fe
     S:gt.metaitem.02.11874.name=Plastic Universal Spade Head
@@ -17295,6 +17310,8 @@ languagefile {
     S:gt.metaitem.03.17.tooltip=Na
     S:gt.metaitem.03.18.name=Crate of Magnesium Dust
     S:gt.metaitem.03.18.tooltip=Mg
+    S:gt.metaitem.03.1809.name=Crate of Wood Ingot
+    S:gt.metaitem.03.1809.tooltip=
     S:gt.metaitem.03.1829.name=Crate of Deep Iron Ingot
     S:gt.metaitem.03.1829.tooltip=Fe
     S:gt.metaitem.03.1874.name=Crate of Plastic Bar
