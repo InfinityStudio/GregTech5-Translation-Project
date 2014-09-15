@@ -1,3 +1,10 @@
+# Translation file
+# Compatible with: GregTech 5.05.02
+# Translation author: TehporP & DeckerCHAN & ZhangHS
+# Translation bug report to: https://github.com/Trigonometry-F/Gregtech5-Translation-Chinese/issues
+enablelangfile {
+    B:UseThisFileAsLanguageFile=true
+}
 languagefile {
     S:TileEntity_DESCRIPTION_1000_Index_0=工业高炉中央控制器
     S:TileEntity_DESCRIPTION_1000_Index_1=大小:3长3宽4高 (中空)
