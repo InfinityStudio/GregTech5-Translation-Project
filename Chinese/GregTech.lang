@@ -1,5 +1,5 @@
 # Translation file
-# Compatible with: GregTech 5.05.03
+# Compatible with: GregTech 5.05.04
 # Translation author: TehporP & DeckerCHAN & ZhangHS
 # Translation bug report to: https://github.com/Trigonometry-F/Gregtech5-Translation-Chinese/issues
 enablelangfile {
@@ -1903,7 +1903,6 @@ languagefile {
     S:fluid.molten.yttriumbariumcuprate=液态钇钡铜氧合金
     S:fluid.molten.zectium=液态Zectium
     S:fluid.molten.zinc=液态锌
-    S:fluid.nitrocoalfuel=硝基煤油
     S:fluid.nitrofuel=硝基柴油
     S:fluid.nitrogen=氮
     S:fluid.nitrogendioxide=二氧化氮
@@ -2022,6 +2021,8 @@ languagefile {
     S:fluid.uuamplifier=UU物质
     S:gt.GregTech_FluidDisplay.name=显示流体
     S:gt.behaviour.hoe=可用于翻土
+    S:gt.behaviour.lighter.tooltip=Can light things on Fire
+    S:gt.behaviour.lighter.uses=Remaining Uses:
     S:gt.behaviour.plunger.essentia=从容器和管道中抽取要素源质
     S:gt.behaviour.plunger.fluid=用于从容器中抽取中1000mb的液体
     S:gt.behaviour.plunger.item=用于清除管道中的物品
@@ -2030,6 +2031,7 @@ languagefile {
     S:gt.behaviour.scoop=左键以扑捉蝴蝶
     S:gt.behaviour.sense=右击来收获作物架上面的作物
     S:gt.behaviour.softhammer=激活或者关闭机器
+    S:gt.behaviour.unstackable=Not usable when stacked!
     S:gt.behaviour.wrench=右键以旋转方块
     S:gt.blastprooftooltip=这个方块用于高炉
     S:gt.blockcasings.0.name=超低压机器外壳
@@ -10867,6 +10869,24 @@ languagefile {
     S:gt.metaitem.01.32403.tooltip=可以打包一大堆东西
     S:gt.metaitem.01.32404.name=空的热水瓶
     S:gt.metaitem.01.32404.tooltip=让热的还是热的,冷的还是冷的.
+    S:gt.metaitem.01.32471.name=Match
+    S:gt.metaitem.01.32471.tooltip=
+    S:gt.metaitem.01.32472.name=Match Box
+    S:gt.metaitem.01.32472.tooltip=This is not a Car
+    S:gt.metaitem.01.32473.name=Match Box (Full)
+    S:gt.metaitem.01.32473.tooltip=This is not a Car
+    S:gt.metaitem.01.32474.name=Lighter (Empty)
+    S:gt.metaitem.01.32474.tooltip=
+    S:gt.metaitem.01.32475.name=Lighter
+    S:gt.metaitem.01.32475.tooltip=
+    S:gt.metaitem.01.32476.name=Lighter (Full)
+    S:gt.metaitem.01.32476.tooltip=
+    S:gt.metaitem.01.32477.name=Platinum Lighter (Empty)
+    S:gt.metaitem.01.32477.tooltip=A known Prank Master is engraved on it
+    S:gt.metaitem.01.32478.name=Platinum Lighter
+    S:gt.metaitem.01.32478.tooltip=A known Prank Master is engraved on it
+    S:gt.metaitem.01.32479.name=Platinum Lighter (Full)
+    S:gt.metaitem.01.32479.tooltip=A known Prank Master is engraved on it
     S:gt.metaitem.01.32480.name=铱合金锭
     S:gt.metaitem.01.32480.tooltip=用来做铱板
     S:gt.metaitem.01.32490.name=原理图
