@@ -1831,7 +1831,7 @@ languagefile {
     S:fluid.molten.naquadah=液态硅岩
     S:fluid.molten.naquadahalloy=液态硅岩金属合金
     S:fluid.molten.naquadahenriched=浓缩液态硅岩金属
-    S:fluid.molten.naquadria=液态Naquadria
+    S:fluid.molten.naquadria=熔融硅岩金属化合物
     S:fluid.molten.neodymium=液态钕
     S:fluid.molten.neutronium=液态中子元素
     S:fluid.molten.nichrome=液态镍铬铁合金
