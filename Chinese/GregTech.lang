@@ -2033,7 +2033,7 @@ languagefile {
     S:gt.behaviour.softhammer=激活或者关闭机器
     S:gt.behaviour.unstackable=成组的时候不能使用!
     S:gt.behaviour.wrench=右键以旋转方块
-    S:gt.blastprooftooltip=这个方块用于高炉
+    S:gt.blastprooftooltip=这个方块是防爆的
     S:gt.blockcasings.0.name=超低压机器外壳
     S:gt.blockcasings.1.name=低压机器外壳
     S:gt.blockcasings.10.name=镀铜方块
@@ -2044,7 +2044,7 @@ languagefile {
     S:gt.blockcasings.15.name=超导线圈方块
     S:gt.blockcasings.2.name=中压机器外壳
     S:gt.blockcasings.3.name=高压机器外壳
-    S:gt.blockcasings.32767.name=Any Sub Block of this one
+    S:gt.blockcasings.32767.name=这个方块的任何一个组成方块
     S:gt.blockcasings.4.name=特高压机器外壳
     S:gt.blockcasings.5.name=超高压机器外壳
     S:gt.blockcasings.6.name=低级能源驱动机器外壳
@@ -2061,7 +2061,7 @@ languagefile {
     S:gt.blockcasings2.15.name=钨钢泵外壳
     S:gt.blockcasings2.2.name=黄铜齿轮盒
     S:gt.blockcasings2.3.name=钢齿轮盒
-    S:gt.blockcasings2.32767.name=Any Sub Block of this one
+    S:gt.blockcasings2.32767.name=这个方块的任何一个组成方块
     S:gt.blockcasings2.4.name=钛齿轮盒
     S:gt.blockcasings2.5.name=钨钢齿轮盒
     S:gt.blockcasings2.6.name=处理器方块
@@ -2078,7 +2078,7 @@ languagefile {
     S:gt.blockcasings3.15.name=钨钢制炉膛方块
     S:gt.blockcasings3.2.name=辐射警示标志
     S:gt.blockcasings3.3.name=生化警示标志
-    S:gt.blockcasings3.32767.name=Any Sub Block of this one
+    S:gt.blockcasings3.32767.name=这个方块的任何一个组成方块
     S:gt.blockcasings3.4.name=爆炸警示标志
     S:gt.blockcasings3.5.name=火焰警示标志
     S:gt.blockcasings3.6.name=强酸警示标志
@@ -2089,7 +2089,7 @@ languagefile {
     S:gt.blockcasings4.1.name=不锈钢钢外壳
     S:gt.blockcasings4.2.name=钛外壳
     S:gt.blockcasings4.3.name=钛制炉膛
-    S:gt.blockcasings4.32767.name=Any Sub Block of this one
+    S:gt.blockcasings4.32767.name=这个方块的任何一个组成方块
     S:gt.blockconcretes.0.name=黑色水泥
     S:gt.blockconcretes.1.name=黑色水泥圆石
     S:gt.blockconcretes.10.name=苔藓浅色水泥圆石
@@ -2100,7 +2100,7 @@ languagefile {
     S:gt.blockconcretes.15.name=光滑浅色水泥
     S:gt.blockconcretes.2.name=苔藓黑色水泥圆石
     S:gt.blockconcretes.3.name=黑色水泥砖
-    S:gt.blockconcretes.32767.name=Any Sub Block of this one
+    S:gt.blockconcretes.32767.name=这个方块的任何一个组成方块
     S:gt.blockconcretes.4.name=裂痕黑色水泥砖
     S:gt.blockconcretes.5.name=苔藓黑色水泥砖
     S:gt.blockconcretes.6.name=螯制黑色水泥
@@ -2117,14 +2117,14 @@ languagefile {
     S:gt.blockgranites.15.name=光滑红花岗岩
     S:gt.blockgranites.2.name=苔藓黑花岗岩圆石
     S:gt.blockgranites.3.name=黑花岗岩砖块
-    S:gt.blockgranites.32767.name=Any Sub Block of this one
+    S:gt.blockgranites.32767.name=这个方块的任何一个组成方块
     S:gt.blockgranites.4.name=裂纹黑花岗岩砖块
     S:gt.blockgranites.5.name=苔藓黑花岗岩砖块
     S:gt.blockgranites.6.name=鏊制黑花岗岩
     S:gt.blockgranites.7.name=光滑黑花岗岩
     S:gt.blockgranites.8.name=红花岗岩
     S:gt.blockgranites.9.name=红花岗岩圆石
-    S:gt.blockmachines.32767.name=Any Sub Block of this one
+    S:gt.blockmachines.32767.name=这个方块的任何一个组成方块
     S:gt.blockmachines.automation.chestbuffer.tier.00.name=超低压容器缓冲器
     S:gt.blockmachines.automation.chestbuffer.tier.01.name=低压容器缓冲器
     S:gt.blockmachines.automation.chestbuffer.tier.02.name=中压容器缓冲器
@@ -5676,7 +5676,7 @@ languagefile {
     S:gt.blockores.325.name=硅岩金属合金矿石
     S:gt.blockores.326.name=浓缩硅岩金属矿石
     S:gt.blockores.327.name=硅岩金属矿石
-    S:gt.blockores.32767.name=Any Sub Block of this one
+    S:gt.blockores.32767.name=这个方块的任何一个组成方块
     S:gt.blockores.328.name=钍瑞铌矿石
     S:gt.blockores.329.name=三钛合金矿石
     S:gt.blockores.3299.name=石头矿石
@@ -11037,13 +11037,13 @@ languagefile {
     S:gt.metaitem.01.32694.tooltip=
     S:gt.metaitem.01.327.name=很小一撮硅岩金属粉末
     S:gt.metaitem.01.327.tooltip=NqX
-    S:gt.metaitem.01.32700.name=是非电路板
+    S:gt.metaitem.01.32700.name=存储芯片
     S:gt.metaitem.01.32700.tooltip=一个简单的电路
     S:gt.metaitem.01.32701.name=基础电子电路
     S:gt.metaitem.01.32701.tooltip=基础的电路
     S:gt.metaitem.01.32702.name=不错的电子电路
     S:gt.metaitem.01.32702.tooltip=一个不错的电路
-    S:gt.metaitem.01.32703.name=进阶电路
+    S:gt.metaitem.01.32703.name=高级电路
     S:gt.metaitem.01.32703.tooltip=一个加强过的电路
     S:gt.metaitem.01.32704.name=数据存储电路
     S:gt.metaitem.01.32704.tooltip=一个数据存储电路
