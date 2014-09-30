@@ -11221,6 +11221,8 @@ languagefile {
     S:gt.metaitem.01.32732.tooltip=Gives out Fluid Amount as Redstone
     S:gt.metaitem.01.32733.name=Item Detector
     S:gt.metaitem.01.32733.tooltip=Gives out Item Amount as Redstone
+    S:gt.metaitem.01.32734.name=Energy Detector
+    S:gt.metaitem.01.32734.tooltip=Gives out Energy Amount as Redstone
     S:gt.metaitem.01.32740.name=Computer Monitor
     S:gt.metaitem.01.32740.tooltip=Displays Data
     S:gt.metaitem.01.32744.name=Crafting Table Cover
@@ -18887,6 +18889,7 @@ languagefile {
     S:ic.recipe.orewasher=Ore Washer
     S:ic.recipe.recycler=Recycler
     S:ic.recipe.thermalcentrifuge=Thermal Centrifuge
+    S:itemGroup.GregTech=GregTech
     S:mc.recipe.furnace=Furnace
     S:metaitem.01.tooltip.purify=Throw into Cauldron to get clean Dust
     S:tc.aspect.electrum=Electricity, Lightning
