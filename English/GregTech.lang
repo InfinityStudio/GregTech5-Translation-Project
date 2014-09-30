@@ -1761,6 +1761,7 @@ languagefile {
     S:fluid.dye.watermixed.dyeyellow=Water Mixed Yellow Dye
     S:fluid.fishoil=Fish Oil
     S:fluid.fuel=Diesel
+    S:fluid.gas_natural_gas=Natural Gas
     S:fluid.glue=Glue
     S:fluid.glyceryl=Glyceryl
     S:fluid.helium=Helium
@@ -1786,6 +1787,7 @@ languagefile {
     S:fluid.molten.americium=Molten Americium
     S:fluid.molten.amordrine=Molten Amordrine
     S:fluid.molten.angmallen=Molten Angmallen
+    S:fluid.molten.annealedcopper=Molten Annealed Copper
     S:fluid.molten.antimony=Molten Antimony
     S:fluid.molten.ardite=Molten Ardite
     S:fluid.molten.aredrite=Molten Aredrite
@@ -1847,6 +1849,7 @@ languagefile {
     S:fluid.molten.iridium=Molten Iridium
     S:fluid.molten.iron=Molten Iron
     S:fluid.molten.ironcompressed=Molten Compressed Iron
+    S:fluid.molten.ironmagnetic=Molten Magnetic Iron
     S:fluid.molten.ironwood=Molten Ironwood
     S:fluid.molten.kanthal=Molten Kanthal
     S:fluid.molten.lanthanum=Molten Lanthanum
@@ -1868,6 +1871,7 @@ languagefile {
     S:fluid.molten.naquadahenriched=Molten Enriched Naquadah
     S:fluid.molten.naquadria=Molten Naquadria
     S:fluid.molten.neodymium=Molten Neodymium
+    S:fluid.molten.neodymiummagnetic=Molten Magnetic Neodymium
     S:fluid.molten.neutronium=Molten Neutronium
     S:fluid.molten.nichrome=Molten Nichrome
     S:fluid.molten.nickel=Molten Nickel
@@ -1909,6 +1913,7 @@ languagefile {
     S:fluid.molten.stainlesssteel=Molten Stainless Steel
     S:fluid.molten.starconium=Molten Starconium
     S:fluid.molten.steel=Molten Steel
+    S:fluid.molten.steelmagnetic=Molten Magnetic Steel
     S:fluid.molten.sterlingsilver=Molten Sterling Silver
     S:fluid.molten.sunnarium=Molten Sunnarium
     S:fluid.molten.tantalum=Molten Tantalum
