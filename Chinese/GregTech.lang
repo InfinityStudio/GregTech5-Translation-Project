@@ -1,5 +1,5 @@
 # Translation file
-# Compatible with: GregTech 5.05.07
+# Compatible with: GregTech 5.05.08
 # Translation author: TehporP & DeckerCHAN & ZhangHS
 # Translation bug report to: https://github.com/Trigonometry-F/Gregtech5-Translation-Chinese/issues
 enablelangfile {
@@ -1761,6 +1761,7 @@ languagefile {
     S:fluid.dye.watermixed.dyeyellow=水合黄色染料
     S:fluid.fishoil=鱼油
     S:fluid.fuel=柴油
+    S:fluid.gas_natural_gas=天然气
     S:fluid.glue=粘合剂
     S:fluid.glyceryl=甘油
     S:fluid.helium=氦
@@ -1786,6 +1787,7 @@ languagefile {
     S:fluid.molten.americium=液态镅
     S:fluid.molten.amordrine=熔融魔石
     S:fluid.molten.angmallen=液态金铁
+    S:fluid.molten.annealedcopper=液态韧铜
     S:fluid.molten.antimony=液态锑
     S:fluid.molten.ardite=液态Ardite
     S:fluid.molten.aredrite=液态Aredrite
@@ -1847,6 +1849,7 @@ languagefile {
     S:fluid.molten.iridium=液态铱
     S:fluid.molten.iron=液态铁
     S:fluid.molten.ironcompressed=液态压缩铁
+    S:fluid.molten.ironmagnetic=液态磁铁
     S:fluid.molten.ironwood=液态铁木
     S:fluid.molten.kanthal=液态铬铝钴合金
     S:fluid.molten.lanthanum=液态镧
@@ -1868,6 +1871,7 @@ languagefile {
     S:fluid.molten.naquadahenriched=浓缩液态硅岩金属
     S:fluid.molten.naquadria=熔融硅岩金属化合物
     S:fluid.molten.neodymium=液态钕
+    S:fluid.molten.neodymiummagnetic=液态磁钕
     S:fluid.molten.neutronium=液态中子元素
     S:fluid.molten.nichrome=液态镍铬铁合金
     S:fluid.molten.nickel=液态镍
@@ -1909,6 +1913,7 @@ languagefile {
     S:fluid.molten.stainlesssteel=液态不锈钢
     S:fluid.molten.starconium=液态Starconium
     S:fluid.molten.steel=液态钢
+    S:fluid.molten.steelmagnetic=液体磁钢
     S:fluid.molten.sterlingsilver=液态纯银
     S:fluid.molten.sunnarium=熔融阳光化合物
     S:fluid.molten.tantalum=液态钽
@@ -11007,11 +11012,11 @@ languagefile {
     S:gt.metaitem.01.32476.name=打火机(满)
     S:gt.metaitem.01.32476.tooltip=
     S:gt.metaitem.01.32477.name=铂金打火机(空)
-    S:gt.metaitem.01.32477.tooltip=A known Prank Master is engraved on it
+    S:gt.metaitem.01.32477.tooltip=上面刻着一个有名的恶作剧大师！
     S:gt.metaitem.01.32478.name=铂金打火机
-    S:gt.metaitem.01.32478.tooltip=A known Prank Master is engraved on it
+    S:gt.metaitem.01.32478.tooltip=上面刻着一个有名的恶作剧大师！
     S:gt.metaitem.01.32479.name=铂金打火机(满)
-    S:gt.metaitem.01.32479.tooltip=A known Prank Master is engraved on it
+    S:gt.metaitem.01.32479.tooltip=上面刻着一个有名的恶作剧大师！
     S:gt.metaitem.01.32480.name=铱合金锭
     S:gt.metaitem.01.32480.tooltip=用来制作铱板
     S:gt.metaitem.01.32490.name=原理图
@@ -18926,4 +18931,3 @@ languagefile {
     S:tc.research_text.GT_TRANSZINC=[GT]将金属炼化为锌
     S:tc.research_text.GT_WOOD_TO_CHARCOAL=[GT]将木头变成木炭
 }
-
