@@ -1221,11 +1221,11 @@ languagefile {
     S:TileEntity_DESCRIPTION_354_Index_0=Produces Wires more efficiently
     S:TileEntity_DESCRIPTION_355_Index_0=Produces Wires more efficiently
     S:TileEntity_DESCRIPTION_35_Index_0=Generating electric Energy from Multiblocks
-    S:TileEntity_DESCRIPTION_361_Index_0=Seperating Molecules
-    S:TileEntity_DESCRIPTION_362_Index_0=Seperating Molecules
-    S:TileEntity_DESCRIPTION_363_Index_0=Seperating Molecules
-    S:TileEntity_DESCRIPTION_364_Index_0=Seperating Molecules
-    S:TileEntity_DESCRIPTION_365_Index_0=Seperating Molecules
+    S:TileEntity_DESCRIPTION_361_Index_0=Separating Molecules
+    S:TileEntity_DESCRIPTION_362_Index_0=Separating Molecules
+    S:TileEntity_DESCRIPTION_363_Index_0=Separating Molecules
+    S:TileEntity_DESCRIPTION_364_Index_0=Separating Molecules
+    S:TileEntity_DESCRIPTION_365_Index_0=Separating Molecules
     S:TileEntity_DESCRIPTION_36_Index_0=Generating electric Energy from Multiblocks
     S:TileEntity_DESCRIPTION_371_Index_0=Electrolyzing Molecules
     S:TileEntity_DESCRIPTION_372_Index_0=Electrolyzing Molecules
@@ -1233,11 +1233,11 @@ languagefile {
     S:TileEntity_DESCRIPTION_374_Index_0=Electrolyzing Molecules
     S:TileEntity_DESCRIPTION_375_Index_0=Electrolyzing Molecules
     S:TileEntity_DESCRIPTION_37_Index_0=Generating electric Energy from Multiblocks
-    S:TileEntity_DESCRIPTION_381_Index_0=Seperating Ores more precicely
-    S:TileEntity_DESCRIPTION_382_Index_0=Seperating Ores more precicely
-    S:TileEntity_DESCRIPTION_383_Index_0=Seperating Ores more precicely
-    S:TileEntity_DESCRIPTION_384_Index_0=Seperating Ores more precicely
-    S:TileEntity_DESCRIPTION_385_Index_0=Seperating Ores more precicely
+    S:TileEntity_DESCRIPTION_381_Index_0=Separating Ores more precicely
+    S:TileEntity_DESCRIPTION_382_Index_0=Separating Ores more precicely
+    S:TileEntity_DESCRIPTION_383_Index_0=Separating Ores more precicely
+    S:TileEntity_DESCRIPTION_384_Index_0=Separating Ores more precicely
+    S:TileEntity_DESCRIPTION_385_Index_0=Separating Ores more precicely
     S:TileEntity_DESCRIPTION_38_Index_0=Generating electric Energy from Multiblocks
     S:TileEntity_DESCRIPTION_391_Index_0=Getting more Byproducts from your Ores
     S:TileEntity_DESCRIPTION_392_Index_0=Getting more Byproducts from your Ores
@@ -1521,11 +1521,11 @@ languagefile {
     S:TileEntity_DESCRIPTION_534_Index_0=Extracting the most relevant Parts of Fluids
     S:TileEntity_DESCRIPTION_535_Index_0=Extracting the most relevant Parts of Fluids
     S:TileEntity_DESCRIPTION_53_Index_0=For inputting Materials into Multiblocks
-    S:TileEntity_DESCRIPTION_541_Index_0=Bathing Ores in Chemicals to seperate them
-    S:TileEntity_DESCRIPTION_542_Index_0=Bathing Ores in Chemicals to seperate them
-    S:TileEntity_DESCRIPTION_543_Index_0=Bathing Ores in Chemicals to seperate them
-    S:TileEntity_DESCRIPTION_544_Index_0=Bathing Ores in Chemicals to seperate them
-    S:TileEntity_DESCRIPTION_545_Index_0=Bathing Ores in Chemicals to seperate them
+    S:TileEntity_DESCRIPTION_541_Index_0=Bathing Ores in Chemicals to separate them
+    S:TileEntity_DESCRIPTION_542_Index_0=Bathing Ores in Chemicals to separate them
+    S:TileEntity_DESCRIPTION_543_Index_0=Bathing Ores in Chemicals to separate them
+    S:TileEntity_DESCRIPTION_544_Index_0=Bathing Ores in Chemicals to separate them
+    S:TileEntity_DESCRIPTION_545_Index_0=Bathing Ores in Chemicals to separate them
     S:TileEntity_DESCRIPTION_54_Index_0=For inputting Materials into Multiblocks
     S:TileEntity_DESCRIPTION_551_Index_0=Bipolarising your Magnets
     S:TileEntity_DESCRIPTION_552_Index_0=Bipolarising your Magnets
@@ -2230,7 +2230,7 @@ languagefile {
     S:gt.blockmachines.basicmachine.centrifuge.tier.01.name=Basic Centrifuge
     S:gt.blockmachines.basicmachine.centrifuge.tier.02.name=Advanced Centrifuge
     S:gt.blockmachines.basicmachine.centrifuge.tier.03.name=Turbo Centrifuge
-    S:gt.blockmachines.basicmachine.centrifuge.tier.04.name=Molecular SEPARATOR
+    S:gt.blockmachines.basicmachine.centrifuge.tier.04.name=Molecular Separator
     S:gt.blockmachines.basicmachine.centrifuge.tier.05.name=Molecular Cyclone
     S:gt.blockmachines.basicmachine.chemicalbath.tier.01.name=Basic Chemical Bath
     S:gt.blockmachines.basicmachine.chemicalbath.tier.02.name=Advanced Chemical Bath
@@ -6609,7 +6609,6 @@ languagefile {
     S:gt.coil01tooltip=Base Heating Capacity = 1800 Kelvin
     S:gt.coil02tooltip=Base Heating Capacity = 2700 Kelvin
     S:gt.coil03tooltip=Base Heating Capacity = 3600 Kelvin
-    S:gt.integrated_circuit.configuration=Configuration: 
     S:gt.integrated_circuit.name=Integrated Circuit
     S:gt.metaitem.01.10.name=Tiny Pile of Carbon Dust
     S:gt.metaitem.01.10.tooltip=C
@@ -7581,7 +7580,7 @@ languagefile {
     S:gt.metaitem.01.17545.tooltip=
     S:gt.metaitem.01.17804.name=Obsidian Plate
     S:gt.metaitem.01.17804.tooltip=MgFeSi2O8
-    S:gt.metaitem.01.17809.name=Wood Plate
+    S:gt.metaitem.01.17809.name=Wood Plank
     S:gt.metaitem.01.17809.tooltip=
     S:gt.metaitem.01.17810.name=Redstone Plate
     S:gt.metaitem.01.17810.tooltip=Si(FeS2)5CrAl2O3Hg3
@@ -7601,7 +7600,7 @@ languagefile {
     S:gt.metaitem.01.17880.tooltip=C5H8
     S:gt.metaitem.01.17884.name=Desh Plate
     S:gt.metaitem.01.17884.tooltip=
-    S:gt.metaitem.01.17889.name=Sealed Wood Plate
+    S:gt.metaitem.01.17889.name=Sealed Wood Plank
     S:gt.metaitem.01.17889.tooltip=
     S:gt.metaitem.01.17890.name=Glass Pane
     S:gt.metaitem.01.17890.tooltip=SiO2
@@ -8495,7 +8494,7 @@ languagefile {
     S:gt.metaitem.01.23880.tooltip=C5H8
     S:gt.metaitem.01.23884.name=Desh Rod
     S:gt.metaitem.01.23884.tooltip=
-    S:gt.metaitem.01.23889.name=Sealed Wood Rod
+    S:gt.metaitem.01.23889.name=Sealed Wood Stick
     S:gt.metaitem.01.23889.tooltip=
     S:gt.metaitem.01.23890.name=Glass Rod
     S:gt.metaitem.01.23890.tooltip=SiO2
@@ -9213,7 +9212,7 @@ languagefile {
     S:gt.metaitem.01.26544.tooltip=
     S:gt.metaitem.01.26545.name=Ordo Bolt
     S:gt.metaitem.01.26545.tooltip=
-    S:gt.metaitem.01.26809.name=Wood Bolt
+    S:gt.metaitem.01.26809.name=Short Wood Stick
     S:gt.metaitem.01.26809.tooltip=
     S:gt.metaitem.01.26829.name=Deep Iron Bolt
     S:gt.metaitem.01.26829.tooltip=Fe
@@ -9223,7 +9222,7 @@ languagefile {
     S:gt.metaitem.01.26880.tooltip=C5H8
     S:gt.metaitem.01.26884.name=Desh Bolt
     S:gt.metaitem.01.26884.tooltip=
-    S:gt.metaitem.01.26889.name=Sealed Wood Bolt
+    S:gt.metaitem.01.26889.name=Short Sealed Wood Stick
     S:gt.metaitem.01.26889.tooltip=
     S:gt.metaitem.01.26890.name=Glass Bolt
     S:gt.metaitem.01.26890.tooltip=SiO2
@@ -11124,7 +11123,7 @@ languagefile {
     S:gt.metaitem.01.32764.name=BrainTech Aerospace Advanced Reinforced Duct Tape FAL-84
     S:gt.metaitem.01.32764.tooltip=If you can't fix it with this, use more of it!
     S:gt.metaitem.01.32765.name=Mc Guffium 239
-    S:gt.metaitem.01.32765.tooltip=Useful for any kind of Plot
+    S:gt.metaitem.01.32765.tooltip=42% better than Phlebotnium
     S:gt.metaitem.01.328.name=Tiny Pile of Duranium Dust
     S:gt.metaitem.01.328.tooltip=
     S:gt.metaitem.01.329.name=Tiny Pile of Tritanium Dust
@@ -18071,7 +18070,7 @@ languagefile {
     S:gt.metaitem.03.37.tooltip=Ga
     S:gt.metaitem.03.3804.name=Crate of Obsidian Plate
     S:gt.metaitem.03.3804.tooltip=MgFeSi2O8
-    S:gt.metaitem.03.3809.name=Crate of Wood Plate
+    S:gt.metaitem.03.3809.name=Crate of Wood Plank
     S:gt.metaitem.03.3809.tooltip=
     S:gt.metaitem.03.3810.name=Crate of Redstone Plate
     S:gt.metaitem.03.3810.tooltip=Si(FeS2)5CrAl2O3Hg3
@@ -18093,7 +18092,7 @@ languagefile {
     S:gt.metaitem.03.3880.tooltip=C5H8
     S:gt.metaitem.03.3884.name=Crate of Desh Plate
     S:gt.metaitem.03.3884.tooltip=
-    S:gt.metaitem.03.3889.name=Crate of Sealed Wood Plate
+    S:gt.metaitem.03.3889.name=Crate of Sealed Wood Plank
     S:gt.metaitem.03.3889.tooltip=
     S:gt.metaitem.03.3890.name=Crate of Glass Pane
     S:gt.metaitem.03.3890.tooltip=SiO2
