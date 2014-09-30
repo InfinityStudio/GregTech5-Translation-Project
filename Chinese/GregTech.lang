@@ -2388,11 +2388,11 @@ languagefile {
     S:gt.blockmachines.basicmachine.polarizer.tier.03.name=进阶两极磁化器 II
     S:gt.blockmachines.basicmachine.polarizer.tier.04.name=进阶两极磁化器 III
     S:gt.blockmachines.basicmachine.polarizer.tier.05.name=高能粒子流磁畴调谐器
-    S:gt.blockmachines.basicmachine.press.tier.01.name=基础冲压机
-    S:gt.blockmachines.basicmachine.press.tier.02.name=进阶冲压机
-    S:gt.blockmachines.basicmachine.press.tier.03.name=进阶冲压机 II
-    S:gt.blockmachines.basicmachine.press.tier.04.name=进阶冲压机 III
-    S:gt.blockmachines.basicmachine.press.tier.05.name=进阶冲压机 IV
+    S:gt.blockmachines.basicmachine.press.tier.01.name=基础冲压机床
+    S:gt.blockmachines.basicmachine.press.tier.02.name=进阶冲压机床
+    S:gt.blockmachines.basicmachine.press.tier.03.name=进阶冲压机床 II
+    S:gt.blockmachines.basicmachine.press.tier.04.name=进阶冲压机床 III
+    S:gt.blockmachines.basicmachine.press.tier.05.name=进阶冲压机床 IV
     S:gt.blockmachines.basicmachine.printer.tier.01.name=基础打印机
     S:gt.blockmachines.basicmachine.printer.tier.02.name=进阶打印机
     S:gt.blockmachines.basicmachine.printer.tier.03.name=进阶打印机 II
