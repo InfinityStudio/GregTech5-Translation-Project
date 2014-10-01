@@ -1815,18 +1815,26 @@ languagefile {
     S:fluid.molten.cobalt=Molten Cobalt
     S:fluid.molten.cobaltbrass=Molten Cobalt Brass
     S:fluid.molten.concrete=Wet Concrete
+    S:fluid.molten.conductiveiron=Molten Conductive Iron
     S:fluid.molten.copper=Molten Copper
     S:fluid.molten.cupronickel=Molten Cupronickel
     S:fluid.molten.damascussteel=Molten Damascus Steel
     S:fluid.molten.darkiron=Molten Dark Iron
+    S:fluid.molten.darksteel=Molten Dark Steel
+    S:fluid.molten.darkthaumium=Molten Dark Thaumium
     S:fluid.molten.deepiron=Molten Deep Iron
     S:fluid.molten.desh=Molten Desh
     S:fluid.molten.desichalkos=Molten Desichalkos
+    S:fluid.molten.diamondcopper=Molten Diamond Copper
     S:fluid.molten.duranium=Molten Duranium
     S:fluid.molten.dysprosium=Molten Dysprosium
+    S:fluid.molten.electricalsteel=Molten Electrical Steel
     S:fluid.molten.electrum=Molten Electrum
     S:fluid.molten.electrumflux=Molten Fluxed Electrum
+    S:fluid.molten.elvenelementium=Molten Elven Elementium
     S:fluid.molten.enderium=Molten Enderium
+    S:fluid.molten.energeticalloy=Molten Energetic Alloy
+    S:fluid.molten.enrichedcopper=Molten Enriched Copper
     S:fluid.molten.erbium=Molten Erbium
     S:fluid.molten.europium=Molten Europium
     S:fluid.molten.eximite=Molten Eximite
@@ -1854,10 +1862,12 @@ languagefile {
     S:fluid.molten.kanthal=Molten Kanthal
     S:fluid.molten.lanthanum=Molten Lanthanum
     S:fluid.molten.lead=Molten Lead
+    S:fluid.molten.lumium=Molten Lumium
     S:fluid.molten.lutetium=Molten Lutetium
     S:fluid.molten.magic=Molten Magic
     S:fluid.molten.magnalium=Molten Magnalium
     S:fluid.molten.magnesium=Molten Magnesium
+    S:fluid.molten.manasteel=Molten Manasteel
     S:fluid.molten.manganese=Molten Manganese
     S:fluid.molten.manyullyn=Molten Manyullyn
     S:fluid.molten.mercassium=Molten Mercassium
@@ -1885,6 +1895,8 @@ languagefile {
     S:fluid.molten.osmonium=Molten Osmonium
     S:fluid.molten.oureclase=Molten Oureclase
     S:fluid.molten.palladium=Molten Palladium
+    S:fluid.molten.phasedgold=Molten Phased Gold
+    S:fluid.molten.phasediron=Molten Phased Iron
     S:fluid.molten.phoenixite=Molten Phoenixite
     S:fluid.molten.pigiron=Molten Pig Iron
     S:fluid.molten.plastic=Molten Plastic
@@ -1894,6 +1906,7 @@ languagefile {
     S:fluid.molten.praseodymium=Molten Praseodymium
     S:fluid.molten.prometheum=Molten Prometheum
     S:fluid.molten.promethium=Molten Promethium
+    S:fluid.molten.pulsatingiron=Molten Pulsating Iron
     S:fluid.molten.redalloy=Molten Red Alloy
     S:fluid.molten.redsteel=Molten Red Steel
     S:fluid.molten.redstone=Molten Redstone
@@ -1907,6 +1920,7 @@ languagefile {
     S:fluid.molten.scandium=Molten Scandium
     S:fluid.molten.shadowiron=Molten Shadowiron
     S:fluid.molten.shadowsteel=Molten Shadowsteel
+    S:fluid.molten.signalum=Molten Signalum
     S:fluid.molten.silicon=Molten Silicon
     S:fluid.molten.silver=Molten Silver
     S:fluid.molten.solderingalloy=Molten Soldering Alloy
@@ -1920,6 +1934,9 @@ languagefile {
     S:fluid.molten.tartarite=Molten Tartarite
     S:fluid.molten.tellurium=Molten Tellurium
     S:fluid.molten.terbium=Molten Terbium
+    S:fluid.molten.terrasteel=Molten Terrasteel
+    S:fluid.molten.terrasteelalloyraw=Molten Raw Terrasteel Alloy
+    S:fluid.molten.terrasteelalloystrengthened=Molten Strengthened Terrasteel Alloy
     S:fluid.molten.thaumium=Molten Thaumium
     S:fluid.molten.thorium=Molten Thorium
     S:fluid.molten.thulium=Molten Thulium
@@ -1934,6 +1951,7 @@ languagefile {
     S:fluid.molten.uranium235=Molten Uranium 235
     S:fluid.molten.vanadium=Molten Vanadium
     S:fluid.molten.vanadiumgallium=Molten Vanadium-Gallium
+    S:fluid.molten.vibrantalloy=Molten Vibrant Alloy
     S:fluid.molten.vulcanite=Molten Vulcanite
     S:fluid.molten.vyroxeres=Molten Vyroxeres
     S:fluid.molten.wroughtiron=Molten Wrought Iron
@@ -6660,6 +6678,7 @@ languagefile {
     S:gt.coil01tooltip=Base Heating Capacity = 1800 Kelvin
     S:gt.coil02tooltip=Base Heating Capacity = 2700 Kelvin
     S:gt.coil03tooltip=Base Heating Capacity = 3600 Kelvin
+    S:gt.integrated_circuit.configuration=Configuration: 
     S:gt.integrated_circuit.name=Integrated Circuit
     S:gt.metaitem.01.10.name=Tiny Pile of Carbon Dust
     S:gt.metaitem.01.10.tooltip=C

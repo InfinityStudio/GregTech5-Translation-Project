@@ -1,5 +1,5 @@
 # Translation file
-# Compatible with: GregTech 5.05.09
+# Compatible with: GregTech 5.05.10
 # Translation author: TehporP & DeckerCHAN & ZhangHS
 # Translation bug report to: https://github.com/Trigonometry-F/Gregtech5-Translation-Chinese/issues
 enablelangfile {
@@ -1815,18 +1815,26 @@ languagefile {
     S:fluid.molten.cobalt=液态钴
     S:fluid.molten.cobaltbrass=液态钴黄铜
     S:fluid.molten.concrete=塑性水泥
+    S:fluid.molten.conductiveiron=Molten Conductive Iron
     S:fluid.molten.copper=液态铜
     S:fluid.molten.cupronickel=液态白铜
     S:fluid.molten.damascussteel=液态大马士革钢
     S:fluid.molten.darkiron=液态玄铁
+    S:fluid.molten.darksteel=Molten Dark Steel
+    S:fluid.molten.darkthaumium=Molten Dark Thaumium
     S:fluid.molten.deepiron=液态深渊铁
     S:fluid.molten.desh=液态Desh
     S:fluid.molten.desichalkos=熔融虚空魂石
+    S:fluid.molten.diamondcopper=Molten Diamond Copper
     S:fluid.molten.duranium=液态钍瑞铌
     S:fluid.molten.dysprosium=液态镝
+    S:fluid.molten.electricalsteel=Molten Electrical Steel
     S:fluid.molten.electrum=液态琥珀金
     S:fluid.molten.electrumflux=液态Fluxed Electrum
+    S:fluid.molten.elvenelementium=Molten Elven Elementium
     S:fluid.molten.enderium=熔融末影粉末
+    S:fluid.molten.energeticalloy=Molten Energetic Alloy
+    S:fluid.molten.enrichedcopper=Molten Enriched Copper
     S:fluid.molten.erbium=液态Erbium
     S:fluid.molten.europium=液态Europium
     S:fluid.molten.eximite=熔融虚空石
@@ -1854,10 +1862,12 @@ languagefile {
     S:fluid.molten.kanthal=液态铬铝钴合金
     S:fluid.molten.lanthanum=液态镧
     S:fluid.molten.lead=液态铅
+    S:fluid.molten.lumium=Molten Lumium
     S:fluid.molten.lutetium=液态镥
     S:fluid.molten.magic=液态Magic
     S:fluid.molten.magnalium=液态镁铝合金
     S:fluid.molten.magnesium=液态镁
+    S:fluid.molten.manasteel=Molten Manasteel
     S:fluid.molten.manganese=液态锰
     S:fluid.molten.manyullyn=液态Manyullyn
     S:fluid.molten.mercassium=液态Mercassium
@@ -1885,6 +1895,8 @@ languagefile {
     S:fluid.molten.osmonium=液态Osmonium
     S:fluid.molten.oureclase=熔融地晶
     S:fluid.molten.palladium=液态钯
+    S:fluid.molten.phasedgold=Molten Phased Gold
+    S:fluid.molten.phasediron=Molten Phased Iron
     S:fluid.molten.phoenixite=液态Phoenixite
     S:fluid.molten.pigiron=液态生铁
     S:fluid.molten.plastic=可塑塑料
@@ -1894,6 +1906,7 @@ languagefile {
     S:fluid.molten.praseodymium=液态镨
     S:fluid.molten.prometheum=液态镨
     S:fluid.molten.promethium=液态钷
+    S:fluid.molten.pulsatingiron=Molten Pulsating Iron
     S:fluid.molten.redalloy=液态红色合金
     S:fluid.molten.redsteel=液态红钢
     S:fluid.molten.redstone=熔融红石
@@ -1907,6 +1920,7 @@ languagefile {
     S:fluid.molten.scandium=液态钪
     S:fluid.molten.shadowiron=液态暗影铁
     S:fluid.molten.shadowsteel=液态暗影钢
+    S:fluid.molten.signalum=Molten Signalum
     S:fluid.molten.silicon=熔融硅
     S:fluid.molten.silver=液态银
     S:fluid.molten.solderingalloy=液态钎焊合金
@@ -1920,6 +1934,9 @@ languagefile {
     S:fluid.molten.tartarite=熔融熔火石
     S:fluid.molten.tellurium=液态碲
     S:fluid.molten.terbium=液态碲
+    S:fluid.molten.terrasteel=Molten Terrasteel
+    S:fluid.molten.terrasteelalloyraw=Molten Raw Terrasteel Alloy
+    S:fluid.molten.terrasteelalloystrengthened=Molten Strengthened Terrasteel Alloy
     S:fluid.molten.thaumium=液态神秘锭
     S:fluid.molten.thorium=液态钍
     S:fluid.molten.thulium=液态铥
@@ -1934,6 +1951,7 @@ languagefile {
     S:fluid.molten.uranium235=液态铀-235
     S:fluid.molten.vanadium=液态钒
     S:fluid.molten.vanadiumgallium=液态钒镓合金
+    S:fluid.molten.vibrantalloy=Molten Vibrant Alloy
     S:fluid.molten.vulcanite=熔融硬橡胶
     S:fluid.molten.vyroxeres=熔融幽冥剧毒晶
     S:fluid.molten.wroughtiron=液态熟铁
@@ -6660,6 +6678,7 @@ languagefile {
     S:gt.coil01tooltip=基础比热容 = 1800 开式度
     S:gt.coil02tooltip=基础比热容 = 2700 开式度
     S:gt.coil03tooltip=基础比热容 = 3600 开式度
+    S:gt.integrated_circuit.configuration=Configuration: 
     S:gt.integrated_circuit.name=集成电路
     S:gt.metaitem.01.10.name=很小一撮碳粉末
     S:gt.metaitem.01.10.tooltip=C
