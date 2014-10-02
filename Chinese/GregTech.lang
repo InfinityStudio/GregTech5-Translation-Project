@@ -1925,7 +1925,7 @@ languagefile {
     S:fluid.molten.silver=液态银
     S:fluid.molten.solderingalloy=液态钎焊合金
     S:fluid.molten.stainlesssteel=液态不锈钢
-    S:fluid.molten.starconium=液态信息
+    S:fluid.molten.starconium=液态Starconium
     S:fluid.molten.steel=液态钢
     S:fluid.molten.steelmagnetic=液体磁钢
     S:fluid.molten.sterlingsilver=液态纯银
@@ -18908,7 +18908,7 @@ languagefile {
     S:ic.recipe.orewasher=洗矿机
     S:ic.recipe.recycler=回收器
     S:ic.recipe.thermalcentrifuge=热力离心机
-    S:itemGroup.GregTech=格雷科技5
+    S:itemGroup.GregTech=格雷科技
     S:mc.recipe.furnace=炉子
     S:metaitem.01.tooltip.purify=投入炼药锅获得纯净粉末
     S:tc.aspect.electrum=电力,放电
