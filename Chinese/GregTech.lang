@@ -6678,7 +6678,7 @@ languagefile {
     S:gt.coil01tooltip=基础比热容 = 1800 开式度
     S:gt.coil02tooltip=基础比热容 = 2700 开式度
     S:gt.coil03tooltip=基础比热容 = 3600 开式度
-    S:gt.integrated_circuit.configuration=Configuration: 
+    S:gt.integrated_circuit.configuration=配置: 
     S:gt.integrated_circuit.name=集成电路
     S:gt.metaitem.01.10.name=很小一撮碳粉末
     S:gt.metaitem.01.10.tooltip=C
