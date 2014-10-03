@@ -11205,7 +11205,7 @@ languagefile {
     S:gt.metaitem.01.32710.name=基础电路板
     S:gt.metaitem.01.32710.tooltip=一个基础的电路板
     S:gt.metaitem.01.32711.name=进阶电路板
-    S:gt.metaitem.01.32711.tooltip=一个进阶的电炉板
+    S:gt.metaitem.01.32711.tooltip=一个进阶的电路板
     S:gt.metaitem.01.32712.name=处理器电路板
     S:gt.metaitem.01.32712.tooltip=一个处理器电路板
     S:gt.metaitem.01.32713.name=压印能量水晶芯片
