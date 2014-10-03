@@ -1913,7 +1913,7 @@ languagefile {
     S:fluid.molten.refinedglowstone=熔融精致萤石
     S:fluid.molten.refinedobsidian=熔融精致黑曜石
     S:fluid.molten.rosegold=液态玫瑰金
-    S:fluid.molten.rubber=熔融香蕉
+    S:fluid.molten.rubber=熔融橡胶
     S:fluid.molten.rubidium=液态铷
     S:fluid.molten.samarium=液态钐
     S:fluid.molten.sanguinite=熔融狱炎晶体
@@ -11205,7 +11205,7 @@ languagefile {
     S:gt.metaitem.01.32710.name=基础电路板
     S:gt.metaitem.01.32710.tooltip=一个基础的电路板
     S:gt.metaitem.01.32711.name=进阶电路板
-    S:gt.metaitem.01.32711.tooltip=一个进阶的电炉板
+    S:gt.metaitem.01.32711.tooltip=一个进阶的电路板
     S:gt.metaitem.01.32712.name=处理器电路板
     S:gt.metaitem.01.32712.tooltip=一个处理器电路板
     S:gt.metaitem.01.32713.name=压印能量水晶芯片
