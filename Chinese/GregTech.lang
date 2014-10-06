@@ -18819,9 +18819,9 @@ languagefile {
     S:gt.metatool.01.42.tooltip=用来去掉雪
     S:gt.metatool.01.43.name=犁(空的)
     S:gt.metatool.01.43.tooltip=你需要给他充电
-    S:gt.metatool.01.44.name=活塞
+    S:gt.metatool.01.44.name=搋子
     S:gt.metatool.01.44.tooltip=
-    S:gt.metatool.01.45.name=活塞(空的)
+    S:gt.metatool.01.45.name=搋子(空的)
     S:gt.metatool.01.45.tooltip=你要给它充电
     S:gt.metatool.01.5.name=铲(空的)
     S:gt.metatool.01.5.tooltip=你要给它充电
