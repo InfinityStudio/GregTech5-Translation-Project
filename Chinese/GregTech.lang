@@ -10935,7 +10935,7 @@ languagefile {
     S:gt.metaitem.01.323.name=很小一撮附魔金粉末
     S:gt.metaitem.01.323.tooltip=
     S:gt.metaitem.01.32300.name=模具(空的)
-    S:gt.metaitem.01.32300.tooltip=用于制作模具
+    S:gt.metaitem.01.32300.tooltip=用于制作其他的模具
     S:gt.metaitem.01.32301.name=模具(板)
     S:gt.metaitem.01.32301.tooltip=模具用于制作板
     S:gt.metaitem.01.32302.name=模具(机器外壳)
