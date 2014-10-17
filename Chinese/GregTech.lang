@@ -33,7 +33,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_1002_Index_5=1x能源输入方块(任何位置)
     S:TileEntity_DESCRIPTION_1002_Index_6=1x大型设备维护方块(任何位置)
     S:TileEntity_DESCRIPTION_1002_Index_7=剩余空间填充低温隔温外壳(最少要16个!)
-    S:TileEntity_DESCRIPTION_1003_Index_0=不可重复使用熔炼6-18个物品
+    S:TileEntity_DESCRIPTION_1003_Index_0=一次性使用熔炼6-18个物品
     S:TileEntity_DESCRIPTION_1003_Index_1=大型熔炼炉中央控制器
     S:TileEntity_DESCRIPTION_1003_Index_10=剩下的空缺填充高温隔热外壳
     S:TileEntity_DESCRIPTION_1003_Index_2=大小:3长3宽3高(中空)
@@ -2388,7 +2388,7 @@ languagefile {
     S:gt.blockmachines.basicmachine.fluidheater.tier.02.name=进阶液体加热器
     S:gt.blockmachines.basicmachine.fluidheater.tier.03.name=进阶液体加热器 II
     S:gt.blockmachines.basicmachine.fluidheater.tier.04.name=进阶液体加热器 III
-    S:gt.blockmachines.basicmachine.fluidheater.tier.05.name=液体分子运动加速器 IV
+    S:gt.blockmachines.basicmachine.fluidheater.tier.05.name=液体分子运动加速器
     S:gt.blockmachines.basicmachine.fluidsolidifier.tier.01.name=基础液体固化器
     S:gt.blockmachines.basicmachine.fluidsolidifier.tier.02.name=进阶液体固化器
     S:gt.blockmachines.basicmachine.fluidsolidifier.tier.03.name=进阶液体固化器 II
