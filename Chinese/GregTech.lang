@@ -33,7 +33,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_1002_Index_5=1x能源输入方块(任何位置)
     S:TileEntity_DESCRIPTION_1002_Index_6=1x大型设备维护方块(任何位置)
     S:TileEntity_DESCRIPTION_1002_Index_7=剩余空间填充低温隔温外壳(最少要16个!)
-    S:TileEntity_DESCRIPTION_1003_Index_0=一次性使用熔炼6-18个物品
+    S:TileEntity_DESCRIPTION_1003_Index_0=一次性熔炼6-18个物品
     S:TileEntity_DESCRIPTION_1003_Index_1=大型熔炼炉中央控制器
     S:TileEntity_DESCRIPTION_1003_Index_10=剩下的空缺填充高温隔热外壳
     S:TileEntity_DESCRIPTION_1003_Index_2=大小:3长3宽3高(中空)
