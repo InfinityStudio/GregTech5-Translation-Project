@@ -2388,7 +2388,7 @@ languagefile {
     S:gt.blockmachines.basicmachine.fluidheater.tier.02.name=进阶液体加热器
     S:gt.blockmachines.basicmachine.fluidheater.tier.03.name=进阶液体加热器 II
     S:gt.blockmachines.basicmachine.fluidheater.tier.04.name=进阶液体加热器 III
-    S:gt.blockmachines.basicmachine.fluidheater.tier.05.name=液体分子运动加速器
+    S:gt.blockmachines.basicmachine.fluidheater.tier.05.name=液体分子热运动加速器
     S:gt.blockmachines.basicmachine.fluidsolidifier.tier.01.name=基础液体固化器
     S:gt.blockmachines.basicmachine.fluidsolidifier.tier.02.name=进阶液体固化器
     S:gt.blockmachines.basicmachine.fluidsolidifier.tier.03.name=进阶液体固化器 II
@@ -7956,7 +7956,7 @@ languagefile {
     S:gt.metaitem.01.1893.tooltip=
     S:gt.metaitem.01.1894.name=一小撮奶酪屑
     S:gt.metaitem.01.1894.tooltip=
-    S:gt.metaitem.01.1895.name=一小撮辣椒面
+    S:gt.metaitem.01.1895.name=一小撮辣椒粉
     S:gt.metaitem.01.1895.tooltip=
     S:gt.metaitem.01.19.name=很小一撮铝粉末
     S:gt.metaitem.01.19.tooltip=Al
@@ -10160,7 +10160,7 @@ languagefile {
     S:gt.metaitem.01.2893.tooltip=
     S:gt.metaitem.01.2894.name=奶酪屑
     S:gt.metaitem.01.2894.tooltip=
-    S:gt.metaitem.01.2895.name=辣椒面
+    S:gt.metaitem.01.2895.name=辣椒粉
     S:gt.metaitem.01.2895.tooltip=
     S:gt.metaitem.01.29.name=很小一撮钒粉末
     S:gt.metaitem.01.29.tooltip=V
@@ -13784,7 +13784,7 @@ languagefile {
     S:gt.metaitem.01.893.tooltip=
     S:gt.metaitem.01.894.name=很小一撮奶酪屑
     S:gt.metaitem.01.894.tooltip=
-    S:gt.metaitem.01.895.name=很小一撮辣椒面
+    S:gt.metaitem.01.895.name=很小一撮辣椒粉
     S:gt.metaitem.01.895.tooltip=
     S:gt.metaitem.01.9.name=很小一撮硼粉末
     S:gt.metaitem.01.9.tooltip=B
@@ -18970,7 +18970,7 @@ languagefile {
     S:gt.metaitem.03.893.tooltip=
     S:gt.metaitem.03.894.name=一箱奶酪屑
     S:gt.metaitem.03.894.tooltip=
-    S:gt.metaitem.03.895.name=一箱辣椒面
+    S:gt.metaitem.03.895.name=一箱辣椒粉
     S:gt.metaitem.03.895.tooltip=
     S:gt.metaitem.03.9.name=一箱硼粉末
     S:gt.metaitem.03.9.tooltip=B
