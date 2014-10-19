@@ -2733,8 +2733,8 @@ languagefile {
     S:gt.blockmachines.gt_frame_beryllium.name=铍框架
     S:gt.blockmachines.gt_frame_bismuth.name=铋框架
     S:gt.blockmachines.gt_frame_bismuthbronze.name=铋黄铜框架
-    S:gt.blockmachines.gt_frame_黑色bronze.name=乌铜框架
-    S:gt.blockmachines.gt_frame_黑色steel.name=乌钢框架
+    S:gt.blockmachines.gt_frame_blackbronze.name=乌铜框架
+    S:gt.blockmachines.gt_frame_blacksteel.name=乌钢框架
     S:gt.blockmachines.gt_frame_bluealloy.name=蓝色合金框架
     S:gt.blockmachines.gt_frame_bluesteel.name=蓝钢框架
     S:gt.blockmachines.gt_frame_brass.name=黄铜框架
