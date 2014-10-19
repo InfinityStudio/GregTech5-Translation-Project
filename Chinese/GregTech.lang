@@ -14,7 +14,7 @@ languagefile {
     S:"Book.Printer Manual V2.0.Page04"=完成后,将数据棒插入印刷机的资料槽中,然后放入3张纸和144公升的墨水,水合或者化工染料只会把书给涂得乱七八糟
     S:"Book.Printer Manual V2.0.Page05"=现在你拿到了很多张书页,只需要把书页,一张皮革,和一些粘合剂放入组装机来进行装订,然后你将会得到一份和原来完全一样的副本,并且可以和母本堆叠在一起
     S:"Book.Printer Manual V2.0.Page06"=3.重命名物品:这个功能将不会是印刷机的功能.现在有一个命名模具来给物品重命名,只需要在铁砧重命名命名模具即可
-    S:"Book.Printer Manual V2.0.Page07"=4.书，地图，命名牌或者其他的合成都被移到其他的机器,查询NEI寻找到它们
+    S:"Book.Printer Manual V2.0.Page07"=4.书，地图，命名牌或者其他的合成都被移到其他的机器,查询NEI寻找到他们
     S:"Book.Punch Card Manual V0.0.Name"=Punch Card Manual V0.0
     S:"Book.Punch Card Manual V0.0.Page00"=This Manual will explain the Functionality of the Punch Cards, once they are fully implemented. And no, they won't be like the IRL Punch Cards. This is just a current Idea Collection.
     S:"Book.Punch Card Manual V0.0.Page01"=(i1&&i2)?o1=15:o1=0;=10
@@ -16091,7 +16091,7 @@ languagefile {
     S:gt.metaitem.02.32211.name=好基友肉串
     S:gt.metaitem.02.32211.tooltip=请不要忘记尝尝我们的Chum-balaya!
     S:gt.metaitem.02.32212.name=甜面团
-    S:gt.metaitem.02.32212.tooltip=不要吃没考过的面团!
+    S:gt.metaitem.02.32212.tooltip=不要吃没烤过的面团!
     S:gt.metaitem.02.32213.name=巧克力面团
     S:gt.metaitem.02.32213.tooltip=我说了不要吃生面团你们就是不听!
     S:gt.metaitem.02.32214.name=饼干面团
