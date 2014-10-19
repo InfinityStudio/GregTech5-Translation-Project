@@ -18,14 +18,14 @@ languagefile {
     S:"Book.Punch Card Manual V0.0.Name"=Punch Card Manual V0.0
     S:"Book.Punch Card Manual V0.0.Page00"=This Manual will explain the Functionality of the Punch Cards, once they are fully implemented. And no, they won't be like the IRL Punch Cards. This is just a current Idea Collection.
     S:"Book.Punch Card Manual V0.0.Page01"=(i1&&i2)?o1=15:o1=0;=10
-    S:"Book.Punch Card Manual V0.0.Page02"=ignore all 白色space Characters, use Long for saving the Numbers
+    S:"Book.Punch Card Manual V0.0.Page02"=ignore all white space Characters, use Long for saving the Numbers
     S:"Book.Punch Card Manual V0.0.Page03"=&& || ^^ & | ^ ! ++ -- + - % / // * ** << >> >>> < > <= >= == !=  ~ ( ) ?: , ; ;= ;=X; = i0 i1 i2 i3 i4 i5 o0 o1 o2 o3 o4 o5 v0 v1 v2 v3 v4 v5 v6 v7 v8 v9 m0 m1 m2 m3 m4 m5 m6 m7 m8 m9 A B C D E F
     S:"Book.Punch Card Manual V0.0.Page04"='0' = false, 'everything but 0' = true, '!' turns '0' into '1' and everything else into '0'
     S:"Book.Punch Card Manual V0.0.Page05"=',' is just a separator for multiple executed Codes in a row.
     S:"Book.Punch Card Manual V0.0.Page06"=';' means that the Program waits until the next tick before continuing. ';=10' and ';=10;' both mean that it will wait 10 Ticks instead of 1. And ';=0' or anything < 0 will default to 0.
     S:"Book.Punch Card Manual V0.0.Page07"=If the '=' Operator is used within Brackets, it returns the value the variable has been set to.
     S:"Book.Punch Card Manual V0.0.Page08"=The Program saves the Char Index of the current Task, the 10 Variables (which reset to 0 as soon as the Program Loop stops), the 10 Member Variables and the remaining waiting Time in its NBT.
-    S:"Book.Punch Card Manual V0.0.Page09"=A = 10, B = 11, C = 12, D = 13, E = 14, F = 15, just for Hexadecimal Space saving, since 红色stone has only 4 Bits.
+    S:"Book.Punch Card Manual V0.0.Page09"=A = 10, B = 11, C = 12, D = 13, E = 14, F = 15, just for Hexadecimal Space saving, since redstone has only 4 Bits.
     S:"Book.Punch Card Manual V0.0.Page10"=For implementing Loops you just need 1 Punch Card per Loop, these Cards can restart once they are finished, depending on how many other Cards there are in the Program Loop you inserted your Card into, since it will process them procedurally.
     S:"Book.Punch Card Manual V0.0.Page11"=A Punch Card Processor can run up to four Loops, each with the length of seven Punch Cards, parallel.
     S:"Book.Punch Card Manual V0.0.Page12"=Why does the Punch Card need Ink to be made, you ask? Because the empty one needs to have some lines on, and the for the punched one it prints the Code to execute in a human readable format on the Card.
@@ -11283,7 +11283,7 @@ languagefile {
     S:gt.metaitem.01.32479.tooltip=上面刻着一个有名的恶作剧大师！
     S:gt.metaitem.01.32480.name=铱合金锭
     S:gt.metaitem.01.32480.tooltip=用来制作铱板
-    S:gt.metaitem.01.32481.name=印刷过的纸
+    S:gt.metaitem.01.32481.name=书页
     S:gt.metaitem.01.32481.tooltip=用于制作成书
     S:gt.metaitem.01.32482.name=魔法纸张
     S:gt.metaitem.01.32482.tooltip=
