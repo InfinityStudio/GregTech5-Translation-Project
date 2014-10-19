@@ -1,11 +1,34 @@
 # Translation file
-# Compatible with: GregTech 5.05.12
+# Compatible with: GregTech 5.05.13
 # Translation author: TehporP & DeckerCHAN & ZhangHS
 # Translation bug report to: https://github.com/Trigonometry-F/Gregtech5-Translation-Chinese/issues
 enablelangfile {
     B:UseThisFileAsLanguageFile=true
 }
 languagefile {
+    S:"Book.Printer Manual V2.0.Name"=Printer Manual V2.0
+    S:"Book.Printer Manual V2.0.Page00"=This Manual explains the different Functionalities the GregTech Printing Factory has built in, which are not in NEI. Most got NEI Support now, but there is still some left without it.
+    S:"Book.Printer Manual V2.0.Page01"=1. Coloring Items and Blocks: You know those Crafting Recipes, which have a dye surrounded by 8 Item to dye them? Or the ones which have just one Item and one Dye in the Grid? Those two Recipe Types can be cheaply automated using the Printer.
+    S:"Book.Printer Manual V2.0.Page02"=The Colorization Functionality even optimizes the Recipes, which normally require 8 Items + 1 Dye to 1 Item and an 8th of the normally used Dye in Fluid Form, isn't that awesome?
+    S:"Book.Printer Manual V2.0.Page03"=2. Copying Books: This Task got slightly harder. The first Step is putting the written and signed Book inside the Scanner with a Data Stick ready to receive the Data.
+    S:"Book.Printer Manual V2.0.Page04"=Now insert the Stick into the Data Slot of the Printer and add 3 pieces of Paper together with 144 Liters of actual Ink Fluid. Water mixed and chemical Dyes won't work on Paper without messing things up!
+    S:"Book.Printer Manual V2.0.Page05"=You got a stack of Pages for your new Book, just put them into the Assembler with some Glue and a piece of Leather for the Binding, and you receive an identical copy of the Book, which would stack together with the original.
+    S:"Book.Printer Manual V2.0.Page06"=3. Renaming Items: This Functionality is no longer Part of the Printer. There is now a Name Mold for the Forming Press to imprint a Name into an Item, just rename the Mold in an Anvil and use it in the Forming Press on any Item.
+    S:"Book.Printer Manual V2.0.Page07"=4. Crafting of Books, Maps, Nametags etc etc etc: Those Recipes moved to other Machines, just look them up in NEI.
+    S:"Book.Punch Card Manual V0.0.Name"=Punch Card Manual V0.0
+    S:"Book.Punch Card Manual V0.0.Page00"=This Manual will explain the Functionality of the Punch Cards, once they are fully implemented. And no, they won't be like the IRL Punch Cards. This is just a current Idea Collection.
+    S:"Book.Punch Card Manual V0.0.Page01"=(i1&&i2)?o1=15:o1=0;=10
+    S:"Book.Punch Card Manual V0.0.Page02"=ignore all Whitespace Characters, use Long for saving the Numbers
+    S:"Book.Punch Card Manual V0.0.Page03"=&& || ^^ & | ^ ! ++ -- + - % / // * ** << >> >>> < > <= >= == !=  ~ ( ) ?: , ; ;= ;=X; = i0 i1 i2 i3 i4 i5 o0 o1 o2 o3 o4 o5 v0 v1 v2 v3 v4 v5 v6 v7 v8 v9 m0 m1 m2 m3 m4 m5 m6 m7 m8 m9 A B C D E F
+    S:"Book.Punch Card Manual V0.0.Page04"='0' = false, 'everything but 0' = true, '!' turns '0' into '1' and everything else into '0'
+    S:"Book.Punch Card Manual V0.0.Page05"=',' is just a separator for multiple executed Codes in a row.
+    S:"Book.Punch Card Manual V0.0.Page06"=';' means that the Program waits until the next tick before continuing. ';=10' and ';=10;' both mean that it will wait 10 Ticks instead of 1. And ';=0' or anything < 0 will default to 0.
+    S:"Book.Punch Card Manual V0.0.Page07"=If the '=' Operator is used within Brackets, it returns the value the variable has been set to.
+    S:"Book.Punch Card Manual V0.0.Page08"=The Program saves the Char Index of the current Task, the 10 Variables (which reset to 0 as soon as the Program Loop stops), the 10 Member Variables and the remaining waiting Time in its NBT.
+    S:"Book.Punch Card Manual V0.0.Page09"=A = 10, B = 11, C = 12, D = 13, E = 14, F = 15, just for Hexadecimal Space saving, since Redstone has only 4 Bits.
+    S:"Book.Punch Card Manual V0.0.Page10"=For implementing Loops you just need 1 Punch Card per Loop, these Cards can restart once they are finished, depending on how many other Cards there are in the Program Loop you inserted your Card into, since it will process them procedurally.
+    S:"Book.Punch Card Manual V0.0.Page11"=A Punch Card Processor can run up to four Loops, each with the length of seven Punch Cards, parallel.
+    S:"Book.Punch Card Manual V0.0.Page12"=Why does the Punch Card need Ink to be made, you ask? Because the empty one needs to have some lines on, and the for the punched one it prints the Code to execute in a human readable format on the Card.
     S:TileEntity_DESCRIPTION_1000_Index_0=工业高炉中央控制器
     S:TileEntity_DESCRIPTION_1000_Index_1=大小:3长3宽4高(中空)
     S:TileEntity_DESCRIPTION_1000_Index_2=控制器位置(底部中间位置)
@@ -1826,6 +1849,7 @@ languagefile {
     S:fluid.molten.celenegil=熔融幽冥毒晶
     S:fluid.molten.cerium=液态铈
     S:fluid.molten.ceruclase=液态暗影秘银
+    S:fluid.molten.cheese=Molten Cheese
     S:fluid.molten.chrome=液态铬
     S:fluid.molten.chromiumdioxide=熔融二氧化铬
     S:fluid.molten.cobalt=液态钴
@@ -1859,6 +1883,7 @@ languagefile {
     S:fluid.molten.gadolinium=液态钆
     S:fluid.molten.gallium=液态镓
     S:fluid.molten.glass=熔融玻璃
+    S:fluid.molten.glowstone=Molten Glowstone
     S:fluid.molten.gold=液态金
     S:fluid.molten.haderoth=液态幻铜
     S:fluid.molten.hematite=液态赤铁矿
@@ -1951,6 +1976,7 @@ languagefile {
     S:fluid.molten.steel=液态钢
     S:fluid.molten.steelmagnetic=液体磁钢
     S:fluid.molten.sterlingsilver=液态纯银
+    S:fluid.molten.sugar=Molten Sugar
     S:fluid.molten.sunnarium=熔融阳光化合物
     S:fluid.molten.sylvite=熔融钾石盐
     S:fluid.molten.tantalum=液态钽
@@ -2091,7 +2117,7 @@ languagefile {
     S:fluid.potion.weakness.long=加长型虚弱药水
     S:fluid.potion.weakness.long.splash=加强溅射型虚弱药水
     S:fluid.potion.weakness.splash=溅射型虚弱药水
-    S:fluid.potion.wheatyhopsjuice=格瓦斯
+    S:fluid.potion.wheatyhopsjuice=啤酒花汁
     S:fluid.potion.wheatyjuice=小麦汁
     S:fluid.potion.wine=葡萄酒
     S:fluid.seedoil=种子油
@@ -2105,6 +2131,23 @@ languagefile {
     S:gt.behaviour.hoe=可用于翻土
     S:gt.behaviour.lighter.tooltip=可以把东西给点着
     S:gt.behaviour.lighter.uses=可用次数:
+    S:gt.behaviour.paintspray.0.tooltip=Can Color things in Black
+    S:gt.behaviour.paintspray.1.tooltip=Can Color things in Red
+    S:gt.behaviour.paintspray.10.tooltip=Can Color things in Lime
+    S:gt.behaviour.paintspray.11.tooltip=Can Color things in Yellow
+    S:gt.behaviour.paintspray.12.tooltip=Can Color things in Light Blue
+    S:gt.behaviour.paintspray.13.tooltip=Can Color things in Magenta
+    S:gt.behaviour.paintspray.14.tooltip=Can Color things in Orange
+    S:gt.behaviour.paintspray.15.tooltip=Can Color things in White
+    S:gt.behaviour.paintspray.2.tooltip=Can Color things in Green
+    S:gt.behaviour.paintspray.3.tooltip=Can Color things in Brown
+    S:gt.behaviour.paintspray.4.tooltip=Can Color things in Blue
+    S:gt.behaviour.paintspray.5.tooltip=Can Color things in Purple
+    S:gt.behaviour.paintspray.6.tooltip=Can Color things in Cyan
+    S:gt.behaviour.paintspray.7.tooltip=Can Color things in Light Gray
+    S:gt.behaviour.paintspray.8.tooltip=Can Color things in Gray
+    S:gt.behaviour.paintspray.9.tooltip=Can Color things in Pink
+    S:gt.behaviour.paintspray.uses=Remaining Uses:
     S:gt.behaviour.plunger.essentia=从容器和管道中抽取要素源质
     S:gt.behaviour.plunger.fluid=用于从容器中抽取中1000mb的液体
     S:gt.behaviour.plunger.item=用于清除管道中的物品
@@ -3563,6 +3606,7 @@ languagefile {
     S:gt.blockores.16725.name=贫瘠Honey 矿石
     S:gt.blockores.16726.name=Small 粘合剂 Ore
     S:gt.blockores.16727.name=Small Hot Frying Oil Ore
+    S:gt.blockores.16728.name=Small Snow Ore
     S:gt.blockores.16800.name=贫瘠火药矿石
     S:gt.blockores.16801.name=贫瘠Blaze矿石
     S:gt.blockores.16802.name=贫瘠燧石矿石
@@ -3818,6 +3862,7 @@ languagefile {
     S:gt.blockores.1725.name=Honey 矿石
     S:gt.blockores.1726.name=粘合剂 Ore
     S:gt.blockores.1727.name=Hot Frying Oil Ore
+    S:gt.blockores.1728.name=Snow Ore
     S:gt.blockores.17299.name=贫瘠石头矿石
     S:gt.blockores.17300.name=贫瘠黄铜矿石
     S:gt.blockores.17301.name=贫瘠黄铜矿
@@ -3953,6 +3998,7 @@ languagefile {
     S:gt.blockores.17725.name=贫瘠Honey 矿石
     S:gt.blockores.17726.name=Small 粘合剂 Ore
     S:gt.blockores.17727.name=Small Hot Frying Oil Ore
+    S:gt.blockores.17728.name=Small Snow Ore
     S:gt.blockores.17800.name=贫瘠火药矿石
     S:gt.blockores.17801.name=贫瘠Blaze矿石
     S:gt.blockores.17802.name=贫瘠燧石矿石
@@ -4388,6 +4434,7 @@ languagefile {
     S:gt.blockores.18725.name=贫瘠Honey 矿石
     S:gt.blockores.18726.name=Small 粘合剂 Ore
     S:gt.blockores.18727.name=Small Hot Frying Oil Ore
+    S:gt.blockores.18728.name=Small Snow Ore
     S:gt.blockores.1873.name=沥青铀矿
     S:gt.blockores.1874.name=塑料矿石
     S:gt.blockores.1875.name=流纹石矿石
@@ -4822,6 +4869,7 @@ languagefile {
     S:gt.blockores.19725.name=贫瘠Honey 矿石
     S:gt.blockores.19726.name=Small 粘合剂 Ore
     S:gt.blockores.19727.name=Small Hot Frying Oil Ore
+    S:gt.blockores.19728.name=Small Snow Ore
     S:gt.blockores.19800.name=贫瘠火药矿石
     S:gt.blockores.19801.name=贫瘠Blaze矿石
     S:gt.blockores.19802.name=贫瘠燧石矿石
@@ -5243,6 +5291,7 @@ languagefile {
     S:gt.blockores.20725.name=贫瘠Honey 矿石
     S:gt.blockores.20726.name=Small 粘合剂 Ore
     S:gt.blockores.20727.name=Small Hot Frying Oil Ore
+    S:gt.blockores.20728.name=Small Snow Ore
     S:gt.blockores.2073.name=镝矿石
     S:gt.blockores.2074.name=钬矿石
     S:gt.blockores.2075.name=铒矿石
@@ -5554,6 +5603,7 @@ languagefile {
     S:gt.blockores.2725.name=Honey 矿石
     S:gt.blockores.2726.name=粘合剂 Ore
     S:gt.blockores.2727.name=Hot Frying Oil Ore
+    S:gt.blockores.2728.name=Snow Ore
     S:gt.blockores.28.name=钛矿石
     S:gt.blockores.2800.name=火药矿石
     S:gt.blockores.2801.name=Blaze矿石
@@ -5990,6 +6040,7 @@ languagefile {
     S:gt.blockores.3725.name=Honey 矿石
     S:gt.blockores.3726.name=粘合剂 Ore
     S:gt.blockores.3727.name=Hot Frying Oil Ore
+    S:gt.blockores.3728.name=Snow Ore
     S:gt.blockores.3800.name=火药矿石
     S:gt.blockores.3801.name=Blaze矿石
     S:gt.blockores.3802.name=燧石矿石
@@ -6357,6 +6408,7 @@ languagefile {
     S:gt.blockores.4725.name=Honey 矿石
     S:gt.blockores.4726.name=粘合剂 Ore
     S:gt.blockores.4727.name=Hot Frying Oil Ore
+    S:gt.blockores.4728.name=Snow Ore
     S:gt.blockores.48.name=钼矿石
     S:gt.blockores.4800.name=火药矿石
     S:gt.blockores.4801.name=Blaze矿石
@@ -6596,6 +6648,7 @@ languagefile {
     S:gt.blockores.725.name=Honey 矿石
     S:gt.blockores.726.name=粘合剂 Ore
     S:gt.blockores.727.name=Hot Frying Oil Ore
+    S:gt.blockores.728.name=Snow Ore
     S:gt.blockores.73.name=镝矿石
     S:gt.blockores.74.name=钬矿石
     S:gt.blockores.75.name=铒矿石
@@ -7526,6 +7579,8 @@ languagefile {
     S:gt.metaitem.01.17103.tooltip=Am
     S:gt.metaitem.01.17129.name=0号元素板
     S:gt.metaitem.01.17129.tooltip=Nt
+    S:gt.metaitem.01.1728.name=Small Pile of Snow Powder
+    S:gt.metaitem.01.1728.tooltip=H2O
     S:gt.metaitem.01.17300.name=青铜板
     S:gt.metaitem.01.17300.tooltip=SnCu3
     S:gt.metaitem.01.17301.name=黄铜板
@@ -9508,6 +9563,8 @@ languagefile {
     S:gt.metaitem.01.27103.tooltip=Am
     S:gt.metaitem.01.27129.name=0号元素螺丝
     S:gt.metaitem.01.27129.tooltip=Nt
+    S:gt.metaitem.01.2728.name=Snow Powder
+    S:gt.metaitem.01.2728.tooltip=H2O
     S:gt.metaitem.01.27300.name=青铜螺丝
     S:gt.metaitem.01.27300.tooltip=SnCu3
     S:gt.metaitem.01.27301.name=黄铜螺丝
@@ -10758,6 +10815,8 @@ languagefile {
     S:gt.metaitem.01.30726.tooltip=本产品对马无害
     S:gt.metaitem.01.30727.name=热食用油槽
     S:gt.metaitem.01.30727.tooltip=
+    S:gt.metaitem.01.30728.name=Snow Cell
+    S:gt.metaitem.01.30728.tooltip=H2O
     S:gt.metaitem.01.3073.name=含有杂质的镝粉末
     S:gt.metaitem.01.3073.tooltip=Dy
     S:gt.metaitem.01.3074.name=含有杂质的钬粉末
@@ -11070,6 +11129,8 @@ languagefile {
     S:gt.metaitem.01.32313.tooltip=用于制作圆柱状物体
     S:gt.metaitem.01.32314.name=模具(铁砧)
     S:gt.metaitem.01.32314.tooltip=用于制作铁砧
+    S:gt.metaitem.01.32315.name=Mold (Name)
+    S:gt.metaitem.01.32315.tooltip=Mold for naming Items (rename Mold with Anvil)
     S:gt.metaitem.01.32350.name=模具(板)
     S:gt.metaitem.01.32350.tooltip=用于制作板
     S:gt.metaitem.01.32351.name=模具(杆)
@@ -11138,6 +11199,70 @@ languagefile {
     S:gt.metaitem.01.32405.tooltip=
     S:gt.metaitem.01.32406.name=大型钨钢制流体单元
     S:gt.metaitem.01.32406.tooltip=
+    S:gt.metaitem.01.32430.name=Spray Can (Black)
+    S:gt.metaitem.01.32430.tooltip=Full
+    S:gt.metaitem.01.32431.name=Spray Can (Black)
+    S:gt.metaitem.01.32431.tooltip=Used
+    S:gt.metaitem.01.32432.name=Spray Can (Red)
+    S:gt.metaitem.01.32432.tooltip=Full
+    S:gt.metaitem.01.32433.name=Spray Can (Red)
+    S:gt.metaitem.01.32433.tooltip=Used
+    S:gt.metaitem.01.32434.name=Spray Can (Green)
+    S:gt.metaitem.01.32434.tooltip=Full
+    S:gt.metaitem.01.32435.name=Spray Can (Green)
+    S:gt.metaitem.01.32435.tooltip=Used
+    S:gt.metaitem.01.32436.name=Spray Can (Brown)
+    S:gt.metaitem.01.32436.tooltip=Full
+    S:gt.metaitem.01.32437.name=Spray Can (Brown)
+    S:gt.metaitem.01.32437.tooltip=Used
+    S:gt.metaitem.01.32438.name=Spray Can (Blue)
+    S:gt.metaitem.01.32438.tooltip=Full
+    S:gt.metaitem.01.32439.name=Spray Can (Blue)
+    S:gt.metaitem.01.32439.tooltip=Used
+    S:gt.metaitem.01.32440.name=Spray Can (Purple)
+    S:gt.metaitem.01.32440.tooltip=Full
+    S:gt.metaitem.01.32441.name=Spray Can (Purple)
+    S:gt.metaitem.01.32441.tooltip=Used
+    S:gt.metaitem.01.32442.name=Spray Can (Cyan)
+    S:gt.metaitem.01.32442.tooltip=Full
+    S:gt.metaitem.01.32443.name=Spray Can (Cyan)
+    S:gt.metaitem.01.32443.tooltip=Used
+    S:gt.metaitem.01.32444.name=Spray Can (Light Gray)
+    S:gt.metaitem.01.32444.tooltip=Full
+    S:gt.metaitem.01.32445.name=Spray Can (Light Gray)
+    S:gt.metaitem.01.32445.tooltip=Used
+    S:gt.metaitem.01.32446.name=Spray Can (Gray)
+    S:gt.metaitem.01.32446.tooltip=Full
+    S:gt.metaitem.01.32447.name=Spray Can (Gray)
+    S:gt.metaitem.01.32447.tooltip=Used
+    S:gt.metaitem.01.32448.name=Spray Can (Pink)
+    S:gt.metaitem.01.32448.tooltip=Full
+    S:gt.metaitem.01.32449.name=Spray Can (Pink)
+    S:gt.metaitem.01.32449.tooltip=Used
+    S:gt.metaitem.01.32450.name=Spray Can (Lime)
+    S:gt.metaitem.01.32450.tooltip=Full
+    S:gt.metaitem.01.32451.name=Spray Can (Lime)
+    S:gt.metaitem.01.32451.tooltip=Used
+    S:gt.metaitem.01.32452.name=Spray Can (Yellow)
+    S:gt.metaitem.01.32452.tooltip=Full
+    S:gt.metaitem.01.32453.name=Spray Can (Yellow)
+    S:gt.metaitem.01.32453.tooltip=Used
+    S:gt.metaitem.01.32454.name=Spray Can (Light Blue)
+    S:gt.metaitem.01.32454.tooltip=Full
+    S:gt.metaitem.01.32455.name=Spray Can (Light Blue)
+    S:gt.metaitem.01.32455.tooltip=Used
+    S:gt.metaitem.01.32456.name=Spray Can (Magenta)
+    S:gt.metaitem.01.32456.tooltip=Full
+    S:gt.metaitem.01.32457.name=Spray Can (Magenta)
+    S:gt.metaitem.01.32457.tooltip=Used
+    S:gt.metaitem.01.32458.name=Spray Can (Orange)
+    S:gt.metaitem.01.32458.tooltip=Full
+    S:gt.metaitem.01.32459.name=Spray Can (Orange)
+    S:gt.metaitem.01.32459.tooltip=Used
+    S:gt.metaitem.01.32460.name=Spray Can (White)
+    S:gt.metaitem.01.32460.tooltip=Full
+    S:gt.metaitem.01.32461.name=Spray Can (White)
+    S:gt.metaitem.01.32461.tooltip=Used
     S:gt.metaitem.01.32471.name=火柴
     S:gt.metaitem.01.32471.tooltip=
     S:gt.metaitem.01.32472.name=火柴盒
@@ -11158,6 +11283,18 @@ languagefile {
     S:gt.metaitem.01.32479.tooltip=上面刻着一个有名的恶作剧大师！
     S:gt.metaitem.01.32480.name=铱合金锭
     S:gt.metaitem.01.32480.tooltip=用来制作铱板
+    S:gt.metaitem.01.32481.name=Printed Pages
+    S:gt.metaitem.01.32481.tooltip=Used to make written Books
+    S:gt.metaitem.01.32482.name=Magic Paper
+    S:gt.metaitem.01.32482.tooltip=
+    S:gt.metaitem.01.32483.name=Enchanted Page
+    S:gt.metaitem.01.32483.tooltip=
+    S:gt.metaitem.01.32484.name=Enchanted Pages
+    S:gt.metaitem.01.32484.tooltip=
+    S:gt.metaitem.01.32485.name=Punch Card
+    S:gt.metaitem.01.32485.tooltip=
+    S:gt.metaitem.01.32486.name=Punched Card
+    S:gt.metaitem.01.32486.tooltip=
     S:gt.metaitem.01.32490.name=原理图
     S:gt.metaitem.01.32490.tooltip=空白
     S:gt.metaitem.01.32491.name=原理图(合成)
@@ -11324,13 +11461,15 @@ languagefile {
     S:gt.metaitem.01.32706.tooltip=一个高压处理器
     S:gt.metaitem.01.32707.name=数据球
     S:gt.metaitem.01.32707.tooltip=一个超大容量的数据储存器
+    S:gt.metaitem.01.32708.name=Data Stick
+    S:gt.metaitem.01.32708.tooltip=A Low Capacity Data Storage
     S:gt.metaitem.01.32710.name=基础电路板
     S:gt.metaitem.01.32710.tooltip=一个基础的电路板
     S:gt.metaitem.01.32711.name=进阶电路板
     S:gt.metaitem.01.32711.tooltip=一个进阶的电路板
     S:gt.metaitem.01.32712.name=处理器电路板
     S:gt.metaitem.01.32712.tooltip=一个处理器电路板
-    S:gt.metaitem.01.32713.name=压印能量水晶芯片
+    S:gt.metaitem.01.32713.name=压印水晶芯片
     S:gt.metaitem.01.32713.tooltip=用于制作电路板
     S:gt.metaitem.01.32714.name=压印兰波顿水晶芯片
     S:gt.metaitem.01.32714.tooltip=用于制作电路板
@@ -13224,6 +13363,8 @@ languagefile {
     S:gt.metaitem.01.7129.tooltip=Nt
     S:gt.metaitem.01.72.name=很小一撮铽粉末
     S:gt.metaitem.01.72.tooltip=Tb
+    S:gt.metaitem.01.728.name=Tiny Pile of Snow Powder
+    S:gt.metaitem.01.728.tooltip=H2O
     S:gt.metaitem.01.73.name=很小一撮镝粉末
     S:gt.metaitem.01.73.tooltip=Dy
     S:gt.metaitem.01.7307.name=离心过的生铁矿石
@@ -15949,6 +16090,12 @@ languagefile {
     S:gt.metaitem.02.32210.tooltip=搞基搞基搞基搞基~~~
     S:gt.metaitem.02.32211.name=好基友肉串
     S:gt.metaitem.02.32211.tooltip=请不要忘记尝尝我们的Chum-balaya!
+    S:gt.metaitem.02.32212.name=Sugary Dough
+    S:gt.metaitem.02.32212.tooltip=Don't eat the Dough before it is baken
+    S:gt.metaitem.02.32213.name=Chocolate Dough
+    S:gt.metaitem.02.32213.tooltip=I said don't eat the Dough!
+    S:gt.metaitem.02.32214.name=Cookie shaped Dough
+    S:gt.metaitem.02.32214.tooltip=For baking Cookies
     S:gt.metaitem.02.32220.name=小面包
     S:gt.metaitem.02.32220.tooltip=已切片
     S:gt.metaitem.02.32221.name=无肉汉堡
@@ -15979,12 +16126,56 @@ languagefile {
     S:gt.metaitem.02.32243.tooltip=只为真男人!(女汉子也行)
     S:gt.metaitem.02.32244.name=长条牛排三明治
     S:gt.metaitem.02.32244.tooltip=是的,我曾经不小心把这东西称之为蒸汽三明治
+    S:gt.metaitem.02.32250.name=Raw Veggie Pizza
+    S:gt.metaitem.02.32250.tooltip=Into the Oven with it!
+    S:gt.metaitem.02.32251.name=Raw Cheese Pizza
+    S:gt.metaitem.02.32251.tooltip=Into the Oven with it!
+    S:gt.metaitem.02.32252.name=Raw Mince Meat Pizza
+    S:gt.metaitem.02.32252.tooltip=Into the Oven with it!
+    S:gt.metaitem.02.32260.name=Veggie Pizza
+    S:gt.metaitem.02.32260.tooltip=The next they want is Gluten Free Pizzas...
+    S:gt.metaitem.02.32261.name=Cheese Pizza
+    S:gt.metaitem.02.32261.tooltip=Pizza Magarita
+    S:gt.metaitem.02.32262.name=Mince Meat Pizza
+    S:gt.metaitem.02.32262.tooltip=Emo Pizza, it cuts itself!
     S:gt.metaitem.02.323.name=附魔金剑刃
     S:gt.metaitem.02.323.tooltip=
     S:gt.metaitem.02.324.name=硅岩金属剑刃
     S:gt.metaitem.02.324.tooltip=Nq
     S:gt.metaitem.02.32410.name=靛蓝染料
     S:gt.metaitem.02.32410.tooltip=蓝色燃料
+    S:gt.metaitem.02.32414.name=Black Dye
+    S:gt.metaitem.02.32414.tooltip=
+    S:gt.metaitem.02.32415.name=Red Dye
+    S:gt.metaitem.02.32415.tooltip=
+    S:gt.metaitem.02.32416.name=Green Dye
+    S:gt.metaitem.02.32416.tooltip=
+    S:gt.metaitem.02.32417.name=Brown Dye
+    S:gt.metaitem.02.32417.tooltip=
+    S:gt.metaitem.02.32418.name=Blue Dye
+    S:gt.metaitem.02.32418.tooltip=
+    S:gt.metaitem.02.32419.name=Purple Dye
+    S:gt.metaitem.02.32419.tooltip=
+    S:gt.metaitem.02.32420.name=Cyan Dye
+    S:gt.metaitem.02.32420.tooltip=
+    S:gt.metaitem.02.32421.name=Light Gray Dye
+    S:gt.metaitem.02.32421.tooltip=
+    S:gt.metaitem.02.32422.name=Gray Dye
+    S:gt.metaitem.02.32422.tooltip=
+    S:gt.metaitem.02.32423.name=Pink Dye
+    S:gt.metaitem.02.32423.tooltip=
+    S:gt.metaitem.02.32424.name=Lime Dye
+    S:gt.metaitem.02.32424.tooltip=
+    S:gt.metaitem.02.32425.name=Yellow Dye
+    S:gt.metaitem.02.32425.tooltip=
+    S:gt.metaitem.02.32426.name=Light Blue Dye
+    S:gt.metaitem.02.32426.tooltip=
+    S:gt.metaitem.02.32427.name=Magenta Dye
+    S:gt.metaitem.02.32427.tooltip=
+    S:gt.metaitem.02.32428.name=Orange Dye
+    S:gt.metaitem.02.32428.tooltip=
+    S:gt.metaitem.02.32429.name=White Dye
+    S:gt.metaitem.02.32429.tooltip=
     S:gt.metaitem.02.32470.name=橡木木板
     S:gt.metaitem.02.32470.tooltip=可以当成覆盖版来用
     S:gt.metaitem.02.32471.name=云杉木板
@@ -18754,6 +18945,8 @@ languagefile {
     S:gt.metaitem.03.71.tooltip=Gd
     S:gt.metaitem.03.72.name=一箱铽粉末
     S:gt.metaitem.03.72.tooltip=Tb
+    S:gt.metaitem.03.728.name=Crate of Snow Powder
+    S:gt.metaitem.03.728.tooltip=H2O
     S:gt.metaitem.03.73.name=一箱镝粉末
     S:gt.metaitem.03.73.tooltip=Dy
     S:gt.metaitem.03.74.name=一箱钬粉末
@@ -19199,6 +19392,10 @@ languagefile {
     S:gt.metatool.01.44.tooltip=
     S:gt.metatool.01.45.name=搋子(空的)
     S:gt.metatool.01.45.tooltip=你要给它充电
+    S:gt.metatool.01.46.name=Rolling Pin
+    S:gt.metatool.01.46.tooltip=
+    S:gt.metatool.01.47.name=Rolling Pin (Empty)
+    S:gt.metatool.01.47.tooltip=You need to recharge it
     S:gt.metatool.01.5.name=铲(空的)
     S:gt.metatool.01.5.tooltip=你要给它充电
     S:gt.metatool.01.6.name=斧
@@ -19251,12 +19448,12 @@ languagefile {
     S:gt.recipe.plasmageneratorfuels=等离子发电机燃料
     S:gt.recipe.polarizer=电磁两极磁化器
     S:gt.recipe.press=冲压机床
+    S:gt.recipe.printer=Printer
     S:gt.recipe.rockbreaker=碎石机
     S:gt.recipe.scanner=扫描仪
     S:gt.recipe.semifluidboilerfuels=半流质锅炉燃料
     S:gt.recipe.sifter=筛滤机
-    S:gt.recipe.slicer=食材切片机
-    S:gt.recipe.slicer=食材切片机
+    S:gt.recipe.slicer=Slicer
     S:gt.recipe.smallnaquadahreactor=小型硅岩金属反应堆
     S:gt.recipe.thermalgeneratorfuel=热敏发电机燃料
     S:gt.recipe.unpackager=拆包器
