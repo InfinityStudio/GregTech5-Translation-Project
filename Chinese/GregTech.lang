@@ -1765,7 +1765,7 @@ languagefile {
     S:fluid.chlorine=氯
     S:fluid.creosote=木榴油
     S:fluid.deuterium=氘
-    S:fluid.dye.chemical.dye黑色=化工黑色染料
+    S:fluid.dye.chemical.dyeblack=化工黑色染料
     S:fluid.dye.chemical.dyeblue=化工蓝色染料
     S:fluid.dye.chemical.dyebrown=化工棕色染料
     S:fluid.dye.chemical.dyecyan=化工青色染料
@@ -1781,7 +1781,7 @@ languagefile {
     S:fluid.dye.chemical.dyered=化工红色染料
     S:fluid.dye.chemical.dyewhite=化工白色染料
     S:fluid.dye.chemical.dyeyellow=化工黄色染料
-    S:fluid.dye.watermixed.dye黑色=水合黑色染料
+    S:fluid.dye.watermixed.dyeblack=水合黑色染料
     S:fluid.dye.watermixed.dyeblue=水合蓝色染料
     S:fluid.dye.watermixed.dyebrown=水合棕色染料
     S:fluid.dye.watermixed.dyecyan=水合青色染料
