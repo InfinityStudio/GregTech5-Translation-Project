@@ -2091,7 +2091,7 @@ languagefile {
     S:fluid.potion.weakness.long=加长型虚弱药水
     S:fluid.potion.weakness.long.splash=加强溅射型虚弱药水
     S:fluid.potion.weakness.splash=溅射型虚弱药水
-    S:fluid.potion.wheatyhopsjuice=格瓦斯
+    S:fluid.potion.wheatyhopsjuice=啤酒花汁
     S:fluid.potion.wheatyjuice=小麦汁
     S:fluid.potion.wine=葡萄酒
     S:fluid.seedoil=种子油
@@ -11330,7 +11330,7 @@ languagefile {
     S:gt.metaitem.01.32711.tooltip=一个进阶的电路板
     S:gt.metaitem.01.32712.name=处理器电路板
     S:gt.metaitem.01.32712.tooltip=一个处理器电路板
-    S:gt.metaitem.01.32713.name=压印能量水晶芯片
+    S:gt.metaitem.01.32713.name=压印水晶芯片
     S:gt.metaitem.01.32713.tooltip=用于制作电路板
     S:gt.metaitem.01.32714.name=压印兰波顿水晶芯片
     S:gt.metaitem.01.32714.tooltip=用于制作电路板
