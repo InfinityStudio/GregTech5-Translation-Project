@@ -15,20 +15,20 @@ languagefile {
     S:"Book.Printer Manual V2.0.Page05"=现在你拿到了很多张书页,只需要把书页,一张皮革,和一些粘合剂放入组装机来进行装订,然后你将会得到一份和原来完全一样的副本,并且可以和母本堆叠在一起
     S:"Book.Printer Manual V2.0.Page06"=3.重命名物品:这个功能将不会是印刷机的功能.现在有一个命名模具来给物品重命名,只需要在铁砧重命名命名模具即可
     S:"Book.Printer Manual V2.0.Page07"=4.书，地图，命名牌或者其他的合成都被移到其他的机器,查询NEI寻找到他们
-    S:"Book.Punch Card Manual V0.0.Name"=Punch Card Manual V0.0
-    S:"Book.Punch Card Manual V0.0.Page00"=This Manual will explain the Functionality of the Punch Cards, once they are fully implemented. And no, they won't be like the IRL Punch Cards. This is just a current Idea Collection.
+    S:"Book.Punch Card Manual V0.0.Name"=穿孔卡片指南 V0.0
+    S:"Book.Punch Card Manual V0.0.Page00"=这本指南将会为你解释在穿孔卡片功能完成后，这个功能的用法。不，这并不是那些网上聊天室的打卡器，这目前只是一个想法的合集。
     S:"Book.Punch Card Manual V0.0.Page01"=(i1&&i2)?o1=15:o1=0;=10
-    S:"Book.Punch Card Manual V0.0.Page02"=ignore all whitespace Characters, use Long for saving the Numbers
+    S:"Book.Punch Card Manual V0.0.Page02"=无视所有空白字符，使用Long存储数值
     S:"Book.Punch Card Manual V0.0.Page03"=&& || ^^ & | ^ ! ++ -- + - % / // * ** << >> >>> < > <= >= == !=  ~ ( ) ?: , ; ;= ;=X; = i0 i1 i2 i3 i4 i5 o0 o1 o2 o3 o4 o5 v0 v1 v2 v3 v4 v5 v6 v7 v8 v9 m0 m1 m2 m3 m4 m5 m6 m7 m8 m9 A B C D E F
-    S:"Book.Punch Card Manual V0.0.Page04"='0' = false, 'everything but 0' = true, '!' turns '0' into '1' and everything else into '0'
-    S:"Book.Punch Card Manual V0.0.Page05"=',' is just a separator for multiple executed Codes in a row.
-    S:"Book.Punch Card Manual V0.0.Page06"=';' means that the Program waits until the next tick before continuing. ';=10' and ';=10;' both mean that it will wait 10 Ticks instead of 1. And ';=0' or anything < 0 will default to 0.
-    S:"Book.Punch Card Manual V0.0.Page07"=If the '=' Operator is used within Brackets, it returns the value the variable has been set to.
-    S:"Book.Punch Card Manual V0.0.Page08"=The Program saves the Char Index of the current Task, the 10 Variables (which reset to 0 as soon as the Program Loop stops), the 10 Member Variables and the remaining waiting Time in its NBT.
-    S:"Book.Punch Card Manual V0.0.Page09"=A = 10, B = 11, C = 12, D = 13, E = 14, F = 15, just for Hexadecimal Space saving, since redstone has only 4 Bits.
-    S:"Book.Punch Card Manual V0.0.Page10"=For implementing Loops you just need 1 Punch Card per Loop, these Cards can restart once they are finished, depending on how many other Cards there are in the Program Loop you inserted your Card into, since it will process them procedurally.
-    S:"Book.Punch Card Manual V0.0.Page11"=A Punch Card Processor can run up to four Loops, each with the length of seven Punch Cards, parallel.
-    S:"Book.Punch Card Manual V0.0.Page12"=Why does the Punch Card need Ink to be made, you ask? Because the empty one needs to have some lines on, and the for the punched one it prints the Code to execute in a human readable format on the Card.
+    S:"Book.Punch Card Manual V0.0.Page04"='0' = false, '除了0外的所有数' = true, '!' 将 '0' 变成 '1' 并将所有其他的数字变成 '0'
+    S:"Book.Punch Card Manual V0.0.Page05"=',' 为连续执行代码间的分隔符
+    S:"Book.Punch Card Manual V0.0.Page06"=';' 的意思是程序将会在下一个tick开始之后再继续执行';=10' 和 ';=10;' 都代表它们在执行之前会等待10个Tick 并且 ';=0' 或者任何 < 0 的数值都将默认计为 0
+    S:"Book.Punch Card Manual V0.0.Page07"=如果 '=' 符号在括号内被使用，它将会返回该变量被设定的值
+    S:"Book.Punch Card Manual V0.0.Page08"=程序将保存它目前任务的字符串变量，十个变量（将会在程序结束后重设为0）和十个成员变量的剩余时间将会存储在它们的NBT中
+    S:"Book.Punch Card Manual V0.0.Page09"=A = 10, B = 11, C = 12, D = 13, E = 14, F = 15 是为了存储16进制空间，原因是红石只有四个比特。
+    S:"Book.Punch Card Manual V0.0.Page10"=如果你需要内置循环，每个循环你只需要一个穿孔卡片，这些穿孔卡片能够在被执行完毕后立刻重新开始，当然，它们会根据你放入了多少个穿孔卡片来逐步完成整个程序。
+    S:"Book.Punch Card Manual V0.0.Page11"=一个穿孔卡片处理器能够最多运行四个循环，每次能够并行计算七个穿孔卡片
+    S:"Book.Punch Card Manual V0.0.Page12"=为什么穿孔卡片要墨水制作？因为空的穿孔卡片上面总得画些线啊，而已经穿孔的卡片会在自身上印出能够使人类看懂的内容。
     S:TileEntity_DESCRIPTION_1000_Index_0=工业高炉中央控制器
     S:TileEntity_DESCRIPTION_1000_Index_1=大小:3长3宽4高(中空)
     S:TileEntity_DESCRIPTION_1000_Index_2=控制器位置(底部中间位置)
