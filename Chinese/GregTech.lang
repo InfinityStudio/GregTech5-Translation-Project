@@ -19448,6 +19448,7 @@ languagefile {
     S:gt.recipe.plasmageneratorfuels=等离子发电机燃料
     S:gt.recipe.polarizer=电磁两极磁化器
     S:gt.recipe.press=冲压机床
+    S:gt.recipe.rockbreaker=碎石机
     S:gt.recipe.printer=印刷机
     S:gt.recipe.scanner=扫描仪
     S:gt.recipe.semifluidboilerfuels=半流质锅炉燃料
