@@ -2180,11 +2180,11 @@ languagefile {
     S:gt.blockcasings2.1.name=低温隔热外壳
     S:gt.blockcasings2.10.name=泵外壳
     S:gt.blockcasings2.11.name=马达外壳
-    S:gt.blockcasings2.12.name=黄铜泵外壳
+    S:gt.blockcasings2.12.name=青铜泵外壳
     S:gt.blockcasings2.13.name=钢泵外壳
     S:gt.blockcasings2.14.name=钛泵外壳
     S:gt.blockcasings2.15.name=钨钢泵外壳
-    S:gt.blockcasings2.2.name=黄铜齿轮盒
+    S:gt.blockcasings2.2.name=青铜齿轮盒
     S:gt.blockcasings2.3.name=钢齿轮盒
     S:gt.blockcasings2.32767.name=这个方块的任何一个组成方块
     S:gt.blockcasings2.4.name=钛齿轮盒
@@ -2198,7 +2198,7 @@ languagefile {
     S:gt.blockcasings3.10.name=格栅方块
     S:gt.blockcasings3.11.name=通气管方块
     S:gt.blockcasings3.12.name=防辐射方块
-    S:gt.blockcasings3.13.name=黄铜炉膛方块
+    S:gt.blockcasings3.13.name=青铜炉膛方块
     S:gt.blockcasings3.14.name=钢制炉膛方块
     S:gt.blockcasings3.15.name=钨钢制炉膛方块
     S:gt.blockcasings3.2.name=辐射警示标志
@@ -2582,7 +2582,7 @@ languagefile {
     S:gt.blockmachines.boiler.solar.name=简易太阳能锅炉
     S:gt.blockmachines.boiler.steel.name=高压燃煤锅炉
     S:gt.blockmachines.bronzemachine.alloysmelter.name=蒸汽合金炉
-    S:gt.blockmachines.bronzemachine.blastfurnace.name=黄铜高炉
+    S:gt.blockmachines.bronzemachine.blastfurnace.name=青铜高炉
     S:gt.blockmachines.bronzemachine.compressor.name=蒸汽压缩器
     S:gt.blockmachines.bronzemachine.extractor.name=蒸汽提取机
     S:gt.blockmachines.bronzemachine.furnace.name=蒸汽炉
@@ -2974,8 +2974,8 @@ languagefile {
     S:gt.blockmachines.hatch.output_bus.tier.07.name=输出总线方块
     S:gt.blockmachines.hatch.output_bus.tier.08.name=输出总线方块
     S:gt.blockmachines.hatch.output_bus.tier.09.name=输出总线方块
-    S:gt.blockmachines.hull.bronze.name=黄铜外壳
-    S:gt.blockmachines.hull.bronze_bricked.name=砖砌黄铜外壳
+    S:gt.blockmachines.hull.bronze.name=青铜外壳
+    S:gt.blockmachines.hull.bronze_bricked.name=砖砌青铜外壳
     S:gt.blockmachines.hull.steel.name=钢外壳
     S:gt.blockmachines.hull.steel_bricked.name=砖砌钢外壳
     S:gt.blockmachines.hull.tier.00.name=超低压机械外壳
@@ -2999,7 +2999,7 @@ languagefile {
     S:gt.blockmachines.locker.tier.08.name=高级能源驱动充电箱
     S:gt.blockmachines.locker.tier.09.name=顶级能源驱动充电箱
     S:gt.blockmachines.multimachine.blastfurnace.name=工业高炉
-    S:gt.blockmachines.multimachine.boiler.bronze.name=大型黄铜锅炉
+    S:gt.blockmachines.multimachine.boiler.bronze.name=大型青铜锅炉
     S:gt.blockmachines.multimachine.boiler.steel.name=大型钢制锅炉
     S:gt.blockmachines.multimachine.boiler.titanium.name=大型钛制锅炉
     S:gt.blockmachines.multimachine.boiler.tungstensteel.name=巨型钨钢锅炉
