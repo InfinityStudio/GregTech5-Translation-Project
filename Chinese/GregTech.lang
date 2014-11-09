@@ -19430,7 +19430,7 @@ languagefile {
     S:gt.recipe.fermenter=发酵器
     S:gt.recipe.fluidcanner=液体灌装机
     S:gt.recipe.fluidextractor=液体提取器
-    S:gt.recipe.fluidheater=Fluid Heater
+    S:gt.recipe.fluidheater=液体加热器    
     S:gt.recipe.fluidnaquadahreactor=液态硅岩金属反应堆
     S:gt.recipe.fluidsolidifier=液体固化器
     S:gt.recipe.fusionreactor=核聚变
