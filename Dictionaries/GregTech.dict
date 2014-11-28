@@ -1,0 +1,9 @@
+Plage-->板
+Ingot-->锭
+Ore-->矿石
+Dust-->粉末
+Tiny Pile of-->很小一撮
+Small Pile of -->一小撮
+Small(?=.{0,512}Ore)-->贫瘠的
+(?<=Small.{0,512})Ore-->矿石
+# -->
