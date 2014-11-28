@@ -5,5 +5,75 @@ Dust-->粉末
 Tiny Pile of-->很小一撮
 Small Pile of -->一小撮
 Small(?=.{0,512}Ore)-->贫瘠的
+Hydrogen-->氢
+Carbon-->碳
+Plutonium 244-->钚-244
+Deuterium-->氘
+Tritium-->氚
+Helium-->氦
+Helium-3-->氦-3
+Lithium-->锂
+Beryllium-->铍矿石
+Boron-->硼
+Plutonium 241-->钚-241
+Nitrogen-->氮
+Oxygen-->氧
+Fluorine-->氟
+Sodium-->钠
+Magnesium-->镁
+Aluminium-->铝
+Silicon-->硅
+Phosphor-->磷
+Sulfur-->硫
+Chlorine-->氯
+Argon-->氩
+Potassium-->钾
+Calcium-->钙
+Scandium-->钪
+Titanium-->钛
+Vanadium-->钒
+Americium-->镅
+Chrome-->铬
+Manganese-->锰
+Iron-->铁
+Cobalt-->钴
+Nickel-->镍
+Copper-->铜
+Zinc-->锌
+Gallium-->镓
+Arsenic-->砷
+Rubidium-->铷
+Strontium-->锶
+Yttrium-->钇
+Niobium-->铌
+Molybdenum-->钼
+Palladium-->钯
+Silver-->银
+Cadmium-->镉
+Indium-->铟
+Tin-->锡
+Antimony-->锑
+Tellurium-->碲
+Caesium-->铯
+Barium
+Lanthanum
+Cerium
+Praseodymium
+Neodymium
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 (?<=Small.{0,512})Ore-->矿石
-# -->
+ -->
