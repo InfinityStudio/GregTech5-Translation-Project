@@ -1,20 +1,32 @@
-Max-->最大
-Voltage-->电压
-Amperage-->电流
+#Items
 Plage-->板
 Ingot-->锭
-Soldering Alloy-->焊锡
 Alloy-->合金
+Soldering Alloy-->焊锡
 Ore-->矿石
 Dust-->粉末
 Wire-->线缆(未绝缘)
 Frame Box-->框架
 Cable-->线缆
-Loss/Meter/Ampere-->损耗
+Stone-->石头
+
+#Abscract
+Max-->最大
+Voltage-->电压
+Amperage-->电流
 FuelEfficiency-->燃烧效率
+Loss/Meter/Ampere-->损耗
+
+#Describe
 Tiny Pile of-->很小一撮
 Small Pile of -->一小撮
 Small(?=.{0,512}Ore)-->贫瘠的
+Stainless -->不锈
+Red-->红色
+Blue-->蓝色
+Yellow-->黄色
+
+#Elements
 Hydrogen-->氢
 Carbon-->碳
 Plutonium 244-->钚-244
@@ -95,7 +107,6 @@ Thorium-->钍
 Uranium 235-->铀-235
 Uranium 238-->铀-238
 Neutronium-->中子元素
-Stone-->石头
 Bronze-->青铜
 Brass-->黄铜
 Invar-->因瓦合金
@@ -103,29 +114,10 @@ Electrum-->琥珀金
 Pig-->生
 Wrought-->熟
 Steel-->钢
-steel-->钢
-Stainless -->不锈
-Red-->红色
-Blue-->蓝色
 Cupronickel-->白铜
 Nichrome-->镍铬
 Kanthal-->坝塔尔
 Magnalium-->镁铝
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(?<=Small.{0,512})Ore-->矿石
+#Remove empty space
  -->
