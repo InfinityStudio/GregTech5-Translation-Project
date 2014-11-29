@@ -1,7 +1,17 @@
+Max-->最大
+Voltage-->电压
+Amperage-->电流
 Plage-->板
 Ingot-->锭
+Soldering Alloy-->焊锡
+Alloy-->合金
 Ore-->矿石
 Dust-->粉末
+Wire-->线缆(未绝缘)
+Frame Box-->框架
+Cable-->线缆
+Loss/Meter/Ampere-->损耗
+FuelEfficiency-->燃烧效率
 Tiny Pile of-->很小一撮
 Small Pile of -->一小撮
 Small(?=.{0,512}Ore)-->贫瘠的
@@ -13,7 +23,7 @@ Tritium-->氚
 Helium-->氦
 Helium-3-->氦-3
 Lithium-->锂
-Beryllium-->铍矿石
+Beryllium-->铍
 Boron-->硼
 Plutonium 241-->钚-241
 Nitrogen-->氮
@@ -55,11 +65,53 @@ Tin-->锡
 Antimony-->锑
 Tellurium-->碲
 Caesium-->铯
-Barium
-Lanthanum
-Cerium
-Praseodymium
-Neodymium
+Barium-->钡
+Lanthanum-->镧
+Cerium-->铈
+Praseodymium-->镨
+Neodymium-->钕
+Promethium-->钷
+Samarium-->钐
+Europium-->铕
+Gadolinium-->钆
+Terbium-->铽
+Dysprosium-->镝
+Holmium-->钬
+Erbium-->铒
+Thulium-->铥
+Ytterbium-->镱
+Lutetium-->镏
+Tantalum-->钽
+Tungsten-->钨
+Osmium-->锇
+Iridium-->铱
+Platinum-->铂
+Gold-->金
+Mercury-->汞
+Lead-->铅
+Bismuth-->铋
+Radon-->氡
+Thorium-->钍
+Uranium 235-->铀-235
+Uranium 238-->铀-238
+Neutronium-->中子元素
+Stone-->石头
+Bronze-->青铜
+Brass-->黄铜
+Invar-->因瓦合金
+Electrum-->琥珀金
+Pig-->生
+Wrought-->熟
+Steel-->钢
+steel-->钢
+Stainless -->不锈
+Red-->红色
+Blue-->蓝色
+Cupronickel-->白铜
+Nichrome-->镍铬
+Kanthal-->坝塔尔
+Magnalium-->镁铝
+
 
 
 
